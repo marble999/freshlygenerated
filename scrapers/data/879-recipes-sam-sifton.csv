@@ -1,0 +1,880 @@
+,Name,Author,Image URL
+0,Fettuccine With Ricotta and a Fistful of Mint,Sam Sifton,https://static01.nyt.com/images/2019/02/17/dining/17norecipe-fettuccine/merlin_147764622_e8fdd236-fcf7-49d6-b21c-2468457e1c22-mediumThreeByTwo252.jpg
+1,Pasta With Sausage and Parm,Sam Sifton,https://static01.nyt.com/images/2019/02/17/dining/17norecipe-orecchiette/merlin_147768564_609465d0-01b5-44f7-b1be-61dca4756772-mediumThreeByTwo252.jpg
+2,New Mexican Hot Dish,Sam Sifton,https://static01.nyt.com/images/2019/02/17/dining/17NORECIPE-BEEF-ENCHILADAS/merlin_147762108_51b0b888-c346-4824-8c69-59bb56b7db62-mediumThreeByTwo252.jpg
+3,Speedy Fish Chowder,Sam Sifton,https://static01.nyt.com/images/2019/02/17/dining/17norecipe-speedyfish/merlin_147770463_47a2882a-a600-46da-8ae6-0f4cca7413fc-mediumThreeByTwo252.jpg
+4,Weeknight Fried Rice,Sam Sifton,https://static01.nyt.com/images/2019/02/17/dining/17NORECIPE-FRIED-RICE/merlin_147770727_1e7a6718-529c-42b7-91b8-57d7c43c4f6d-mediumThreeByTwo252.jpg
+5,Tofu With Peanut-Ginger Sauce,Martha Rose Shulman,https://static01.nyt.com/images/2012/07/31/science/31recipehealth/31recipehealth-videoSixteenByNine310.jpg
+6,Tamagoyaki (Japanese Rolled Omelet),Kiera Wright-Ruiz,https://static01.nyt.com/images/2019/07/16/dining/kwr-tamagoyaki/kwr-tamagoyaki-mediumThreeByTwo252.jpg
+7,Best Gazpacho,Julia Moskin,https://static01.nyt.com/images/2019/07/06/dining/jm-best-gazpacho/jm-best-gazpacho-mediumThreeByTwo252.jpg
+8,"Cheddar, Cucumber and Marmalade Sandwiches",Melissa Clark,https://static01.nyt.com/images/2014/07/21/dining/cucumber-still/cucumber-still-videoSixteenByNine310.jpg
+9,General Tso’s Tofu Sub,Elaine Louie,https://static01.nyt.com/images/2014/05/13/dining/General-Tsos-Tofu-Sub/General-Tsos-Tofu-Sub-mediumThreeByTwo252-v3.jpg
+10,Eli Zabar’s Egg Salad Sandwich,Elaine Louie,https://static01.nyt.com/images/2016/03/21/dining/21COOKING_EGGSALADSAN1/21COOKING_EGGSALADSAN1-mediumThreeByTwo252.jpg
+11,Maangchi’s Cheese Buldak (Fire Chicken),Sam Sifton,https://static01.nyt.com/images/2019/07/28/dining/28mag-eat/28mag-eat-mediumThreeByTwo252.jpg
+12,Classic Chicken Schnitzel With Smashed Cucumbers,Sarah Copeland,https://static01.nyt.com/images/2018/09/16/dining/sc-schnitzel/sc-schnitzel-mediumThreeByTwo252.jpg
+13,Scarlett’s Tuna Salad,Tejal Rao,https://static01.nyt.com/images/2018/07/22/magazine/22mag-Eat-image1/22mag-Eat-image1-mediumThreeByTwo252.jpg
+14,Seared Scallop Pasta With Burst Tomatoes and Herbs,Colu Henry,https://static01.nyt.com/images/2019/02/04/dining/ch-pasta-with-scallops-tomatoes-and-herbs/merlin_149536239_0aa05c95-efc8-4938-a0d4-77cea46458b6-mediumThreeByTwo252.jpg
+15,Spumoni Ice Cream Cake,Ali Slagle,https://static01.nyt.com/images/2019/07/22/dining/as-spumoni-ice-cream-cake/merlin_158023122_3d451d2c-295a-4dfb-ab52-4e9bd158225f-mediumThreeByTwo252.jpg
+16,Tomato and Peach Salad With Whipped Goat Cheese,Alexa Weibel,https://static01.nyt.com/images/2019/07/22/dining/aw-tomato-and-peach-salad-with-whipped-goat-cheese/merlin_157887927_dd555ee7-3af4-4efc-b3aa-dff8cbaba8bf-mediumThreeByTwo252.jpg
+17,Skillet Chicken With White Beans and Caramelized Lemon,Alison Roman,https://static01.nyt.com/images/2018/07/25/dining/25Roman6-copy/25Roman6-copy-mediumThreeByTwo252-v2.jpg
+18,Beef and Broccoli,Sam Sifton,https://static01.nyt.com/images/2018/04/08/magazine/08mag-eat1/08mag-eat1-mediumThreeByTwo252.jpg
+19,Fish Pepper Soup,Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex2/merlin_156459951_f6f49a89-bd53-4948-bda0-a51a817898fd-mediumThreeByTwo252.jpg
+20,Dodo (Fried Plantains),Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex6/24Nigerianrex6-mediumThreeByTwo252.jpg
+21,Efo Riro (Stewed Amaranth Greens),Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex5/merlin_156460131_f61465f7-598a-45ac-8df1-63eac1cc19f8-mediumThreeByTwo252.jpg
+22,Braised Goat Leg in Obe Ata,Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex4/merlin_156696663_fe8c024d-6871-46b0-b732-333ee978a62e-mediumThreeByTwo252.jpg
+23,Beef Suya,Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex3/merlin_156460098_adba29d1-120c-498c-b605-3d26da31afda-mediumThreeByTwo252.jpg
+24,Jollof Rice,Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex1/merlin_156459840_f874ce2c-2a73-4c58-b4e4-15cf91169bbb-mediumThreeByTwo252.jpg
+25,Puff Puff,Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex11/merlin_156460035_2fc9b7f7-a6a5-4ead-8ff7-177d150e5ebc-mediumThreeByTwo252.jpg
+26,Agege Bread,Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex9/merlin_156460023_a8fc5107-39cf-41c5-99f1-001727ca100a-mediumThreeByTwo252.jpg
+27,Crispy Yam Fries,Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex8/24Nigerianrex8-mediumThreeByTwo252.jpg
+28,Frejon (Beans in Coconut Milk),Yewande Komolafe,https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex7/merlin_156460119_aad69999-093c-4b01-ac8f-72da4602aac1-mediumThreeByTwo252.jpg
+29,Double Apple Pie,Melissa Clark,https://static01.nyt.com/images/2015/10/29/dining/29COOKING-APPLEPIE2/29COOKING-APPLEPIE2-mediumThreeByTwo252.jpg
+30,Twice-Baked Sour Cherry Pie,Melissa Clark,https://static01.nyt.com/images/2014/06/17/dining/cherrypie-still/cherrypie-still-videoSixteenByNine310.jpg
+31,Nectarine Tart,Florence Fabricant,https://static01.nyt.com/images/2012/08/22/dining/22PIE/22PIE-videoSixteenByNine310.jpg
+32,Raspberry Hazelnut Tart,Martha Rose Shulman,https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PASTRY2-videoSixteenByNine310-v2.jpg
+33,Pan Pizza,Sam Sifton,https://static01.nyt.com/images/2018/06/03/magazine/03Eat1/03Eat1-mediumThreeByTwo252-v2.jpg
+34,Four-Spice Salmon,Mark Bittman,https://static01.nyt.com/images/2017/12/13/dining/13COOKING-4SPICE-SALMON1/13COOKING-4SPICE-SALMON1-mediumThreeByTwo252.jpg
+35,Almost Aunt Sandy’s Sweet and Sour Salmon,Melissa Clark,https://static01.nyt.com/images/2014/06/06/dining/Sweet-and-Sour-Salmon/Sweet-and-Sour-Salmon-videoSixteenByNine310.jpg
+36,"Salmon With Thyme, Lemon Butter and Almonds",Nigella Lawson,https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-videoSixteenByNine310.jpg
+37,"Pan-Seared Salmon With Celery, Olives and Capers",Yotam Ottolenghi,https://static01.nyt.com/images/2018/02/21/dining/21ottorex2-sub2/merlin_134069309_38e6430a-a61e-49a9-b17d-73babca937bf-mediumThreeByTwo252.jpg
+38,"Noodle Bowl With Mushrooms, Spinach and Salmon",Martha Rose Shulman,https://static01.nyt.com/images/2013/06/04/science/05recipehealth/05recipehealth-tmagSF.jpg
+39,Salty-Sweet Salmon With Ginger and Spicy Cucumber Salad,Amanda Hesser,https://static01.nyt.com/images/2018/02/07/dining/07COOKING-SALMON-GINGER/07COOKING-SALMON-GINGER-mediumThreeByTwo252-v2.jpg
+40,Oven-Steamed Salmon,Kim Severson,https://static01.nyt.com/images/2018/11/15/dining/oven-steamed-salmon/merlin_145792986_3ea4c3b9-784d-4bdf-9c0e-40d5ddf6ce0a-mediumThreeByTwo252.jpg
+41,Salmon and Tomatoes in Foil,Mark Bittman,https://static01.nyt.com/images/2019/04/16/dining/mb-salmon-and-tomatoes-in-foil/merlin_151791966_abb05c69-bdb1-46ee-9bf3-92205387ec0c-mediumThreeByTwo252.jpg
+42,Salmon With Yogurt-Curry Sauce,Mark Bittman,https://static01.nyt.com/images/2016/12/19/dining/19COOKING-SALMONCURRY1/19COOKING-SALMONCURRY1-mediumThreeByTwo252-v3.jpg
+43,Fettuccine With Asparagus and Smoked Salmon,Florence Fabricant,https://static01.nyt.com/images/2014/05/12/dining/Fettuccine-With-Asparagus-And-Smoked-Salmon/Fettuccine-With-Asparagus-And-Smoked-Salmon-videoSixteenByNine310.jpg
+44,Cumin-Roasted Salmon With Cilantro Sauce,Alison Roman,https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-horizontal/roman-salmon-horizontal-mediumThreeByTwo252.jpg
+45,Salmon With Smoked Salmon Butter,Florence Fabricant,https://static01.nyt.com/images/2016/04/13/dining/13PAIRING/13PAIRING-mediumThreeByTwo252.jpg
+46,Salmon Roasted in Butter,Mark Bittman,https://static01.nyt.com/images/2015/08/14/dining/14ROASTEDSALMON/14ROASTEDSALMON-mediumThreeByTwo252.jpg
+47,Salmon With Sesame and Herbs,Alison Roman,https://static01.nyt.com/images/2018/08/02/dining/salmon-sesame-herbs/salmon-sesame-herbs-mediumThreeByTwo252.jpg
+48,"Provençal Salmon With Fennel, Rosemary and Orange Zest",Mark Bittman,https://static01.nyt.com/images/2018/11/21/dining/provencal-salmon/provencal-salmon-mediumThreeByTwo252.jpg
+49,Salmon en Papillote (Salmon in Parchment),Florence Fabricant,https://static01.nyt.com/images/2015/12/29/dining/29salmon-19/29salmon-19-mediumThreeByTwo252.jpg
+50,Salmon With Anchovy-Garlic Butter,Melissa Clark,https://static01.nyt.com/images/2017/09/03/insider/clark-oven-salmon/clark-oven-salmon-videoSixteenByNine310-v2.jpg
+51,Sautéed Salmon With Leeks and Tomatoes,Pierre Franey,https://static01.nyt.com/images/2018/11/21/dining/salmon-with-leeks-and-tomato/salmon-with-leeks-and-tomato-mediumThreeByTwo252.jpg
+52,Tea-Soaked Drunken Chicken With Cilantro-Scallion Oil,Kay Chun,https://static01.nyt.com/images/2018/08/22/dining/drunken-chicken/drunken-chicken-mediumThreeByTwo252-v2.jpg
+53,Vietnamese-Style Chicken With Fragrant Rice Noodles,Kay Chun,https://static01.nyt.com/images/2018/08/22/dining/nuac-cham/nuac-cham-mediumThreeByTwo252-v2.jpg
+54,Roast Chicken With Apricot Glaze,Priya Krishna,https://static01.nyt.com/images/2018/09/05/dining/05fanyrex2/05fanyrex2-mediumThreeByTwo252.jpg
+55,Oyakodon (Japanese Chicken and Egg Rice Bowl),Hannah Kirshner,https://static01.nyt.com/images/2018/07/18/dining/hannah-oyakodon-horizontal/merlin_141075420_edfc0f4f-ba70-4542-a881-085a9dc162b9-mediumThreeByTwo252.jpg
+56,Slab-Bacon Tacos With Burned-Scallion Crema,Sam Sifton,https://static01.nyt.com/images/2017/10/26/dining/26cooking-tacos/26cooking-tacos-mediumThreeByTwo252.jpg
+57,The Greenest Green Salad,Samin Nosrat,https://static01.nyt.com/images/2018/04/29/magazine/29mag-eat1/29mag-eat1-mediumThreeByTwo252.jpg
+58,Wedge Salad,Sam Sifton,https://static01.nyt.com/images/2018/07/08/magazine/08mag-eat-image1/08mag-eat-image1-mediumThreeByTwo252-v2.png
+59,Italian Sausage Sandwiches,Melissa Clark,https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SAUSAGESANDWICH1/17COOKING-SAUSAGESANDWICH1-mediumThreeByTwo252.jpg
+60,Garlicky Chicken Thighs With Scallion and Lime,Alison Roman,https://static01.nyt.com/images/2018/10/24/dining/ar-chicken-scallions-lime/merlin_145231437_0eb34433-46b7-49a8-85f9-b8c1260db84c-mediumThreeByTwo252.jpg
+61,Grilled Chicken Parm,Sam Sifton,https://static01.nyt.com/images/2016/06/26/magazine/26eat/26mag-26eat-t_CA0-mediumThreeByTwo252.jpg
+62,Sauce Gribiche,Gabrielle Hamilton,https://static01.nyt.com/images/2017/07/16/magazine/16eat2/16eat2-mediumThreeByTwo252-v3.jpg
+63,Pineapple Salsa,Sam Sifton,https://static01.nyt.com/images/2017/10/26/dining/26cooking-salsa/26cooking-salsa-mediumThreeByTwo252.jpg
+64,Burned-Scallion Crema,Sam Sifton,https://static01.nyt.com/images/2017/10/26/dining/26cooking-crema/26cooking-crema-mediumThreeByTwo252.jpg
+65,Platanos Maduros (Fried Yellow Plantains),Daisann Mclane,https://int.nyt.com/applications/cooking/65b272d/assets/28.png?1
+66,Flaky Chicken Hand Pies,David Tanis,https://static01.nyt.com/images/2018/02/21/dining/21Kitchen1/merlin_133154091_58e321a2-c262-495f-a779-c70f54613778-mediumThreeByTwo252.jpg
+67,Coconut Rice,Tejal Rao,https://static01.nyt.com/images/2018/02/21/dining/00RICEGUIDE9/00RICEGUIDE9-mediumThreeByTwo252.jpg
+68,Basic Stovetop Rice,Tejal Rao,https://static01.nyt.com/images/2018/02/21/dining/00RICEGUIDE8/00RICEGUIDE8-mediumThreeByTwo252.jpg
+69,Robb Walsh's Chili Powder,The New York Times,https://static01.nyt.com/images/2018/03/06/dining/06CHILI-POWDER/06CHILI-mediumThreeByTwo252.jpg
+70,Sesame Chicken With Cashews and Dates,Melissa Clark,https://static01.nyt.com/images/2018/03/15/dining/15COOKING-STIRFRYCHICK1/15COOKING-STIRFRYCHICK1-mediumThreeByTwo252.jpg
+71,Oxtail Stew in Peanut Sauce (Kare-Kare),Ligaya Mishan,https://static01.nyt.com/images/2018/03/14/dining/14filipinorex2/14filipinorex2-mediumThreeByTwo252.jpg
+72,Toll House Chocolate Chip Cookies,The New York Times,https://static01.nyt.com/images/2019/02/24/dining/tollhouse-cookies/merlin_150672999_92f7eb0d-5f5c-4fe0-baa4-8935414e67d2-mediumThreeByTwo252.jpg
+73,A Perfect Hard-Boiled Egg,Julia Moskin,https://static01.nyt.com/images/2015/12/29/dining/29EGG3/29EGG3-mediumThreeByTwo252-v2.jpg
+74,Baked Ziti,Alison Roman,https://static01.nyt.com/images/2018/11/20/dining/ar-baked-ziti/ar-baked-ziti-mediumThreeByTwo252.jpg
+75,Lucali Salad,Sam Sifton,https://static01.nyt.com/images/2018/03/04/magazine/04mag-eat1/04mag-eat1-mediumThreeByTwo252.jpg
+76,Herbed Garlic Bread,Samin Nosrat,https://static01.nyt.com/images/2017/10/01/magazine/01eat1/01eat1-mediumThreeByTwo252.jpg
+77,Pork Cutlets Parmigiana,Pierre Franey,https://static01.nyt.com/images/2017/01/20/dining/20COOKING-PORKCUTLETS-PARMIGIANA1/20COOKING-PORKCUTLETS-PARMIGIANA1-mediumThreeByTwo252.jpg
+78,Pan-Roasted Salmon With Jalapeño,Sam Sifton,https://static01.nyt.com/images/2017/07/09/magazine/09eat/09eat-mediumThreeByTwo252-v3.jpg
+79,Chili Lobster With Texas Toast,Sam Sifton,https://static01.nyt.com/images/2014/04/02/dining/Chili-Lobster-With-Texas-Toast/Chili-Lobster-With-Texas-Toast-videoSixteenByNine310.jpg
+80,Crab Cakes Baltimore-Style,Pierre Franey,https://static01.nyt.com/images/2016/05/03/dining/03COOKING-CRABCAKES2/03COOKING-CRABCAKES2-mediumThreeByTwo252.jpg
+81,Chicken Marengo ,Pierre Franey,https://static01.nyt.com/images/2017/07/19/dining/19COOKING-CHICKEN2/19COOKING-CHICKEN2-mediumThreeByTwo252.jpg
+82,Classic Cheesecake,Alison Roman,https://static01.nyt.com/images/2017/12/20/dining/20COOKING-NYCHEESECAKE2/20COOKING-NYCHEESECAKE2-mediumThreeByTwo252.jpg
+83,Braised Chinese-Style Fish,Florence Fabricant,https://int.nyt.com/applications/cooking/304d802/assets/28.png?1
+84,Risotto With Sausage and Parsley,Sam Sifton,https://static01.nyt.com/images/2018/01/21/magazine/21mag-eat1/21mag-21eat-t_CA0-mediumThreeByTwo252.jpg
+85,Cast-Iron Sourdough Pancakes,Tejal Rao,https://static01.nyt.com/images/2017/03/19/magazine/19eat1/19eat1-mediumThreeByTwo252.jpg
+86,Best Black Bean Soup,Julia Moskin,https://static01.nyt.com/images/2017/02/28/dining/1702anSoupNYT191/1702anSoupNYT191-mediumThreeByTwo252.jpg
+87,Baked Chicken Tenders,Alison Roman,https://static01.nyt.com/images/2017/02/28/dining/28COOKING-CHICKENTENDERS2/28COOKING-CHICKENTENDERS2-mediumThreeByTwo252.jpg
+88,"Blueberry, Almond and Lemon Cake",Yotam Ottolenghi,https://static01.nyt.com/images/2019/08/07/dining/yo-blueberry-almond-lemon-cake/merlin_158598102_10e85156-2033-41b1-9374-46521e2f5eec-mediumThreeByTwo252.jpg
+89,Sheet-Pan Spicy Roasted Broccoli Pasta,Melissa Clark,https://static01.nyt.com/images/2017/02/22/dining/22APPE1/22APPE1-mediumThreeByTwo252.jpg
+90,Jamie Oliver’s Chicken in Milk,,https://static01.nyt.com/images/2017/04/23/magazine/23eat/23eat-mediumThreeByTwo252-v2.jpg
+91,Big Salad With Grains,Julia Moskin,https://static01.nyt.com/images/2017/05/09/dining/09SALADGUIDE9/09SALADGUIDE9-mediumThreeByTwo252.jpg
+92,Baked Rice With Chicken and Mushrooms,David Tanis,https://static01.nyt.com/images/2017/01/25/dining/25KITCHEN1/25KITCHEN1-mediumThreeByTwo252.jpg
+93,Giant Crinkled Chocolate Chip Cookies,Julia Moskin,https://static01.nyt.com/images/2017/10/04/dining/04Cookie/04Cookie-mediumThreeByTwo252.jpg
+94,"Pan-Roasted Cauliflower With Garlic, Parsley and Rosemary",David Tanis,https://static01.nyt.com/images/2017/01/18/dining/18KITCHEN-1/18KITCHEN-1-mediumThreeByTwo252.jpg
+95,Slow-Cooker Butter Chicken,Jennifer Steinhauer,https://static01.nyt.com/images/2017/07/12/multimedia/12crowdrex-copy/12crowdrex-mediumThreeByTwo252.jpg
+96,Lemon-Spice Visiting Cake,Dorie Greenspan,https://static01.nyt.com/images/2017/10/08/magazine/08ondessert/08ondessert-mediumThreeByTwo252-v2.jpg
+97,Broiled Fish With Lemon Curry Butter,Melissa Clark,https://static01.nyt.com/images/2017/03/25/dining/15APPE3/15APPE3-mediumThreeByTwo252.jpg
+98,Pressure Cooker Spicy Pork Shoulder,Melissa Clark,https://static01.nyt.com/images/2017/02/01/dining/01APPE1-1485571587076/01APPE1-1485571587076-mediumThreeByTwo252.jpg
+99,Herb and Radish Salad With Feta and Walnuts,Samin Nosrat,https://static01.nyt.com/images/2017/03/15/dining/15NOWRUZ5/15NOWRUZ5-mediumThreeByTwo252.jpg
+100,World’s Best Chocolate Cake,Yotam Ottolenghi,https://static01.nyt.com/images/2017/09/20/dining/20BAKE6/20BAKE6-mediumThreeByTwo252.jpg
+101,Sheet-Pan Tarragon Chicken With Sherry Vinegar Onions,Melissa Clark,https://static01.nyt.com/images/2017/05/03/dining/03APPE1/03APPE1-mediumThreeByTwo252.jpg
+102,Grilled Soy-Basted Chicken Thighs With Spicy Cashews,Sam Sifton,https://static01.nyt.com/images/2017/06/14/dining/24GRILLS4/14GRILLS4-mediumThreeByTwo252.jpg
+103,Eggs Benedict,Alison Roman,https://static01.nyt.com/images/2018/11/21/dining/ar-eggs-benedict/ar-eggs-benedict-mediumThreeByTwo252.jpg
+104,Kerala Roadside Chicken,Kim Severson,https://static01.nyt.com/images/2017/06/07/dining/07INDIAjp7/07INDIAjp7-mediumThreeByTwo252.jpg
+105,Baked Brie,Melissa Clark,https://static01.nyt.com/images/2018/05/06/dining/25COOKING-BAKEDBRIE1/25COOKING-BAKEDBRIE1-mediumThreeByTwo252.jpg
+106,Mushrooms on Toast,David Tanis,https://static01.nyt.com/images/2017/04/12/dining/12KITCHEN1/12KITCHEN1-mediumThreeByTwo252.jpg
+107,Kuku Paka (Chicken With Coconut),Tejal Rao,https://static01.nyt.com/images/2017/06/21/dining/21KENYA1/21KENYA1-mediumThreeByTwo252.jpg
+108,Lemony Pasta With Chickpeas and Parsley,Melissa Clark,https://static01.nyt.com/images/2017/03/08/dining/08APPE4/08APPE4-mediumThreeByTwo252.jpg
+109,Pork Gyros,Sam Sifton,https://static01.nyt.com/images/2017/06/11/magazine/11eat/11mag-11eat-t_CA0-mediumThreeByTwo252.jpg
+110,Grilled Flounder,Sam Sifton,https://static01.nyt.com/images/2017/06/14/dining/24GRILLS7/14GRILLS7-mediumThreeByTwo252.jpg
+111,Middle-School Tacos,Sam Sifton,https://static01.nyt.com/images/2017/05/14/magazine/14eat1/14eat1-mediumThreeByTwo252-v3.jpg
+112,Basic Vinaigrette,Julia Moskin,https://static01.nyt.com/images/2017/05/09/dining/09SALADGUIDE12/09SALADGUIDE12-mediumThreeByTwo252.jpg
+113,Swordfish Piccata,Gabrielle Hamilton,https://static01.nyt.com/images/2017/02/26/magazine/26eat/26mag-26eat-t_CA0-mediumThreeByTwo252.jpg
+114,Utica Greens,Jim Shahin,https://static01.nyt.com/images/2017/03/01/dining/01UTICA2/01UTICA2-mediumThreeByTwo252.jpg
+115,Kalpudding (Meatloaf With Caramelized Cabbage),Sam Sifton,https://static01.nyt.com/images/2017/03/05/magazine/05eat/05mag-05eat-t_CA0-mediumThreeByTwo252.jpg
+116,Irish Tacos,Sam Sifton,https://static01.nyt.com/images/2017/03/08/dining/08CORNEDBEEF4/08CORNEDBEEF4-mediumThreeByTwo252.jpg
+117,Homemade Corned Beef,Sam Sifton,https://static01.nyt.com/images/2017/03/08/dining/08CORNEDBEEF2/08CORNEDBEEF2-mediumThreeByTwo252.jpg
+118,Sweet Potato Confit With Chorizo and Crème Fraîche,Kim Severson,https://static01.nyt.com/images/2017/03/15/dining/15CHEF2/15CHEF2-mediumThreeByTwo252.jpg
+119,Jim Harrison’s Caribbean Stew,Sam Sifton,https://static01.nyt.com/images/2017/04/02/magazine/02eat/02eat-mediumThreeByTwo252.jpg
+120,Chicken Confit With Roasted Potatoes and Parsley Salad,Sam Sifton,https://static01.nyt.com/images/2017/02/12/magazine/12eat/12eat-mediumThreeByTwo252.jpg
+121,Red Berry Soufflé,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/13SOUFLE-19/13SOUFLE-19-mediumThreeByTwo252.jpg
+122,Gruyère and Chive Soufflé,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/13SOUFLE-1/13SOUFLE-1-mediumThreeByTwo252-v2.jpg
+123,Bittersweet Chocolate Soufflé,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/13SOUFLE-3/13SOUFLE-3-mediumThreeByTwo252.jpg
+124,Cassoulet,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/COOKING-CASSOULET2/COOKING-CASSOULET2-mediumThreeByTwo252.jpg
+125,Lamb Tagine,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/13COOKING-LAMBTAGINE2/13COOKING-LAMBTAGINE2-mediumThreeByTwo252-v2.jpg
+126,Beef Bourguignon,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/13COOKING-BEEFBOURGUIGNON/13COOKING-BEEFBOURGUIGNON-mediumThreeByTwo252.jpg
+127,Coq au Vin,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/DINING-COQAUVIN-1/DINING-COQAUVIN-1-mediumThreeByTwo252.jpg
+128,Pommes Anna,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-POMMES-ANNA2/DINING-POMMES-ANNA2-mediumThreeByTwo252.jpg
+129,Horseradish Crème Fraîche Sauce,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-SAUCESBUTTER2/DINING-SAUCESBUTTER2-mediumThreeByTwo252-v2.jpg
+130,Herbed Compound Butter,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-SAUCESBUTTER3/DINING-SAUCESBUTTER3-mediumThreeByTwo252.jpg
+131,Béarnaise Sauce,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-SAUCESBUTTER4/DINING-SAUCESBUTTER4-mediumThreeByTwo252.jpg
+132,Pan-Seared Steak With Red Wine Sauce,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/13STEAK-1/13STEAK-1-mediumThreeByTwo252.jpg
+133,Ratatouille,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-RATATOUILLE1/RATATOUILLE1-mediumThreeByTwo252.jpg
+134,Clarified Butter,Melissa Clark,https://static01.nyt.com/images/2017/01/14/dining/13COOKING-SOLE-MEUNIERE9/14CLARIFIED_BUTTER-mediumThreeByTwo252.jpg
+135,Sole Meunière,Melissa Clark,https://static01.nyt.com/images/2017/01/13/dining/13COOKING-SOLE-MEUNIERE2/13COOKING-SOLE-MEUNIERE2-mediumThreeByTwo252.jpg
+136,Tarte Flambée,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-TARTEFLAMBE1/DINING-TARTEFAMBE1-mediumThreeByTwo252.jpg
+137,Pissaladière,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-ONIONTARTS-1/DINING-ONIONTARTS-1-mediumThreeByTwo252.jpg
+138,Onion Quiche,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-QUICHE2/DINING-QUICHE2-mediumThreeByTwo252.jpg
+139,Omelet Mousseline,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-CLASSICOMELET-1/DINING-CLASSICOMELET-1-mediumThreeByTwo252.jpg
+140,Omelet,Melissa Clark,https://static01.nyt.com/images/2017/01/15/dining/DINING-CLASSICOMELET-2/DINING-CLASSICOMELET-2-mediumThreeByTwo252-v5.jpg
+141,Dijon and Cognac Beef Stew,Regina Schrambling,https://static01.nyt.com/images/2018/10/30/dining/rs-dijon-and-cognac-beef-stew/rs-dijon-and-cognac-beef-stew-mediumThreeByTwo252.jpg
+142,Chinese Stir-Fried Tomatoes and Eggs,Francis Lam,https://static01.nyt.com/images/2017/02/05/magazine/05eat-copy/05mag-05eat-t_CA0-mediumThreeByTwo252.jpg
+143,Steak Tartare,Gabrielle Hamilton,https://static01.nyt.com/images/2017/01/01/magazine/01steak-tartare/01steak-tartare-mediumThreeByTwo252.jpg
+144,Morning Glory Muffins,Samantha Seneviratne,https://static01.nyt.com/images/2016/12/30/dining/30COOKING-MORNINGGLORY-MUFFINS1/30COOKING-MORNINGGLORY-MUFFINS1-mediumThreeByTwo252.jpg
+145,Chicken-Skin Garnish,Gabrielle Hamilton,https://static01.nyt.com/images/2017/01/29/magazine/29eat-skin/29mag-29eat-t_CA0-mediumThreeByTwo252.jpg
+146,Chicken Meatballs,Gabrielle Hamilton,https://static01.nyt.com/images/2017/01/29/magazine/29eat-meatballs/29mag-29eat-t_CA0-mediumThreeByTwo252.jpg
+147,Stewed Chicken and Rice,Gabrielle Hamilton,https://static01.nyt.com/images/2017/01/29/magazine/29eat/29mag-29eat-t_CA0-mediumThreeByTwo252.jpg
+148,Pressure Cooker Pork With Citrus and Mint,Melissa Clark,https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-mediumThreeByTwo252.jpg
+149,Marcella Hazan’s Roast Chicken With Lemons,The New York Times,https://static01.nyt.com/images/2015/06/08/dining/08ROASTCHICKEN/08ROASTCHICKEN-mediumThreeByTwo252.jpg
+150,Clam-Chowder Pizza,Sam Sifton,https://static01.nyt.com/images/2017/01/15/magazine/15eat-1/15eat-1-mediumThreeByTwo252.jpg
+151,One-Pot Spaghetti With Cherry Tomatoes and Kale,Tejal Rao,https://static01.nyt.com/images/2018/12/20/dining/one-pot-spaghetti-tomatoes-kale-horizontal/one-pot-spaghetti-tomatoes-kale-horizontal-mediumThreeByTwo252-v2.jpg
+152,Swiss Chard Slab Pie,Tejal Rao,https://static01.nyt.com/images/2016/09/28/dining/28MODERN1/28MODERN1-mediumThreeByTwo252.jpg
+153,Aligot (Mashed Potatoes With Cheese),Tejal Rao,https://static01.nyt.com/images/2016/11/20/magazine/20eat-copy/20eat-mediumThreeByTwo252.jpg
+154,Tourtière,Sam Sifton,https://static01.nyt.com/images/2016/12/11/magazine/11eat1/11eat1-mediumThreeByTwo252-v2.jpg
+155,Rainbow Sprinkle Cake,Julia Moskin,https://static01.nyt.com/images/2019/04/01/dining/jm-rainbow-sprinkle-cake/jm-rainbow-sprinkle-cake-mediumThreeByTwo252-v2.jpg
+156,Celery Toasts,Gabrielle Hamilton,https://static01.nyt.com/images/2016/10/23/magazine/23eat/23mag-23eat-t_CA1-mediumThreeByTwo252.jpg
+157,"Oyster Pie With Leeks, Bacon and Mashed Potatoes",David Tanis,https://static01.nyt.com/images/2016/11/02/dining/02KITCHEN1/02KITCHEN1-mediumThreeByTwo252.jpg
+158,Auntie Khar Imm’s Chile Sauce,Francis Lam,https://static01.nyt.com/images/2016/10/30/magazine/30chile-sauce/30chile-sauce-mediumThreeByTwo252.jpg
+159,Singaporean Braised Duck,Francis Lam,https://static01.nyt.com/images/2016/10/30/magazine/30eat/30eat-mediumThreeByTwo252.jpg
+160,Chicken Braised With Grapes,Florence Fabricant,https://static01.nyt.com/images/2016/09/28/dining/28PAIR-WEB/28PAIR-WEB-mediumThreeByTwo252.jpg
+161,Broccoli Salad With Cheddar and Warm Bacon Vinaigrette,Margaux Laskey,https://static01.nyt.com/images/2016/09/28/dining/28POOLES-WEB1/28POOLES-WEB1-mediumThreeByTwo252.jpg
+162,Moo Shu Pork,Sara Bonisteel,https://static01.nyt.com/images/2016/09/28/dining/28CHINESE-WEB2/28CHINESE-WEB2-mediumThreeByTwo252.jpg
+163,Breakfast Carbonara,Kim Severson,https://static01.nyt.com/images/2016/09/28/dining/28ALTON6-WEB/28ALTON6-WEB-mediumThreeByTwo252.jpg
+164,Chicken Congee,Sara Bonisteel,https://static01.nyt.com/images/2016/09/28/dining/28CHINESE-WEB1/28CHINESE-WEB1-mediumThreeByTwo252.jpg
+165,Sweet Potatoes With Yogurt and Cilantro-Chile Sauce,Melissa Clark,https://static01.nyt.com/images/2016/09/28/dining/28DIANA-HENRY6-WEB/28DIANA-HENRY6-WEB-mediumThreeByTwo252.jpg
+166,Modern Chicken Potpie,Julia Moskin,https://static01.nyt.com/images/2017/11/20/dining/20COOKING-CHICKPOTPIE1/20COOKING-CHICKPOTPIE1-mediumThreeByTwo252.jpg
+167,Vertamae Smart-Grosvenor’s Onion Pie,Tejal Rao,https://static01.nyt.com/images/2016/10/16/magazine/16eat/16mag-16eat-t_CA0-mediumThreeByTwo252.jpg
+168,Green Goddess Roasted Chicken,Melissa Clark,https://static01.nyt.com/images/2013/08/23/dining/video-clark-greengoddess/video-clark-greengoddess-videoSixteenByNine310.jpg
+169,Chicken Tetrazzini,Sam Sifton,https://static01.nyt.com/images/2016/10/02/magazine/02eat/02mag-02eat-t_CA0-mediumThreeByTwo252.jpg
+170,Garlic and Thyme Roasted Chicken With Crispy Drippings Croutons,Melissa Clark,https://static01.nyt.com/images/2016/05/23/dining/thyme-roast-chicken/thyme-roast-chicken-mediumThreeByTwo252.jpg
+171,Hot Honey Shrimp,Melissa Clark,https://static01.nyt.com/images/2018/12/05/dining/hot-honey-shrimp-horizontal/merlin_147457098_d52160bb-f821-42d5-9db6-d79a9469d2e3-mediumThreeByTwo252.jpg
+172,Outdoor Porchetta,Julia Moskin,https://static01.nyt.com/images/2016/06/22/dining/22PORCHETTAREX/22PORCHETTAREX-mediumThreeByTwo252.jpg
+173,Pla Goong (Spicy Thai Shrimp Salad),Francis Lam,https://static01.nyt.com/images/2016/07/17/magazine/17eat/17eat-mediumThreeByTwo252-v3.jpg
+174,Clam in a Can,Rosie Schaap,https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-a-can/24mag-clam-in-a-can-mediumThreeByTwo252.jpg
+175,Prune Pudding,Steven Kurutz,https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB2/10DEPRESSION-WEB2-mediumThreeByTwo252.jpg
+176,Tahini Ranch Dressing,Tejal Rao,https://static01.nyt.com/images/2016/08/28/magazine/28eat/28mag-28eat-t_CA0-mediumThreeByTwo252.jpg
+177,Patty Melts,Sam Sifton,https://static01.nyt.com/images/2016/09/04/magazine/04patty2/04patty2-mediumThreeByTwo252.jpg
+178,Portobello Patty Melts,Sam Sifton,https://static01.nyt.com/images/2016/09/04/magazine/04portobello2/04portobello2-mediumThreeByTwo252.jpg
+179,Savory Clafoutis With Corn and Swiss Chard,Melissa Clark,https://static01.nyt.com/images/2016/09/08/multimedia/clark-clafouti/clark-clafouti-mediumThreeByTwo252.jpg
+180,Original Plum Torte,Marian Burros,https://static01.nyt.com/images/2014/04/18/dining/plumtorte/plumtorte-videoSixteenByNine310.jpg
+181,Cherry Frangipane Tart,David Tanis,https://static01.nyt.com/images/2015/06/05/dining/05CHERRYTART/05CHERRYTART-mediumThreeByTwo252-v3.jpg
+182,Porchetta Pork Chops,Melissa Clark,https://static01.nyt.com/images/2014/09/03/dining/porchetta/porchetta-videoSixteenByNine310.jpg
+183,Flattened Chicken Thighs With Roasted Lemon Slices,Julia Moskin,https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-mediumThreeByTwo252.jpg
+184,Cold Spicy Kimchi Noodles,David Tanis,https://static01.nyt.com/images/2016/07/06/dining/06KITCHEN1-WEB/06KITCHEN1-WEB-mediumThreeByTwo252.jpg
+185,Blueberry Pie,Sam Sifton,https://static01.nyt.com/images/2019/08/06/dining/ss-blueberry-pie/ss-blueberry-pie-mediumThreeByTwo252.jpg
+186,Best Chicken Salad,Julia Moskin,https://static01.nyt.com/images/2016/07/13/dining/13RECIPE-LAB1-WEB/13RECIPE-LAB1-WEB-mediumThreeByTwo252-v3.jpg
+187,Grilled Scallion Lamb,Florence Fabricant,https://static01.nyt.com/images/2016/07/27/dining/27PAIR-WEB/27PAIR-WEB-mediumThreeByTwo252.jpg
+188,Shrikhand (Sweet Strained Yogurt),Tejal Rao,https://static01.nyt.com/images/2016/07/31/magazine/31eat/31mag-31eat-t_CA0-mediumThreeByTwo252.jpg
+189,Basic Yogurt Sauce,Samin Nosrat,https://static01.nyt.com/images/2016/08/03/dining/03JPSAUCE3/03JPSAUCE3-mediumThreeByTwo252.jpg
+190,Caramel Peach Skillet Pie,Melissa Clark,https://static01.nyt.com/images/2016/07/26/multimedia/clark-peaches/clark-peaches-mediumThreeByTwo252.jpg
+191,Roasted Potato Hash,Sam Sifton,https://static01.nyt.com/images/2016/08/07/magazine/07eat/07mag-07eat-t_CA0-mediumThreeByTwo252.jpg
+192,Basic Tahini Sauce,Samin Nosrat,https://static01.nyt.com/images/2016/08/03/dining/03SAUCE-WEB7/03SAUCE-WEB7-mediumThreeByTwo252.jpg
+193,Basic Pepper Salsa,Samin Nosrat,https://static01.nyt.com/images/2016/08/03/dining/03JPSAUCE4/03JPSAUCE4-mediumThreeByTwo252.jpg
+194,"Charred Tomatoes With Egg, Anchovies and Bread Crumbs",David Tanis,https://static01.nyt.com/images/2016/08/10/dining/10KITCH-WEB1/10KITCH-WEB1-mediumThreeByTwo252.jpg
+195,Green Tomato Chowchow,Matt Lee And Ted Lee,https://static01.nyt.com/images/2014/05/13/dining/chowchow-still/chowchow-still-videoSixteenByNine310.jpg
+196,Simplest Grilled Salmon,Sam Sifton,https://static01.nyt.com/images/2017/06/30/dining/grilled-salmon/grilled-salmon-mediumThreeByTwo252-v2.jpg
+197,Adobo-Fried Chicken,Julia Moskin,https://static01.nyt.com/images/2016/06/28/dining/28COOKING-FRIEDCHICKENGUIDE15/28COOKING-FRIEDCHICKENGUIDE15-mediumThreeByTwo252.jpg
+198,Buttermilk Fried Chicken,Sam Sifton,https://static01.nyt.com/images/2016/07/25/dining/25FRIED-CHICKEN/25FRIED-CHICKEN-mediumThreeByTwo252-v2.jpg
+199,Sourdough Pancake or Waffle Batter,Sam Sifton,https://static01.nyt.com/images/2016/03/23/dining/23SOURDOUGH4/23SOURDOUGH4-mediumThreeByTwo252.jpg
+200,Clam Fritters,Sam Sifton,https://static01.nyt.com/images/2016/07/24/magazine/24eat/24mag-24eat-t_CA0-mediumThreeByTwo252.jpg
+201,"Warm Kale, Coconut and Tomato Salad",Sam Sifton,https://static01.nyt.com/images/2019/01/17/dining/ss-warm-kale-salad/merlin_148333509_26952b3d-69be-4e08-90a1-c22259291d94-mediumThreeByTwo252.jpg
+202,Short-Grained Rice,Sam Sifton,https://static01.nyt.com/images/2015/11/29/magazine/29eat1/29eat1-mediumThreeByTwo252.jpg
+203,Roasted Grapefruit,Sam Sifton,https://static01.nyt.com/images/2016/02/16/dining/16COOKING-ROASTEDGRAPEFRUIT2/16COOKING-ROASTEDGRAPEFRUIT2-mediumThreeByTwo252.jpg
+204,"Grilled Leg of Lamb, Sam's Way",Mark Bittman And Sam Sifton,https://static01.nyt.com/images/2014/04/10/dining/LambBittman/LambBittman-videoSixteenByNine310.jpg
+205,Henrietta’s Hash Browns,Sam Sifton,https://static01.nyt.com/images/2014/04/03/dining/Henriettas-Hash-Browns/Henriettas-Hash-Browns-videoSixteenByNine310.jpg
+206,"Grilled Sausages, Onions and Peppers",Sam Sifton,https://static01.nyt.com/images/2015/07/15/dining/15SAUSAGE/15SAUSAGE-mediumThreeByTwo252.jpg
+207,Chilled Shrimp With Lobster Butter,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20ENTREE1/20ENTREE1-mediumThreeByTwo252.jpg
+208,Corn Bread,Sam Sifton,https://static01.nyt.com/images/2015/10/26/dining/26COOKING_CORNBREAD/26COOKING_CORNBREAD-mediumThreeByTwo252.jpg
+209,Lemon Poundcake,Sam Sifton,https://static01.nyt.com/images/2015/12/24/dining/24COOKING-LEMONPOUNDCAKE/24COOKING-LEMONPOUNDCAKE-mediumThreeByTwo252-v2.jpg
+210,Bobby Flay’s Salted Caramel Sauce,Sam Sifton,https://static01.nyt.com/images/2015/10/12/dining/12CHOCPANCAKES3/12CHOCPANCAKES3-mediumThreeByTwo252.jpg
+211,Smoked Chicken Wings,Sam Sifton,https://static01.nyt.com/images/2016/05/25/dining/25WINGS/25WINGS-mediumThreeByTwo252-v2.jpg
+212,Cuban-Style Arroz Congrí,Kim Severson,https://static01.nyt.com/images/2016/05/18/dining/18JPCUBA3/18JPCUBA3-mediumThreeByTwo252.jpg
+213,Beet- and Horseradish-Cured Salmon,Ian Fisher,https://static01.nyt.com/images/2016/05/18/dining/18CURE1-WEB/18CURE1-WEB-mediumThreeByTwo252.jpg
+214,Grilled Arctic Char With Horseradish Crema,Jeff Gordinier,https://static01.nyt.com/images/2016/05/25/dining/25CHEF6/25CHEF6-mediumThreeByTwo252.jpg
+215,Braai-Spiced T-Bone Steaks,Julia Moskin,https://static01.nyt.com/images/2016/05/25/dining/25AFRICA-GRILLED-T-BONE-STEAK/25AFRICA-GRILLED-T-BONE-STEAK-mediumThreeByTwo252.jpg
+216,Chicken Enchiladas With Salsa Verde ,Sam Sifton,https://static01.nyt.com/images/2019/01/08/dining/08CHICKEN-ENCHILADA/08CHICKEN-ENCHILADA-mediumThreeByTwo252-v2.jpg
+217,Cheese Enchiladas With Chili Gravy,Sam Sifton,https://static01.nyt.com/images/2016/06/01/dining/0601ENCHILADASJP1/0601ENCHILADASJP1-mediumThreeByTwo252.jpg
+218,Enchiladas Con Carne,Sam Sifton,https://static01.nyt.com/images/2018/04/20/dining/enchiladas/enchiladas-mediumThreeByTwo252.jpg
+219,Salted Caramel Brownies,Julia Moskin,https://static01.nyt.com/images/2016/06/07/dining/salted-caramel-brownie-2/salted-caramel-brownie-2-mediumThreeByTwo252.jpg
+220,"San Hua Kao Ji, Three-Flower Roast Chicken",Chris Buckley,https://static01.nyt.com/images/2016/06/15/dining/15JPSICHUAN4/15JPSICHUAN4-mediumThreeByTwo252.jpg
+221,Classic Leeks Vinaigrette,David Tanis,https://static01.nyt.com/images/2014/04/04/dining/leeksvinaigrette/leeksvinaigrette-videoSixteenByNine310.jpg
+222,Sautéed Salmon With Brown Butter Cucumbers,Melissa Clark,https://static01.nyt.com/images/2014/02/20/dining/recipes-salmonwithbrownbuttercukes/recipes-salmonwithbrownbuttercukes-mediumThreeByTwo252-v2.jpg
+223,Crusty Macaroni and Cheese,Julia Moskin,https://static01.nyt.com/images/2018/11/30/dining/jm-crusty-mac-and-cheese/jm-crusty-mac-and-cheese-mediumThreeByTwo252.jpg
+224,Paella of the Sea,John Willoughby,https://static01.nyt.com/images/2013/07/17/dining/20130717-GRILLING-slide-TFZB/20130717-GRILLING-slide-TFZB-tmagSF.jpg
+225,Bobby Flay’s Double-Chocolate Pancakes,Sam Sifton,https://static01.nyt.com/images/2015/10/12/dining/12CHOCPANCAKES2/12CHOCPANCAKES2-mediumThreeByTwo252.jpg
+226,Caramelized Beets With Orange-Saffron Yogurt,Sam Sifton,https://static01.nyt.com/images/2016/05/20/dining/beets-yotam/beets-yotam-mediumThreeByTwo252.jpg
+227,Celebration Cake,Sam Sifton,https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes7-celebrationcake/22feastrecipes7-celebrationcake-mediumThreeByTwo252-v3.jpg
+228,"Baba Ghanouj, Deconstructed",Sam Sifton,https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes4-babaghanouj/22feastrecipes4-babaghanouj-mediumThreeByTwo252.jpg
+229,Jerusalem Lamb Shawarma,Sam Sifton,https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes1-lambshawarma/22feastrecipes1-lambshawarma-mediumThreeByTwo252-v2.jpg
+230,Tomato and Pomegranate Salad,Sam Sifton,https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes3-pomegranatesalad/22feast-recipes3-mediumThreeByTwo252.jpg
+231,Cucumber-and-Mâche Salad,Sam Sifton,https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes2-machesalad/22feast-recipes2-machesalad-mediumThreeByTwo252.jpg
+232,Baked Rice,Sam Sifton,https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes6-bakedrice/22feastrecipes6-bakedrice-mediumThreeByTwo252.jpg
+233,Grilled Asparagus With Caper Salsa,Sam Sifton,https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes5-asparagus/22feast-recipes5-mediumThreeByTwo252.jpg
+234,Chicken With Vinegar,Mark Bittman,https://static01.nyt.com/images/2014/05/27/dining/Chicken-With-Vinegar/Chicken-With-Vinegar-videoSixteenByNine310.jpg
+235,Buttermilk-Brown Sugar Waffles,Julia Moskin,https://static01.nyt.com/images/2015/05/20/dining/20HIT_SUGARWAFFLE/20HIT_SUGARWAFFLE-mediumThreeByTwo252.jpg
+236,The Best Fried-Eggplant Sandwich,Sam Sifton,https://static01.nyt.com/images/2016/05/01/magazine/01eat1/01eat1-mediumThreeByTwo252-v2.png
+237,Sourdough Pizza Dough,Sam Sifton,https://static01.nyt.com/images/2016/03/23/dining/23JPSOURDOUGH2/23JPSOURDOUGH2-mediumThreeByTwo252.jpg
+238,Kale-Romaine Caesar Salad,Julia Moskin,https://static01.nyt.com/images/2016/03/21/multimedia/recipe-lab-kale-caesar/recipe-lab-kale-caesar-mediumThreeByTwo252.jpg
+239,Stuffed Calamari,Francis Lam,https://static01.nyt.com/images/2016/04/10/magazine/10eat/10mag-10eat-t_CA1-mediumThreeByTwo252.jpg
+240,Simplest Strawberry Tart,Emily Weinstein,https://static01.nyt.com/images/2016/04/13/dining/13COOKBOOK1/13COOKBOOK1-mediumThreeByTwo252.jpg
+241,Beef With Horseradish-Beet Aioli,Melissa Clark,https://static01.nyt.com/images/2016/04/08/multimedia/clark-beef-tenderloin/clark-beef-tenderloin-mediumThreeByTwo252.jpg
+242,Salted Tahini Chocolate Chip Cookies,Julia Moskin,https://static01.nyt.com/images/2016/04/14/dining/14SESAME6/14SESAME6-mediumThreeByTwo252.jpg
+243,Lemon Pudding Cake,Julia Moskin,https://static01.nyt.com/images/2014/03/28/dining/lemoncake-still/lemoncake-still-videoSixteenByNine310.jpg
+244,Jajangmyeon,Sam Sifton,https://static01.nyt.com/images/2016/04/03/magazine/03eat/03eat-mediumThreeByTwo252-v2.jpg
+245,Sourdough No-Knead Bread,Sam Sifton,https://static01.nyt.com/images/2016/03/23/dining/23SOURDOUGH2/23SOURDOUGH2-mediumThreeByTwo252.jpg
+246,Bigos,Francis Lam,https://static01.nyt.com/images/2016/03/06/magazine/06eat/06eat-mediumThreeByTwo252-v3.jpg
+247,Sichuan Chicken With Chiles,Mark Bittman,https://static01.nyt.com/images/2016/03/30/dining/30COOKING3/30COOKING3-mediumThreeByTwo252.jpg
+248,Korean Meatballs and Noodles,Florence Fabricant,https://static01.nyt.com/images/2016/03/23/dining/23PAIRING/23PAIRING-mediumThreeByTwo252.jpg
+249,Baked Fish and Chips,Melissa Clark,https://static01.nyt.com/images/2016/03/17/multimedia/clark-fish-and-chips/clark-fish-and-chips-mediumThreeByTwo252.jpg
+250,Caramelized Citrus,Sam Sifton,https://static01.nyt.com/images/2016/03/20/magazine/20eat1/20mag-20eat-t_CA1-mediumThreeByTwo252.jpg
+251,Pot Roast,Brett Anderson,https://static01.nyt.com/images/2018/10/19/dining/pot-roast/pot-roast-mediumThreeByTwo252.jpg
+252,Chickpea and Fennel Ratatouille,Mark Bittman,https://static01.nyt.com/images/2013/09/18/dining/20130918-FLEX-slide-FMJU/20130918-FLEX-slide-FMJU-tmagSF.jpg
+253,Hot Pepper Fettuccine With Roasted Butternut Squash,David Tanis,https://static01.nyt.com/images/2016/03/02/dining/02KITCHEN4/02KITCHEN4-mediumThreeByTwo252.jpg
+254,Cabbage and Potato Gratin,Martha Rose Shulman,https://static01.nyt.com/images/2016/03/02/dining/02MARTHA/02MARTHA-mediumThreeByTwo252.jpg
+255,Pear and Almond Danish Braid,Samantha Seneviratne,https://static01.nyt.com/images/2015/12/23/dining/23JPDANISH2/23JPDANISH2-mediumThreeByTwo252.jpg
+256,Baked Cheesy Pasta With Wild Mushrooms,Melissa Clark,https://static01.nyt.com/images/2016/01/28/multimedia/clark-mushroom-pasta/clark-mushroom-pasta-mediumThreeByTwo252.jpg
+257,Tofu Mushroom Soup,Martha Rose Shulman,https://static01.nyt.com/images/2016/02/10/dining/10MARTHA/10MARTHA-mediumThreeByTwo252.jpg
+258,Chili Verde,Pierre Franey,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/37.png?1
+259,Seeded Pecan Granola,The New York Times,https://static01.nyt.com/images/2016/02/24/dining/24ANGELES/24ANGELES-mediumThreeByTwo252.jpg
+260,Sour-Cream Coffee Cake,Robert Farrar Capon,https://static01.nyt.com/images/2015/12/10/dining/10COOKING-SOURCRMCOFFEECAKE1/10COOKING-SOURCRMCOFFEECAKE1-mediumThreeByTwo252.jpg
+261,"Stir-Fried Cabbage, Tofu and Red Pepper",Martha Rose Shulman,https://static01.nyt.com/images/2013/02/05/science/08recipehealth/08recipehealth-videoSixteenByNine310-v2.jpg
+262,Chicken Tacos With Chipotle,David Tanis,https://static01.nyt.com/images/2016/01/27/dining/27KITCH1/27KITCH1-mediumThreeByTwo252.jpg
+263,Cod Cakes,Sam Sifton,https://static01.nyt.com/images/2017/08/09/dining/09COOKING-PADTHAI7/09COOKING-PADTHAI7-mediumThreeByTwo252-v2.jpg
+264,Roasted Winter Tomatoes,Amanda Cohen,https://static01.nyt.com/images/2016/02/10/dining/10JPTOMATOES3/10JPTOMATOES3-mediumThreeByTwo252.jpg
+265,Roasted Tomatoes and Whipped Feta on Toast,Amanda Cohen,https://static01.nyt.com/images/2016/02/10/dining/10JPTOMATOES/10JPTOMATOES-mediumThreeByTwo252.jpg
+266,Golden Leek and Potato Soup,Melissa Clark,https://static01.nyt.com/images/2016/02/12/multimedia/clark-potato-leek/clark-potato-leek-mediumThreeByTwo252.jpg
+267,Vietnamese Braised Pork Ribs,David Tanis,https://static01.nyt.com/images/2016/02/17/dining/17KITCH1/17KITCH1-mediumThreeByTwo252.jpg
+268,Gjelina’s Roasted Yams,Sam Sifton,https://static01.nyt.com/images/2016/02/21/magazine/21eat/21mag-21eat-t_CA1-mediumThreeByTwo252.jpg
+269,Involtini,Nigella Lawson,https://static01.nyt.com/images/2016/01/19/dining/19COOKING_INVOLTINI1/19COOKING_INVOLTINI1-mediumThreeByTwo252-v2.jpg
+270,Coq au Riesling,Nigella Lawson,https://static01.nyt.com/images/2016/01/23/dining/23COOKING_COQAURIESLING1/23COOKING_COQAURIESLING1-mediumThreeByTwo252.jpg
+271,Chicken Mafe,Francis Lam,https://static01.nyt.com/images/2018/12/11/dining/fl-chicken-mafe/merlin_146005311_3415422c-27b6-46e4-a416-3b966f5dcf2a-mediumThreeByTwo252.jpg
+272,Mushroom Soup Gratinée,Florence Fabricant,https://static01.nyt.com/images/2016/02/10/dining/10PAIRING/10PAIRING-mediumThreeByTwo252.jpg
+273,Spicy Chinese Mustard Chicken Wings,Julia Moskin,https://static01.nyt.com/images/2016/02/02/dining/02CHINESEREX/02CHINESEREX-mediumThreeByTwo252.jpg
+274,Chocolate Peppermint Bars,Melissa Clark,https://static01.nyt.com/images/2016/02/12/dining/chocolate-peppermint-bar/chocolate-peppermint-bar-mediumThreeByTwo252.jpg
+275,Seared Sea Scallops With Ginger-Lime Butter,David Tanis,https://static01.nyt.com/images/2016/02/10/dining/10KITCHEN1/10KITCHEN1-mediumThreeByTwo252-v2.jpg
+276,Loaded Nachos,Sam Sifton,https://static01.nyt.com/images/2016/02/03/dining/03SUPERREEFER/03SUPERREEFER-mediumThreeByTwo252.jpg
+277,Cassoulet,Sam Sifton,https://static01.nyt.com/images/2016/01/24/magazine/24eat/24eat-mediumThreeByTwo252-v2.jpg
+278,Mississippi Roast,Sam Sifton,https://static01.nyt.com/images/2016/01/27/dining/27ROAST1/27ROAST1-mediumThreeByTwo252.jpg
+279,Cheese Danish,Samantha Seneviratne,https://static01.nyt.com/images/2015/12/23/dining/23JPDANISH4/23JPDANISH4-mediumThreeByTwo252.jpg
+280,Buttery Breakfast Casserole,Melissa Clark,https://static01.nyt.com/images/2015/12/23/dining/23SUB2APPE/23SUB2APPE-mediumThreeByTwo252.jpg
+281,Irish Brown Soda Bread,David Tanis,https://static01.nyt.com/images/2015/12/30/dining/30KITCH2/30KITCH2-mediumThreeByTwo252.jpg
+282,Whole Roasted Cauliflower With Almond-Herb Sauce,Julia Moskin,https://static01.nyt.com/images/2018/10/24/dining/whole-roasted-cauliflower/whole-roasted-cauliflower-mediumThreeByTwo252.jpg
+283,"Skillet Chicken With Tomatoes, Pancetta and Mozzarella",Melissa Clark,https://static01.nyt.com/images/2016/01/03/multimedia/clark-skillet-chicken/clark-skillet-chicken-mediumThreeByTwo252.jpg
+284,Pork Chops in Pipian,Sam Sifton,https://static01.nyt.com/images/2016/01/10/magazine/10eat1/10mag-10eat-t_CA0-mediumThreeByTwo252.jpg
+285,Boeuf à la Mode,Tamar Adler,https://static01.nyt.com/images/2016/01/17/magazine/17eat/17eat-mediumThreeByTwo252-v2.jpg
+286,Ham and Bean Soup With Collard Greens,Melissa Clark,https://static01.nyt.com/images/2016/01/13/dining/13APPE3/13APPE3-mediumThreeByTwo252.jpg
+287,Pizza With Sweet and Hot Peppers,David Tanis,https://static01.nyt.com/images/2016/01/20/dining/20KITCH1/20KITCH1-mediumThreeByTwo252.jpg
+288,Steak Diane for Two,Mark Bittman,https://static01.nyt.com/images/2018/08/15/arts/10COOKING-STEAKDIANE1/10COOKING-STEAKDIANE1-mediumThreeByTwo252.jpg
+289,Jimbojean's Chicken,Dulcie Leimbach,https://static01.nyt.com/applications/cooking/a9ea0b6/assets/8.png?1
+290,Sourdough Starter,Oliver Strand,https://static01.nyt.com/images/2016/03/23/dining/23SOURDOUGH1/23SOURDOUGH1-mediumThreeByTwo252.jpg
+291,Roasted Sweet Potatoes With Horseradish Butter,Melissa Clark,https://static01.nyt.com/images/2015/11/12/multimedia/clark-sweet-potato/clark-sweet-potato-mediumThreeByTwo252.jpg
+292,Soy-Sauce-Pickled Eggs,Sam Sifton,https://static01.nyt.com/images/2015/11/29/magazine/29eat1/29eat1-mediumThreeByTwo252.jpg
+293,Black Cake,Julia Moskin,https://static01.nyt.com/images/2017/12/18/dining/18COOKING-BLACK-CAKE/18COOKING-BLACK-CAKE-mediumThreeByTwo252.jpg
+294,Baked Clams,Tamar Adler,https://static01.nyt.com/images/2015/12/13/magazine/13eat1/13mag-13eat-t_CA1-mediumThreeByTwo252.jpg
+295,Whole Roasted New York Strip Loin,David Tanis,https://static01.nyt.com/images/2015/12/16/dining/16KITCH2/16KITCH2-mediumThreeByTwo252.jpg
+296,Chicken Breasts With Tomatoes and Capers,Pierre Franey,https://static01.nyt.com/images/2015/08/14/dining/14CHICKENBREASTS/14CHICKENBREASTS-mediumThreeByTwo252.jpg
+297,Modern Timpano,Melissa Clark,https://static01.nyt.com/images/2015/12/10/multimedia/clark-timpano/clark-timpano-mediumThreeByTwo252.jpg
+298,David Firestone's Latkes,The New York Times,https://static01.nyt.com/images/2013/11/06/dining/06MASHUP_SPAN/06MASHUP-tmagSF.jpg
+299,Greek-Style Nachos,Mark Bittman,https://static01.nyt.com/images/2014/04/09/dining/greekstylenachos/greekstylenachos-videoSixteenByNine310.jpg
+300,Black Bean and Poblano Tacos,David Tanis,https://static01.nyt.com/images/2013/10/02/dining/02KITCH2/02KITCH2-largeHorizontal375.jpg
+301,Palm Sugar Pecan Pie,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/palm-sugar-pecan-pie/palm-sugar-pecan-pie-mediumThreeByTwo252-v2.jpg
+302,San Antonio Margarita,Sam Sifton,https://static01.nyt.com/images/2015/12/06/magazine/san-antonio-margarita/san-antonio-margarita-mediumThreeByTwo252-v2.jpg
+303,Green-Peppercorn Guacamole,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/green-peppercorn-guacamole/green-peppercorn-guacamole-mediumThreeByTwo252-v4.jpg
+304,Rau Ram Pico de Gallo,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/rau-ram-pico-de-gallo/rau-ram-pico-de-gallo-mediumThreeByTwo252-v3.jpg
+305,Charred Tomatillo Jaew,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/charred-tomatillo-jaew/charred-tomatillo-jaew-mediumThreeByTwo252-v2.jpg
+306,Savory Burmese Slaw,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/savory-burmese-slaw/savory-burmese-slaw-mediumThreeByTwo252-v2.jpg
+307,Chipotle Kewpie,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/chipotle-kewpie/chipotle-kewpie-mediumThreeByTwo252.jpg
+308,Quealy Watson’s Cabrito,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/quealys-watsons-cabrito/quealys-watsons-cabrito-mediumThreeByTwo252-v2.jpg
+309,South Texas Barbecued Duck,Sam Sifton,https://static01.nyt.com/images/2015/11/30/magazine/SouthTexasBarbecuedDuck/SouthTexasBarbecuedDuck-mediumThreeByTwo252-v2.jpg
+310,Quealy’s Queso,Sam Sifton,https://static01.nyt.com/images/2015/12/06/magazine/06quealysqueso/06quealysqueso-mediumThreeByTwo252-v3.jpg
+311,Edna Lewis’s Garden Strawberry Preserves,Francis Lam,https://static01.nyt.com/images/2015/11/01/magazine/01edna-lewis-southern-slide-2CZO/01edna-lewis-southern-slide-2CZO-mediumThreeByTwo252.jpg
+312,Edna Lewis’s Corn Muffins,Francis Lam,https://static01.nyt.com/images/2015/11/01/magazine/01cornmuffins/01cornmuffins-mediumThreeByTwo252.jpg
+313,Savory Dutch Baby,Melissa Clark,https://static01.nyt.com/images/2018/10/30/dining/mc-savory-dutch-baby/mc-savory-dutch-baby-mediumThreeByTwo252.jpg
+314,Rick Easton’s Pizza With Peppers,Mark Bittman,https://static01.nyt.com/images/2015/11/08/magazine/08eat1/08mag-08eat-t_CA2-mediumThreeByTwo252.jpg
+315,Rick Easton's Pizza With Potatoes,Mark Bittman,https://static01.nyt.com/images/2015/11/08/magazine/08eat3/08mag-08eat-t_CA0-mediumThreeByTwo252.jpg
+316,Cranberry-Orange Jelly,Julia Moskin,https://static01.nyt.com/images/2015/10/27/dining/27COOKING-CRANORGJELLY2/27COOKING-CRANORGJELLY2-mediumThreeByTwo252.jpg
+317,Apple Cranberry Slab Pie,Melissa Clark,https://static01.nyt.com/images/2014/11/04/dining/apple-cranberry-slab-pie/apple-cranberry-slab-pie-videoSixteenByNine310.jpg
+318,Classic Cranberry Sauce,Julia Moskin,https://static01.nyt.com/images/2015/10/12/dining/12CRANBERRYSAUCE1/12CRANBERRYSAUCE1-mediumThreeByTwo252.jpg
+319,Classic Last-Minute Gravy,Kim Severson,https://static01.nyt.com/applications/cooking/d3f9aa5/assets/40.png?1
+320,Fiery Sweet Potatoes,Julia Moskin,https://static01.nyt.com/images/2015/10/26/dining/26COOKING-FIERYSWEETPOTATOES1/26COOKING-FIERYSWEETPOTATOES1-mediumThreeByTwo252.jpg
+321,Classic Mashed Potatoes,Julia Moskin,https://static01.nyt.com/images/2017/11/08/dining/08COOKING-MASHED2/26COOKING-MASHED2-mediumThreeByTwo252.jpg
+322,Julia Child’s Aunt Helen’s Fluffy Pumpkin Pie,Julia Moskin,https://static01.nyt.com/images/2015/11/18/dining/19JULIAREX3/19JULIAREX3-mediumThreeByTwo252.jpg
+323,Sautéed Brussels Sprouts and Apple With Prosciutto,Melissa Clark,https://static01.nyt.com/images/2015/11/18/dining/18APPE3-WEB/18APPE3-WEB-mediumThreeByTwo252.jpg
+324,Stuffed Boneless Turkey Breast With White Wine Gravy,Julia Moskin,https://static01.nyt.com/images/2015/11/18/dining/18JULIAREX1/18JULIAREX1-mediumThreeByTwo252.jpg
+325,French Toast With Cinnamon Plums,Nigella Lawson,https://static01.nyt.com/images/2015/11/19/dining/19COOKING-PLUMSFRENCHTOAST/19COOKING-PLUMSFRENCHTOAST-mediumThreeByTwo252.jpg
+326,"Turkey Pita With Cabbage, Cucumbers and Tahini Dressing",David Tanis,https://static01.nyt.com/images/2015/11/25/dining/25KITCH04/25KITCH04-mediumThreeByTwo252.jpg
+327,Roasted Squash and Radicchio Salad With Buttermilk Dressing,Melissa Clark,https://static01.nyt.com/images/2015/11/20/multimedia/clark-squash-salad/clark-squash-salad-mediumThreeByTwo252.jpg
+328,Creamed Turkey With Sweet Potato Biscuits,David Tanis,https://static01.nyt.com/images/2015/11/25/dining/25KITCH02/25KITCH02-mediumThreeByTwo252.jpg
+329,"Turkey Pie With Potatoes, Squash, Chard and Cheddar",David Tanis,https://static01.nyt.com/images/2015/11/25/dining/25KITCH06/25KITCH06-mediumThreeByTwo252.jpg
+330,Edna Lewis’s Biscuits,Francis Lam,https://static01.nyt.com/images/2019/01/24/dining/el-biscuits/el-biscuits-mediumThreeByTwo252.jpg
+331,Grilled Bone-In Rib-Eye Steaks With Blue Cheese,Melissa Clark,https://static01.nyt.com/images/2015/08/12/multimedia/clark-steak-cheese/clark-steak-cheese-mediumThreeByTwo252.jpg
+332,Cheesy Hasselback Potato Gratin,Emily Weinstein,https://static01.nyt.com/images/2015/09/30/dining/30COOKBOOK1/30COOKBOOK1-mediumThreeByTwo252-v2.jpg
+333,Salt-and-Pepper Roast Chicken,Melissa Clark,https://static01.nyt.com/images/2015/09/21/multimedia/clark-roast-chicken/clark-roast-chicken-mediumThreeByTwo252-v4.jpg
+334,Meera Sodha’s Naan,Sam Sifton,https://static01.nyt.com/images/2015/10/18/magazine/18eat2/18eat2-mediumThreeByTwo252-v2.jpg
+335,Meera Sodha’s Chicken Curry,Sam Sifton,https://static01.nyt.com/images/2015/10/18/magazine/18eat1/18eat1-mediumThreeByTwo252-v2.jpg
+336,West Indian Lamb Curry,Melissa Clark,https://static01.nyt.com/images/2015/10/13/multimedia/clark-lamb-curry/clark-lamb-curry-mediumThreeByTwo252.jpg
+337,Jerk Ribs,Sam Sifton,https://static01.nyt.com/images/2015/10/25/magazine/25eat1/25eat1-mediumThreeByTwo252-v2.jpg
+338,Shredded Tofu and Shiitake Stir-Fry,Melissa Clark,https://static01.nyt.com/images/2015/10/22/multimedia/clark-tofu/clark-tofu-mediumThreeByTwo252.jpg
+339,Trini Chana and Aloo,Francis Lam,https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04eat-t_CA0-mediumThreeByTwo252.jpg
+340,Spicy Fried Shrimp With Green Chutney,David Tanis,https://static01.nyt.com/images/2015/10/07/dining/07KITCHEN1/07KITCHEN1-mediumThreeByTwo252.jpg
+341,Sheet-Pan Roasted Fish With Sweet Peppers,Melissa Clark,https://static01.nyt.com/images/2015/10/07/dining/07APPE1/07APPE1-mediumThreeByTwo252.jpg
+342,Ruth Reichl’s Chicken Diavolo,Kim Severson,https://static01.nyt.com/images/2015/09/18/dining/18CHICKENDIAVOLO/18CHICKENDIAVOLO-mediumThreeByTwo252.jpg
+343,Orange Beef,Sam Sifton,https://static01.nyt.com/images/2015/09/23/dining/23PANTRY3/23PANTRY3-mediumThreeByTwo252.jpg
+344,Roasted Vegetables,Melissa Clark,https://static01.nyt.com/images/2015/09/23/dining/23ROASTEDVEGETABLES/23ROASTEDVEGETABLES-mediumThreeByTwo252.jpg
+345,Baby Bok Choy With Oyster Sauce,Sam Sifton,https://static01.nyt.com/images/2015/09/23/dining/23PANTRY2/23PANTRY2-mediumThreeByTwo252.jpg
+346,"Pasta With Bacon, Cheese, Lemon and Pine Nuts",Julia Moskin,https://static01.nyt.com/images/2017/10/20/dining/lemon-pasta/lemon-pasta-mediumThreeByTwo252-v2.jpg
+347,Miso Chicken,Sam Sifton,https://static01.nyt.com/images/2017/03/25/dining/23PANTRY1/23PANTRY1-mediumThreeByTwo252-v3.jpg
+348,Lucy Buffett’s Oyster Dressing,Kim Severson,https://static01.nyt.com/images/2014/11/19/dining/19ALABAMA/19ALABAMA-videoSixteenByNine310.jpg
+349,Mofongo Stuffing,Jeff Gordinier,https://static01.nyt.com/images/2014/11/19/dining/19PUERTORICO/19PUERTORICO-videoSixteenByNine310.jpg
+350,Grape Salad,David Tanis,https://static01.nyt.com/images/2014/11/19/dining/19MINNESOTA/19MINNESOTA-videoSixteenByNine310.jpg
+351,Du Pont Turkey With Truffled Zucchini Stuffing,Florence Fabricant,https://static01.nyt.com/images/2014/11/19/dining/19DELAWARE/19DELAWARE-videoSixteenByNine310.jpg
+352,Vermont Cheddar Mashed Potatoes,David Tanis,https://static01.nyt.com/images/2018/11/14/dining/vermont-cheddar-mashed-potatoes/vermont-cheddar-mashed-potatoes-mediumThreeByTwo252.jpg
+353,Hasselback Potatoes With Garlic-Paprika Oil,Julia Moskin,https://static01.nyt.com/images/2014/11/19/dining/19IDAHO/19IDAHO-videoSixteenByNine310.jpg
+354,Really Big Beets,Tara Parker-Pope,https://static01.nyt.com/images/2014/11/14/science/13VEGTHANXBEET/13VEGTHANXBEET-videoSixteenByNine310.jpg
+355,Three Sisters Stew,Sam Sifton,https://static01.nyt.com/images/2014/11/19/dining/19WYOMING/19WYOMING-videoSixteenByNine310.jpg
+356,Glazed Bacon,Florence Fabricant,https://static01.nyt.com/images/2014/11/19/dining/19PENNSYLVANIA/19PENNSYLVANIA-videoSixteenByNine310.jpg
+357,Wild Rice With Mushrooms,Ligaya Mishan,https://static01.nyt.com/images/2014/11/19/dining/19WISCONSIN/19WISCONSIN-videoSixteenByNine310.jpg
+358,Lefse,Sam Sifton,https://static01.nyt.com/images/2014/11/19/dining/19NORTHDAKOTA/19NORTHDAKOTA-videoSixteenByNine310.jpg
+359,Harvey House Candied Sweet Potatoes,Melissa Clark,https://static01.nyt.com/images/2014/11/19/dining/19KANSAS/19KANSAS-videoSixteenByNine310.jpg
+360,Fastest Roast Turkey,Sam Sifton,https://static01.nyt.com/images/2014/10/20/multimedia/thanksgiving-fast-turkey/thanksgiving-fast-turkey-videoSixteenByNine310.jpg
+361,Beef Short Ribs with Star Anise and Tangerine,David Tanis,https://static01.nyt.com/images/2014/12/03/dining/03KITCH1_HORIZ/03KITCH1_HORIZ-videoSixteenByNine310.jpg
+362,Schmaltz Latkes,Melissa Clark,https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ1/10JP-SCHMALTZ1-videoSixteenByNine310.jpg
+363,Fried Eggplant With Chickpeas and Mint Chutney,Melissa Clark,https://static01.nyt.com/images/2015/08/04/multimedia/clark-fried-eggplant/clark-fried-eggplant-mediumThreeByTwo252.jpg
+364,Cheater’s Pickles,Kim Severson,https://static01.nyt.com/images/2015/09/02/dining/02DORAWEB7/02DORAWEB7-mediumThreeByTwo252.jpg
+365,Roast Chickens With Plums,Melissa Clark,https://static01.nyt.com/images/2015/09/01/multimedia/clark-chicken-plums/clark-chicken-plums-mediumThreeByTwo252.jpg
+366,Lucky Peach Lamb Burgers,Sam Sifton,https://static01.nyt.com/images/2015/09/06/magazine/06eat2/06mag-06eat-t_CA0-mediumThreeByTwo252.jpg
+367,Fatty Crab's Chili Crab,Matt Lee And Ted Lee,https://static01.nyt.com/images/2014/05/27/dining/Crab/Crab-videoSixteenByNine310.jpg
+368,Crab With Crisp Bitter Greens,Sam Sifton,https://static01.nyt.com/images/2013/07/14/magazine/14eat3/14eat3-largeHorizontal375-v2.jpg
+369,Tomato Nam Prik,Mark Bittman,https://static01.nyt.com/images/2015/08/16/magazine/16eat5_tomato/16eat5_tomato-mediumThreeByTwo252.jpg
+370,Bourbon Balsamic Syrup,Mark Bittman,https://static01.nyt.com/images/2015/08/16/magazine/16eat2_bourbon/16eat2_bourbon-mediumThreeByTwo252.jpg
+371,Blue Butter,Mark Bittman,https://static01.nyt.com/images/2015/08/16/magazine/16eat3_butter/16eat3_butter-mediumThreeByTwo252.jpg
+372,"Spicy Smashed Cucumbers With Lime, Honey and Croutons",Julia Moskin,https://static01.nyt.com/images/2015/08/18/dining/18CUKE/18CUKE-mediumThreeByTwo252.jpg
+373,Chinese Smashed Cucumbers With Sesame Oil and Garlic,Julia Moskin,https://static01.nyt.com/images/2015/08/19/dining/19CUKE1/19CUKE1-mediumThreeByTwo252.jpg
+374,Summer Berry Buckle,Melissa Clark,https://static01.nyt.com/images/2015/08/24/dining/24BERRYBUCKLE/24BERRYBUCKLE-mediumThreeByTwo252.jpg
+375,Quick Fresh Tomato Sauce,David Tanis,https://static01.nyt.com/images/2015/08/26/dining/26KITCHEN1/26KITCHEN1-mediumThreeByTwo252.jpg
+376,Pasta With Fresh Tomato Sauce and Ricotta,David Tanis,https://static01.nyt.com/images/2019/06/20/dining/dt-fresh-tomato-sauce-and-pasta/merlin_156440943_4f0730f8-2fa0-4921-8f68-935180fc474e-mediumThreeByTwo252.jpg
+377,Liège Waffles,Ligaya Mishan,https://static01.nyt.com/images/2015/08/26/dining/26CLOSE3/26CLOSE3-mediumThreeByTwo252.jpg
+378,Grilled Sesame Lime Chicken Breasts,Melissa Clark,https://static01.nyt.com/images/2019/06/27/dining/grilled-sesame-lime-chicken2/grilled-sesame-lime-chicken2-mediumThreeByTwo252.jpg
+379,Zucchini Parmesan,Martha Rose Shulman,https://static01.nyt.com/images/2015/07/15/dining/15MARTHA/15MARTHA-mediumThreeByTwo252.jpg
+380,Smoky Eggplant Salad With Yogurt and Mint,David Tanis,https://static01.nyt.com/images/2015/07/22/dining/22KITCH2/22KITCH2-mediumThreeByTwo252-v2.jpg
+381,Spicy Eggplant Salad With Sesame Oil,David Tanis,https://static01.nyt.com/images/2015/07/22/dining/22KITCH3/22KITCH3-mediumThreeByTwo252.jpg
+382,Steamed Clams,Sam Sifton,https://static01.nyt.com/images/2015/08/09/magazine/09eat1/09mag-09eat-t_CA0-mediumThreeByTwo252.jpg
+383,Fried Zucchini With Pecorino and Hot Pepper,David Tanis,https://static01.nyt.com/images/2015/08/04/realestate/ZUCCHINI-slide-AWMS/ZUCCHINI-slide-AWMS-mediumThreeByTwo252.jpg
+384,Jalapeño Brown Butter,Sam Sifton,https://static01.nyt.com/applications/cooking/c1085ae/assets/44.png?1
+385,Tomato Salad With Anchovy Toasts,David Tanis,https://static01.nyt.com/images/2015/08/05/dining/TOMATO-slide-KEZJ/TOMATO-slide-KEZJ-mediumThreeByTwo252-v3.jpg
+386,Grilled Skirt Steak With Smoky Eggplant Chutney,John Willoughby And Chris Schlesinger,https://static01.nyt.com/images/2014/03/05/dining/05steak/05steak-videoSixteenByNine310.jpg
+387,Grilled Pork Belly With Soy-Mirin Glaze,Florence Fabricant,https://static01.nyt.com/images/2014/04/03/dining/Grilled-Pork-Belly/Grilled-Pork-Belly-videoSixteenByNine310.jpg
+388,Summer-Squash Casserole,Julia Reed,https://static01.nyt.com/images/2019/08/01/dining/jr-summer-squash-casserole/merlin_158598327_30601548-ee07-443c-8f95-913b074e5c72-mediumThreeByTwo252.jpg
+389,Star Anise Brine,Sam Sifton,https://static01.nyt.com/images/2012/12/09/magazine/09eat3/09eat3-videoSixteenByNine310.jpg
+390,Coconut Kale,Sam Sifton,https://static01.nyt.com/images/2014/04/29/dining/Grilled-Coconut-Kale/Grilled-Coconut-Kale-videoSixteenByNine310.jpg
+391,Panzanella With Mozzarella and Herbs,Melissa Clark,https://static01.nyt.com/images/2015/07/08/dining/08APPE2/08APPE2-mediumThreeByTwo252.jpg
+392,Make-Ahead Fried Chicken,Melissa Clark,https://static01.nyt.com/images/2015/07/02/multimedia/clark-fried-chicken/clark-fried-chicken-mediumThreeByTwo252.jpg
+393,Barbecued Chicken,Sam Sifton,https://static01.nyt.com/images/2015/07/15/dining/15JPGRILL1/15JPGRILL1-mediumThreeByTwo252-v4.jpg
+394,Simple Barbecue Sauce,John Willoughby,https://static01.nyt.com/images/2015/07/15/dining/15GRILLSAUCE/15GRILLSAUCE-mediumThreeByTwo252.jpg
+395,Grilled Baby Back Ribs,Sam Sifton,https://static01.nyt.com/images/2016/05/27/dining/27BARBECUEDRIBS/27BARBECUEDRIBS-mediumThreeByTwo252.jpg
+396,Sweet and Spicy Fruit Salad,Melissa Clark,https://static01.nyt.com/images/2015/07/15/dining/15APPE1/15APPE1-mediumThreeByTwo252.jpg
+397,Grilled Romaine,Sam Sifton,https://static01.nyt.com/images/2015/07/15/dining/15JPGRILL3/15JPGRILL3-mediumThreeByTwo252.jpg
+398,Grilled Corn,Sam Sifton,https://static01.nyt.com/images/2015/07/15/dining/15CORN/15CORN-mediumThreeByTwo252-v4.jpg
+399,Chicken in Mustard Sauce,Jacques Pépin,https://static01.nyt.com/images/2015/10/15/dining/15RECIPE17DIN/15RECIPE17DIN-mediumThreeByTwo252.jpg
+400,Perfect Peach Pie,Sam Sifton,https://static01.nyt.com/images/2015/07/12/magazine/12eat1/12mag-12eat-t_CA0-mediumThreeByTwo252.jpg
+401,Caramelized Brown Butter Rice Krispies Treats,Julia Moskin,https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-mediumThreeByTwo252.jpg
+402,Watermelon Popsicles,Mark Bittman,https://static01.nyt.com/images/2014/05/12/dining/Popsicles/Popsicles-videoSixteenByNine310.jpg
+403,Nathalie Dupree’s Liberty Cobbler,Nancy Harmon Jenkins,https://static01.nyt.com/images/2015/06/10/dining/10SUBLIBERTYCOBBLER/10SUBLIBERTYCOBBLER-mediumThreeByTwo252.jpg
+404,Red Velvet Cake,Kim Severson,https://static01.nyt.com/images/2014/05/14/dining/14REDVELVET/14REDVELVET-videoSixteenByNine310-v4.jpg
+405,Julia Child's Berry Clafoutis,Julia Moskin,https://static01.nyt.com/images/2012/08/15/dining/15MYFAVORITE2/15MYFAVORITE2-videoSixteenByNine310.jpg
+406,Chocolate Chip Cookies,David Leite,https://static01.nyt.com/images/2018/09/14/dining/DL-chocolate-chip-cookies-horizontal/merlin_23916029_87731399-2cde-458d-997f-afdeadb76ecd-mediumThreeByTwo252.jpg
+407,Eastern North Carolina-Style Barbecue Sauce,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20HIT_BBQSAUCE/20HIT_BBQSAUCE-mediumThreeByTwo252.jpg
+408,Inside-Out Lamb Cheeseburgers,Mark Bittman,https://static01.nyt.com/images/2014/12/30/dining/bittman-lamb-cheeseburger/bittman-lamb-cheeseburger-videoSixteenByNine310.jpg
+409,Grilled Shrimp With Wilted Spinach and Peaches,John Willoughby And Chris Schlesinger,https://static01.nyt.com/images/2014/03/05/dining/05shrimp/05shrimp-videoSixteenByNine310.jpg
+410,Lemon and Thyme Grilled Chicken Breasts,Melissa Clark,https://static01.nyt.com/images/2015/06/17/multimedia/clark-grilled-chicken/clark-grilled-chicken-mediumThreeByTwo252.jpg
+411,Spicy Grilled Chicken With Tomato-Cucumber Relish,John Willoughby And Chris Schlesinger,https://static01.nyt.com/images/2014/02/20/dining/recipes-spicedrubbedgrilledchicken/recipes-spicedrubbedgrilledchicken-videoSixteenByNine310.jpg
+412,Grilled Pork Chops With Cherry Sauce,Mark Bittman,https://static01.nyt.com/images/2014/06/16/magazine/mag-22eat-03/mag-22eat-03-videoSixteenByNine310.jpg
+413,Deluxe Cheesecake,Craig Claiborne,https://static01.nyt.com/images/2015/06/11/multimedia/classic-cheesecake/classic-cheesecake-mediumThreeByTwo252.jpg
+414,East Coast Grill’s Cornbread,Sam Sifton,https://static01.nyt.com/images/2015/07/06/dining/06CORNBREAD/06CORNBREAD-mediumThreeByTwo252.jpg
+415,Sweet and Spicy Grilled Chicken Breasts,Melissa Clark,https://static01.nyt.com/images/2015/06/22/dining/22GRILLCHIXSWEETSOUR/22GRILLCHIXSWEETSOUR-mediumThreeByTwo252-v3.jpg
+416,Coffee-Chile Dry Rub,Matt Lee And Ted Lee,https://static01.nyt.com/images/2015/07/01/dining/20150701STEAK-slide-239P/20150701STEAK-slide-239P-mediumThreeByTwo252.jpg
+417,Rosie Schaap's Cuba Libre,Rosie Schaap,https://static01.nyt.com/images/2014/05/20/multimedia/sumdrinks-cubalibre-site/sumdrinks-cubalibre-site-videoSixteenByNine310.jpg
+418,"Roast Chicken With Couscous, Dates and Buttered Almonds",Julia Moskin,https://static01.nyt.com/images/2015/06/17/dining/17JPRAMADAN3/17JPRAMADAN3-mediumThreeByTwo252-v3.jpg
+419,Dates With Cream and Chopped Pistachios,Julia Moskin,https://static01.nyt.com/images/2015/06/17/dining/17MAFFEI/17MAFFEI-mediumThreeByTwo252.jpg
+420,Fresh Ricotta,Melissa Clark,https://static01.nyt.com/images/2012/03/30/dining/video-clarkricotta/video-clarkricotta-videoSixteenByNine310.jpg
+421,April Bloomfield's Pot-Roasted Artichokes With White Wine,The New York Times,https://static01.nyt.com/images/2015/05/20/t-magazine/20beddie-bloomfield/20beddie-bloomfield-mediumThreeByTwo252.jpg
+422,Sam Sifton's Pan Con Tomate,Sam Sifton,https://static01.nyt.com/images/2013/08/18/magazine/18eat/mag-18Eat-t_CA0-square320.jpg
+423,Bulgogi (Korean Grilled Beef),Julia Moskin,https://static01.nyt.com/images/2015/06/03/dining/maangchi-moskinSUB/maangchi-moskinSUB-mediumThreeByTwo252.jpg
+424,Green Garlic Toast,Melissa Clark,https://static01.nyt.com/images/2015/05/26/multimedia/clark-garlic-crostini/clark-garlic-crostini-mediumThreeByTwo252.jpg
+425,Grilled Broccoli,Sam Sifton,https://static01.nyt.com/images/2015/06/10/dining/10COOKBOOK3/10COOKBOOK3-mediumThreeByTwo252.jpg
+426,St. Anselm’s Iceberg Wedge Salad,Sam Sifton,https://static01.nyt.com/images/2015/06/11/dining/wedge-salad/wedge-salad-mediumThreeByTwo252.jpg
+427,Fast Vietnamese Caramel Bluefish,Melissa Clark,https://static01.nyt.com/images/2015/06/10/dining/10APPE1/10APPE1-mediumThreeByTwo252.jpg
+428,Pulled Lamb Shoulder,Sam Sifton,https://static01.nyt.com/images/2015/06/10/dining/10COOKBOOK1/10COOKBOOK1-mediumThreeByTwo252.jpg
+429,Three-Cup Chicken,Sam Sifton,https://static01.nyt.com/images/2016/06/06/dining/06COOKING-THREECUPCHICKEN1/06COOKING-THREECUPCHICKEN1-mediumThreeByTwo252-v2.jpg
+430,Spicy Coleslaw,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20HIT_COLESLAW/20HIT_COLESLAW-mediumThreeByTwo252.jpg
+431,Crunchy Roasted Za’atar Chickpeas,Melissa Clark,https://static01.nyt.com/images/2015/05/27/dining/27COOKBOOK1/27COOKBOOK1-mediumThreeByTwo252.jpg
+432,Feijoada,Francis Lam,https://static01.nyt.com/images/2015/05/31/magazine/31eat6/31eat6-mediumThreeByTwo252-v2.jpg
+433,Soft-Shell Crabs With Curry Butter,David Tanis,https://static01.nyt.com/images/2015/06/03/dining/03KIT1/03KIT1-mediumThreeByTwo252.jpg
+434,Bangladeshi Chicken Korma,Francis Lam,https://static01.nyt.com/images/2015/05/03/magazine/03eat1/03eat1-videoSixteenByNine310-v2.jpg
+435,Cinnamon Raisin Swirl Bread,Melissa Clark,https://static01.nyt.com/images/2015/04/21/multimedia/clark-rasin-bread/clark-rasin-bread-videoSixteenByNine310.jpg
+436,Stuffed and Seared Duck Breasts,Mark Bittman,https://static01.nyt.com/images/2017/02/07/dining/07COOKING-STUFFEDDUCKBREASTS1/07COOKING-STUFFEDDUCKBREASTS1-mediumThreeByTwo252.jpg
+437,Stuffed Squid Sicilian-Style,David Tanis,https://static01.nyt.com/images/2015/05/13/dining/13KITCHEN1/13KITCHEN1-mediumThreeByTwo252.jpg
+438,Fresh Egg Pasta,Melissa Clark,https://static01.nyt.com/images/2015/05/07/multimedia/clark-pasta/clark-pasta-mediumThreeByTwo252.jpg
+439,Pasta Primavera With Asparagus and Peas,Melissa Clark,https://static01.nyt.com/images/2015/05/13/dining/13BIGAPPETITE2/13BIGAPPETITE2-mediumThreeByTwo252-v3.jpg
+440,Bacon and Shallot Potato Salad,Melissa Clark,https://static01.nyt.com/images/2015/05/20/dining/20POTATO4/20POTATO4-mediumThreeByTwo252.jpg
+441,Grilled Garlic Bread,Julia Moskin,https://static01.nyt.com/images/2015/05/20/dining/20SALAD4/20SALAD4-mediumThreeByTwo252.jpg
+442,Spicy Kimchi Potato Salad,Melissa Clark,https://static01.nyt.com/images/2015/05/20/dining/20POTATO1/20POTATO1-mediumThreeByTwo252.jpg
+443,Cold Fried Chicken,Tamar Adler,https://static01.nyt.com/images/2015/05/17/magazine/17eat/17mag-17eat-t_CA1-mediumThreeByTwo252.jpg
+444,Italian Marinade,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20SPIEDIEMARINADE/20SPIEDIEMARINADE-mediumThreeByTwo252.jpg
+445,Spiedies,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20ENTREE6/20ENTREE6-mediumThreeByTwo252.jpg
+446,Lobster Butter,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20LOBSTERBUTTER/20FISHBUTTER-mediumThreeByTwo252.jpg
+447,Frozen Fudge Pops,Kim Severson,https://static01.nyt.com/images/2015/05/20/dining/20FUDGESICLE_SUB/20FUDGESICLE_SUB-mediumThreeByTwo252.jpg
+448,All-Purpose Dry Rub,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20LONDONBROILRUB/20LONDONBROILRUB-mediumThreeByTwo252.jpg
+449,Compound Butter,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20COMPOUNDBUTTER/20COMPOUNDBUTTER-mediumThreeByTwo252.jpg
+450,Dry-Rubbed London Broil,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20ENTREE4/20ENTREE4-mediumThreeByTwo252.jpg
+451,"Eggplant With Lamb, Tomato and Pine Nuts",Melissa Clark,https://static01.nyt.com/images/2015/05/27/dining/27COOKBOOK3/27COOKBOOK3-mediumThreeByTwo252.jpg
+452,Asparagus and Chicken Salad With Ginger Dressing,David Tanis,https://static01.nyt.com/images/2015/05/27/dining/27KITCHEN1/27KITCHEN1-mediumThreeByTwo252-v3.jpg
+453,Jamaican Beef Patties,Julia Moskin And Kim Severson,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/16.png?1
+454,The Lee Brothers’ Pimento Cheese,The New York Times,https://static01.nyt.com/images/2015/04/14/dining/pimento-cheese-recipe/pimento-cheese-recipe-mediumThreeByTwo252-v2.jpg
+455,The Best Roast Beef for Sandwiches,Melissa Clark,https://static01.nyt.com/images/2015/04/07/multimedia/clark-roast-beef/clark-roast-beef-videoSixteenByNine310.jpg
+456,Vegan Mapo Tofu,David Tanis,https://static01.nyt.com/images/2019/02/24/dining/dt-vegetarian-mapo-tofu/dt-vegetarian-mapo-tofu-mediumThreeByTwo252.jpg
+457,Pan-Roasted Fish Fillets With Herb Butter,Julia Moskin,https://static01.nyt.com/images/2015/04/15/multimedia/recipelab-fish/recipelab-fish-videoSixteenByNine310.jpg
+458,Boston Brown Bread,Jeff Gordinier,https://static01.nyt.com/images/2015/04/29/dining/29JPNORTHER12/29JPNORTHER12-videoSixteenByNine310-v2.jpg
+459,Boiled Potatoes With Butter and Mint,Julia Moskin,https://static01.nyt.com/images/2015/04/29/dining/29COOKBOOK2/29COOKBOOK2-videoSixteenByNine310.jpg
+460,Excellent White Bread,Melissa Clark,https://static01.nyt.com/images/2015/04/30/dining/29BIGAPPETITE/29BIGAPPETITE-videoSixteenByNine310.jpg
+461,Whole Pot-Roasted Cauliflower With Tomatoes and Anchovies,Julia Moskin,https://static01.nyt.com/images/2015/04/29/dining/29COOKBOOK4/29COOKBOOK4-videoSixteenByNine310.jpg
+462,Potato Cavatelli,Kim Severson,https://static01.nyt.com/images/2015/05/05/dining/potato-cavatelli-horizontal/potato-cavatelli-horizontal-videoSixteenByNine310.jpg
+463,Coconut Cream Pie,Kim Severson,https://static01.nyt.com/images/2015/05/05/dining/coconut-cream-pie-horizontal/coconut-cream-pie-horizontal-videoSixteenByNine310.jpg
+464,Béarnaise Sauce,Sam Sifton,https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-videoSixteenByNine310.jpg
+465,Chicken Adobo,Sam Sifton,https://static01.nyt.com/images/2017/08/07/dining/chicken-adobo/chicken-adobo-mediumThreeByTwo252.jpg
+466,Butter-Stewed Radishes,David Tanis,https://static01.nyt.com/images/2015/03/25/dining/25KIT3/25KIT3-videoSixteenByNine310.jpg
+467,Simple Steak au Poivre,David Tanis,https://static01.nyt.com/images/2015/04/01/dining/01KITCHEN1/01KITCHEN1-videoSixteenByNine310.jpg
+468,Creamed Rice With English Peas and Country Ham,Sam Sifton,https://static01.nyt.com/images/2015/04/01/dining/01COOKBOOK1/01COOKBOOK1-videoSixteenByNine310.jpg
+469,Radish Sandwiches With Butter And Salt,Sam Sifton,https://static01.nyt.com/images/2015/04/01/dining/01COOKBOOK2/01COOKBOOK2-videoSixteenByNine310.jpg
+470,Poundcake,The New York Times,https://static01.nyt.com/images/2015/04/17/dining/poundcake/poundcake-videoSixteenByNine310.jpg
+471,Roasted Chicken Provençal,Sam Sifton,https://static01.nyt.com/images/2017/08/03/dining/COOKING-CHICKEN-PROVENCAL/COOKING-CHICKEN-PROVENCAL-mediumThreeByTwo252.jpg
+472,Braised Tofu in Caramel Sauce,Sam Sifton,https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Braised-Tofu-videoSixteenByNine310.jpg
+473,Baked Beans,Sam Sifton,https://static01.nyt.com/images/2014/04/16/dining/16JPEASTER2/16JPEASTER2-videoSixteenByNine310.jpg
+474,Polpettone With Spinach and Provolone,David Tanis,https://static01.nyt.com/images/2015/02/18/dining/18KITCHEN5/18KITCHEN5-mediumThreeByTwo252-v2.jpg
+475,Christina Tosi’s Crockpot Cake,Sam Sifton,https://static01.nyt.com/images/2015/02/18/dining/18CROCKPOT2/18CROCKPOT2-videoSixteenByNine310.jpg
+476,Braised Chicken With Lemon and Olives,David Tanis,https://static01.nyt.com/images/2015/03/04/dining/04KITCH/04KITCH-videoSixteenByNine310.jpg
+477,Sampita,Francis Lam,https://static01.nyt.com/images/2015/03/29/magazine/29eat/29mag-29eat.t_CA0-videoSixteenByNine310.jpg
+478,Great South Bay Duck Ragù,Sam Sifton,https://static01.nyt.com/images/2011/04/24/magazine/24Eat_span/24Eat_span-mediumThreeByTwo252-v2.jpg
+479,Brisket With Horseradish Gremolata,Melissa Clark,https://static01.nyt.com/images/2015/03/18/multimedia/clark-brisket/clark-brisket-videoSixteenByNine310.jpg
+480,Ludo Lefebvre’s Roasted-Carrot Salad,Sam Sifton,https://static01.nyt.com/images/2015/03/08/magazine/08eat1/08mag-08eat.t_CA0-videoSixteenByNine310.jpg
+481,Chris Schlesinger’s Pulled Pork,Sam Sifton,https://static01.nyt.com/applications/cooking/4d350c2/assets/40.png?1
+482,Billi Bi,Sam Sifton,https://static01.nyt.com/images/2015/03/11/dining/11CLASSIC/11CLASSIC-videoSixteenByNine310.jpg
+483,Haitian Pork Griot,Melissa Clark,https://static01.nyt.com/images/2017/02/28/dining/28APPE-HAITIANPORK/28APPE-HAITIANPORK-mediumThreeByTwo252.jpg
+484,Broccoli Rabe Lasagna,David Tanis,https://static01.nyt.com/images/2015/03/18/dining/18KITCHEN1/18KITCHEN1-videoSixteenByNine310.jpg
+485,Cacio e Pepe,Mark Bittman,https://static01.nyt.com/images/2018/09/23/dining/23COOKING-CACIO-E-PEPE1/COOKING-CACIO-E-PEPE1-mediumThreeByTwo252-v2.jpg
+486,Roast Lamb,Julia Moskin,https://static01.nyt.com/images/2015/03/18/multimedia/recipe-lab-lamb/recipe-lab-lamb-videoSixteenByNine310.jpg
+487,Roasted Salmon Glazed With Brown Sugar and Mustard,Sam Sifton,https://static01.nyt.com/images/2018/08/17/dining/sifton-brown-sugar-mustard-salmon-horizontal/merlin_142427754_87be060f-648e-4783-a9ab-dec1ff12b722-mediumThreeByTwo252.jpg
+488,Vaguely Vietnamese Slow Cooker Pork Tacos,Sam Sifton,https://static01.nyt.com/images/2015/02/18/dining/18CROCKPOT5/18CROCKPOT5-videoSixteenByNine310.jpg
+489,Amanda Cohen’s Secret-Weapon Stir-Fry Sauce,Jeff Gordinier,https://static01.nyt.com/images/2015/02/25/dining/25DIRTJP6/25DIRTJP6-videoSixteenByNine310.jpg
+490,Caramelized Apples and Onions,Sam Sifton,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/28.png?1
+491,Linguine with Crab Meat,Florence Fabricant,https://static01.nyt.com/images/2014/12/17/dining/17PAIRING/17PAIRING-smallSquare252-v2.jpg
+492,Cheese Pupusas,Francis Lam,https://static01.nyt.com/images/2015/02/08/magazine/08eat/08eat-videoSixteenByNine310.jpg
+493,Pasta alla Genovese,Mark Bittman,https://static01.nyt.com/images/2017/12/13/dining/13COOKING-PASTA-GENOVESE1/13COOKING-PASTA-GENOVESE1-mediumThreeByTwo252.jpg
+494,Slow-Cooked Red Chile Turkey,David Tanis,https://static01.nyt.com/images/2014/11/19/dining/19NEWMEXICO/19NEWMEXICO-videoSixteenByNine310.jpg
+495,Pear Kuchen,Sam Sifton,https://static01.nyt.com/images/2014/11/19/dining/19SOUTHDAKOTA/19SOUTHDAKOTA-videoSixteenByNine310.jpg
+496,Marinated Venison Steaks,Sam Sifton,https://static01.nyt.com/images/2014/11/19/dining/19MONTANA/19MONTANA-videoSixteenByNine310.jpg
+497,Soft-Shell Crab Poor-Boy,Mark Bittman,https://static01.nyt.com/images/2014/12/30/dining/bittman-po-boy/bittman-po-boy-videoSixteenByNine310.jpg
+498,Yorkshire Pudding,Jeff Gordinier,https://static01.nyt.com/images/2015/01/14/dining/14PRIMEREX/14PRIMEREX-videoSixteenByNine310.jpg
+499,Shrimp and Scallop Dumplings,David Tanis,https://static01.nyt.com/images/2015/02/04/dining/04KITCHEN5/0204-KITCHEN5-videoSixteenByNine310.jpg
+500,Veal Parmesan,Melissa Clark,https://static01.nyt.com/images/2015/02/04/dining/0204-PARM3JP/0204-PARM3JP-videoSixteenByNine310.jpg
+501,Cauliflower Parmesan,Melissa Clark,https://static01.nyt.com/images/2015/01/28/multimedia/clark-cauli-parm/clark-cauli-parm-videoSixteenByNine310.jpg
+502,Simple Tomato Sauce,Melissa Clark,https://static01.nyt.com/images/2015/01/28/multimedia/clark-cauli-parm/clark-cauli-parm-videoSixteenByNine310.jpg
+503,Chicken Parmesan,Melissa Clark,https://static01.nyt.com/images/2017/11/10/dining/chickenparm/chickenparm-mediumThreeByTwo252.jpg
+504,Filipino Embutido,Francis Lam,https://static01.nyt.com/images/2015/01/11/magazine/11eat/11mag-11eat.t_CA1-videoSixteenByNine310.jpg
+505,Kimchi Noodle Cake,David Tanis,https://static01.nyt.com/images/2015/01/21/dining/21JPKITCHEN3/21JPKITCHEN3-videoSixteenByNine310.jpg
+506,Fireplace Trout,Tamar Adler,https://static01.nyt.com/images/2015/01/25/magazine/25eat/25eat-videoSixteenByNine310.jpg
+507,Texas-Style Chili,Julia Moskin,https://static01.nyt.com/images/2018/01/31/dining/31CHILI1/31CHILI1-mediumThreeByTwo252.jpg
+508,Feta-Brined Roast Chicken,Melissa Clark,https://static01.nyt.com/images/2018/12/20/dining/feta-chicken/feta-chicken-mediumThreeByTwo252.jpg
+509,Oven-Roasted Chicken Shawarma,Sam Sifton,https://static01.nyt.com/images/2016/06/06/dining/06COOKING-ROASTCHICKSHAWARM2/06COOKING-ROASTCHICKSHAWARM2-mediumThreeByTwo252.jpg
+510,Baked Miso-Glazed Tofu With Wild Mushrooms,Martha Rose Shulman,https://static01.nyt.com/images/2014/12/02/science/05recipehealth/05recipehealth-videoSixteenByNine310.jpg
+511,Bacon Fat Gingersnaps,Julia Moskin,https://static01.nyt.com/images/2014/12/03/dining/03COOKFIGHTREX7/03COOKFIGHTREX7-videoSixteenByNine310.jpg
+512,Schmaltz and Gribenes,Melissa Clark,https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ2/10JPSCHMALTZ2-videoSixteenByNine310.jpg
+513,Schmaltz-Roasted Brussels Sprouts,Melissa Clark,https://static01.nyt.com/images/2014/12/10/dining/10SCHMALTZ/10SCHMALTZ-videoSixteenByNine310.jpg
+514,Porchetta Pork Roast,Melissa Clark,https://static01.nyt.com/images/2014/12/09/multimedia/clark-porchetta/clark-porchetta-videoSixteenByNine310.jpg
+515,Sausage Rolls,David Tanis,https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KITCHEN1-videoSixteenByNine310-v2.jpg
+516,Fish Cakes With Herbs and Chiles,Melissa Clark,https://static01.nyt.com/images/2014/12/23/multimedia/spicy-fish-cakes-clark/spicy-fish-cakes-clark-videoSixteenByNine310.jpg
+517,Ina Garten’s Make-Ahead Coquilles St.-Jacques,Sam Sifton,https://static01.nyt.com/images/2015/01/04/magazine/04eat1-copy/04eat1-mediumThreeByTwo252-v2.jpg
+518,Broiled Leeks Vinaigrette,David Tanis,https://static01.nyt.com/images/2015/01/07/dining/07KITCH2/07KITCH2-videoSixteenByNine310.jpg
+519,Beef Bone Broth,Julia Moskin,https://static01.nyt.com/images/2015/01/07/dining/07JPBROTH6/07JPBROTH6-videoSixteenByNine310.jpg
+520,Fritto Misto di Mare,David Tanis,https://static01.nyt.com/images/2015/01/14/dining/14KITCH1/14KITCH1-videoSixteenByNine310.jpg
+521,Cal Peternell’s Braised Chicken Legs,Sam Sifton,https://static01.nyt.com/images/2015/01/07/dining/07COOKBOOKTWELVERECIPES2/07COOKBOOKTWELVERECIPES2-videoSixteenByNine310.jpg
+522,Salty-Sweet Peanut Butter Sandies,Julia Moskin,https://static01.nyt.com/images/2014/12/03/dining/03COOKFIGHT3/03COOKFIGHT3-videoSixteenByNine310.jpg
+523,Smothered Shrimp in Crab-Meat Gravy,Sam Sifton,https://static01.nyt.com/images/2014/12/07/magazine/07feasts15/07feasts15-videoSixteenByNine310-v4.jpg
+524,Fesenjan,Sam Sifton,https://static01.nyt.com/images/2014/12/07/magazine/07feasts19/07feasts19-videoSixteenByNine310-v2.jpg
+525,Okonomi-Latke,Sam Sifton,https://static01.nyt.com/images/2014/12/07/magazine/07feast14/07feast14-videoSixteenByNine310-v3.jpg
+526,Glazed Holiday Ham,Sam Sifton,https://static01.nyt.com/images/2018/12/04/dining/ss-holiday-ham/merlin_147543726_4e4aac57-ef4e-4c2d-b070-96c0f4141bf2-mediumThreeByTwo252.jpg
+527,Pork Cutlets With Lemon and Capers,David Tanis,https://static01.nyt.com/images/2013/09/25/dining/25KITCH5/25KITCH5-tmagSF.jpg
+528,Regina’s Butter Biscuits,Kim Severson,https://static01.nyt.com/images/2014/11/12/dining/JPPREPARE3/JPPREPARE3-videoSixteenByNine310.jpg
+529,Green Bean Casserole,Martha Rose Shulman,https://static01.nyt.com/images/2014/11/19/dining/19OKLAHOMA/19OKLAHOMA-videoSixteenByNine310.jpg
+530,Lobster Mac and Cheese,Sam Sifton,https://static01.nyt.com/images/2019/01/11/dining/ss-lobster-macaroni-and-cheese/merlin_148333191_fe30b469-aa35-4be5-988d-bb7d6ce495ac-mediumThreeByTwo252.jpg
+531,Classic Pan Gravy,Sam Sifton,https://static01.nyt.com/images/2017/10/26/dining/26COOKING-GRAVY3/26COOKING-GRAVY3-mediumThreeByTwo252.jpg
+532,Mojo Turkey,Sam Sifton,https://static01.nyt.com/images/2014/11/19/dining/19FLORIDA/19FLORIDA-videoSixteenByNine310.jpg
+533,New England Roast Turkey,Sam Sifton,https://static01.nyt.com/images/2014/11/19/dining/19NEWHAMPSHIRE/19NEWHAMPSHIRE-videoSixteenByNine310.jpg
+534,Daniel Boulud’s Chicken Tagine,Sam Sifton,https://static01.nyt.com/images/2017/08/02/dining/02COOKING_CHICKENTAGINE2/02COOKING_CHICKENTAGINE2-mediumThreeByTwo252.jpg
+535,Sweet Potatoes With Cranberry Chutney,Kim Severson,https://static01.nyt.com/images/2015/10/26/dining/26COOKING_CHUTNEYSWEETPOT3/26COOKING_CHUTNEYSWEETPOT3-mediumThreeByTwo252.jpg
+536,Cranberry Linzer Torte,David Tanis,https://static01.nyt.com/images/2014/11/12/dining/12KITCHEN1/KITCHEN1-videoSixteenByNine310.jpg
+537,Clam and Chouriço Dressing,Sam Sifton,https://static01.nyt.com/images/2014/11/19/dining/19MASSACHUSETTES/19MASSACHUSETTES-videoSixteenByNine310.jpg
+538,All-Purpose California Beef Rub,Kim Severson,https://static01.nyt.com/images/2014/10/29/dining/29JPTRITIP2/29JPTRITIP2-videoSixteenByNine310.jpg
+539,Grilled or Oven-Roasted Santa Maria Tri-Tip,Kim Severson,https://static01.nyt.com/images/2014/10/29/dining/29JPTRITIP1/29JPTRITIP1-mediumThreeByTwo252-v2.jpg
+540,Persian-Spiced Lamb Shanks,David Tanis,https://static01.nyt.com/images/2014/11/05/dining/05KITCHEN/5KITCHEN-videoSixteenByNine310.jpg
+541,Spicy Pan-Fried Noodles,Melissa Clark,https://static01.nyt.com/images/2014/10/31/multimedia/clark-pan-fried-noodles/clark-pan-fried-noodles-videoSixteenByNine310.jpg
+542,Original Chicken Cordon Bleu,Molly O'Neill,https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKEN-CORDON-BLEU1/01CHICKEN-CORDON-BLEU1-mediumThreeByTwo252.jpg
+543,Pork Schnitzel With Quick Pickles,Melissa Clark,https://static01.nyt.com/images/2014/10/10/multimedia/clark-schnitzel/clark-schnitzel-videoSixteenByNine310.jpg
+544,Fluke in Lemon Brodetto With Scallops and Squash,Sam Sifton,https://static01.nyt.com/images/2014/10/26/magazine/26eat2/mag-26eat-t_CA0-videoSixteenByNine310.jpg
+545,Foolproof Tarte Tatin,Julia Moskin,https://static01.nyt.com/images/2015/10/29/dining/29COOKING-TARTTAITIN1/29COOKING-TARTTAITIN1-mediumThreeByTwo252.jpg
+546,Velvet Chicken Breast With Mustard Sauce,David Tanis,https://static01.nyt.com/images/2014/10/29/dining/29KITCHEN/29KITCHEN-videoSixteenByNine310.jpg
+547,Macaroni and Cheese,Molly O'Neill,https://static01.nyt.com/applications/cooking/a9ea0b6/assets/21.png?1
+548,Mark Bittman's Gravlax,Mark Bittman,https://static01.nyt.com/images/2014/05/27/dining/Gravlax/Gravlax--videoSixteenByNine310-v2.jpg
+549,Spinach and Bacon Tartine,David Tanis,https://static01.nyt.com/images/2014/10/08/dining/08KITCH3/08KITCH3-videoSixteenByNine310.jpg
+550,Tita Em’s Chicken Wings Adobo,Jeff Gordinier,https://static01.nyt.com/images/2014/10/15/dining/15WINGSKUMA/15WINGSKUMA-videoSixteenByNine310.jpg
+551,Chicken Wings With Guajillo Anchovy Sauce,Jeff Gordinier,https://static01.nyt.com/images/2014/10/15/dining/20141015-WINGS-slide-TLPE/20141015-WINGS-slide-TLPE-videoSixteenByNine310.jpg
+552,Hanjan Chicken Wings,The New York Times,https://static01.nyt.com/images/2014/10/15/dining/15WINGSDANJI/15WINGSDANJI-videoSixteenByNine310.jpg
+553,Butternut-Squash Bisque,Sam Sifton,https://static01.nyt.com/images/2014/04/21/dining/Butternut-Squash-Bisque/Butternut-Squash-Bisque-videoSixteenByNine310.jpg
+554,Canlis Salad,Sam Sifton,https://static01.nyt.com/images/2013/03/03/magazine/03eat1/mag-03eat-t_CA0-square320.jpg
+555,Fried Rice,Sam Sifton,https://static01.nyt.com/images/2016/04/04/dining/04COOKING-FRIEDRICE1/04COOKING-FRIEDRICE1-mediumThreeByTwo252.jpg
+556,Cheater’s Brisket,Sam Sifton,https://static01.nyt.com/images/2014/04/09/dining/brisket/brisket-videoSixteenByNine310-v4.jpg
+557,Stuffed Jalapeños,Sam Sifton,https://static01.nyt.com/images/2016/01/19/dining/19COOKING_JALAPENOS2/19COOKING_JALAPENOS2-mediumThreeByTwo252.jpg
+558,Cabbage-and-Caraway Slaw,Sam Sifton,https://static01.nyt.com/images/2014/04/09/dining/Slaw/Slaw-videoSixteenByNine310.jpg
+559,Parmesan-Crusted Rack of Lamb,Sam Sifton,https://static01.nyt.com/images/2014/06/15/magazine/15eat/mag-15Eat-t_CA0-videoSixteenByNine310.jpg
+560,Mission Chinese Food’s Cabbage Salad,Sam Sifton,https://static01.nyt.com/images/2014/07/27/magazine/27eat/27eat-videoSixteenByNine310-v5.jpg
+561,"Baked Potatoes With Crab, Jalapeño and Mint",Sam Sifton,https://static01.nyt.com/images/2014/10/19/magazine/19eat4/19eat4-videoSixteenByNine310.jpg
+562,Twice-Baked Potatoes With Cauliflower and Cheese,Sam Sifton,https://static01.nyt.com/images/2014/10/19/magazine/19eat3/19eat3-videoSixteenByNine310.jpg
+563,Baked Potatoes,Sam Sifton,https://static01.nyt.com/images/2017/08/03/dining/COOKING-BAKED-POTATOES2/COOKING-BAKED-POTATOES2-mediumThreeByTwo252.jpg
+564,Donald Link's Eggplant Casserole,The New York Times,https://static01.nyt.com/images/2016/02/01/dining/01COOKING_EGGPLANTCASSEROLE/01COOKING_EGGPLANTCASSEROLE-mediumThreeByTwo252.jpg
+565,Inside-Out Lamb Persillade,Mark Bittman,https://static01.nyt.com/images/2014/03/05/dining/persillade-still/persillade-still-videoSixteenByNine310.jpg
+566,"Pasta With Roast Chicken, Currants and Pine Nuts",Julia Moskin,https://static01.nyt.com/images/2018/10/30/dining/jm-roast-chicken-with-pasta/jm-roast-chicken-with-pasta-mediumThreeByTwo252.jpg
+567,Cincinnati Chili Con Carne,Craig Claiborne And Pierre Franey,https://static01.nyt.com/images/2015/10/16/dining/16COOKING-CHILICONCARNE/16COOKING-CHILICONCARNE-mediumThreeByTwo252.jpg
+568,Serious Turkey Stock,Sam Sifton,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/23.png?1
+569,Peperonata,Sam Sifton,https://static01.nyt.com/images/2014/04/09/dining/Peperonata/Peperonata-videoSixteenByNine310.jpg
+570,Cornmeal Plum Scones,Melissa Clark,https://static01.nyt.com/images/2014/10/01/dining/01APPETITE/01APPETITE-videoSixteenByNine310.jpg
+571,Butternut Squash Polenta With Sausage and Onion,Melissa Clark,https://static01.nyt.com/images/2014/03/05/dining/05APPE_SPAN/05APPE_SPAN-videoSixteenByNine310-v2.jpg
+572,Red Wine Honey Cake With Plums,Melissa Clark,https://static01.nyt.com/images/2014/04/15/dining/honeycake/honeycake-videoSixteenByNine310.jpg
+573,Thai-Inspired Beef Salad With Mint,Mark Bittman,https://static01.nyt.com/images/2014/05/12/dining/Minty-Thai-Beef-Salad/Minty-Thai-Beef-Salad-videoSixteenByNine310.jpg
+574,"Roast Chicken With Cumin, Honey and Orange",Mark Bittman,https://static01.nyt.com/images/2014/05/12/dining/Roast-Chicken-With-Cumin-Honey-And-Orange/Roast-Chicken-With-Cumin-Honey-And-Orange-videoSixteenByNine310.jpg
+575,Craig Claiborne’s Smothered Chicken,Sam Sifton,https://static01.nyt.com/images/2014/09/22/multimedia/classic-smotheredchicken/classic-smotheredchicken-videoSixteenByNine310.jpg
+576,Guinness Pie,Sam Sifton,https://static01.nyt.com/images/2019/03/05/dining/ss-guinness-pie/merlin_150673182_afa6f84f-5993-4f0c-b53c-2ac0b44d01f6-mediumThreeByTwo252.jpg
+577,Picadillo,Sam Sifton,https://static01.nyt.com/images/2014/09/21/magazine/21eat/mag-21eat-t_CA0-videoSixteenByNine310.jpg
+578,Brooks Headley's Ice Cream Sandwich,Jeff Gordinier,https://static01.nyt.com/images/2014/09/17/dining/17HEADLEYSIDE/HEADLEYSIDE-videoSixteenByNine310.jpg
+579,Sweet and Spicy Roast Chicken,Melissa Clark,https://static01.nyt.com/images/2014/09/10/multimedia/clark-sweet-sour-chicken/clark-sweet-sour-chicken-videoSixteenByNine310.jpg
+580,Torrisi's Chicken Fra Diavolo,Frank Bruni,https://static01.nyt.com/images/2014/05/20/dining/Devils-Chicken/Devils-Chicken-mediumThreeByTwo252-v2.jpg
+581,No-Knead Bread,Mark Bittman,https://static01.nyt.com/images/2018/11/05/dining/mb-no-knead-bread/mb-no-knead-bread-mediumThreeByTwo252.jpg
+582,Broccolini and Edamame Salad With Coconut,Melissa Clark,https://static01.nyt.com/images/2014/09/10/dining/10COOKBOOK1/10COOKBOOK1-videoSixteenByNine310-v2.jpg
+583,"Crispy Lamb With Cumin, Scallions and Red Chiles",Julia Moskin,https://static01.nyt.com/images/2014/04/01/dining/lamb-cumin-scallions/lamb-cumin-scallions-videoSixteenByNine310.jpg
+584,Clam Dip,Sam Sifton,https://static01.nyt.com/images/2018/06/05/dining/clam-dip/clam-dip-mediumThreeByTwo252-v2.jpg
+585,Pasta With Parsnips and Bacon,Melissa Clark,https://static01.nyt.com/images/2014/01/29/dining/29APPE1_SUBSPAN/29APPE1_SUBSPAN-videoSixteenByNine310-v2.jpg
+586,Orange Marmalade Cake,Melissa Clark,https://static01.nyt.com/images/2014/02/14/multimedia/clark-marmalade-cake/clark-marmalade-cake-videoSixteenByNine310.jpg
+587,Creamy Polenta With Mushrooms,Sam Sifton,https://static01.nyt.com/images/2018/02/07/dining/07COOKING-POLENTA-MUSHROOMS1/07COOKING-POLENTA-MUSHROOMS1-mediumThreeByTwo252.jpg
+588,Avocado Tacos,Jeff Gordinier,https://static01.nyt.com/images/2014/09/03/dining/03OLVSIDE/03OLVSIDE-videoSixteenByNine310.jpg
+589,Butter-Fried Oysters,David Tanis,https://static01.nyt.com/images/2014/04/02/dining/butterfriedoysters/butterfriedoysters-videoSixteenByNine310.jpg
+590,Chicken-Liver Pâté,Sam Sifton,https://static01.nyt.com/images/2014/01/26/magazine/26eat/mag-26Eat-t_CA0-videoSixteenByNine310.jpg
+591,Chicken and Apricot Masala,Nigella Lawson,https://static01.nyt.com/images/2014/03/21/dining/apricot-still/apricot-still-videoSixteenByNine310.jpg
+592,Red Chile Pork Brochettes,David Tanis,https://static01.nyt.com/images/2014/08/19/dining/porkbrochette/porkbrochette-videoSixteenByNine310.jpg
+593,Slow-Smoked Brisket,Julia Moskin,https://static01.nyt.com/images/2017/05/15/dining/15COOKING-SMOKEDBRISKET2/15COOKING-SMOKEDBRISKET2-mediumThreeByTwo252.jpg
+594,Butter Chicken,Sam Sifton,https://static01.nyt.com/images/2014/08/24/magazine/24eat/mag-24Eat-t_CA0-videoSixteenByNine310.jpg
+595,Cheddar Scallion Dip,Melissa Clark,https://static01.nyt.com/images/2018/08/29/dining/clark-cheddar-scallion-dip/clark-cheddar-scallion-dip-mediumThreeByTwo252.jpg
+596,Vichy Carrots,Sam Sifton,https://static01.nyt.com/images/2014/07/16/dining/16COOKBOOK/16COOKBOOK-videoSixteenByNine310.jpg
+597,Shaved Brussels Sprouts With Pecorino and Walnuts,Sam Sifton,https://static01.nyt.com/images/2014/07/16/dining/16COOKBOOK/16COOKBOOK-videoSixteenByNine310.jpg
+598,St. Louis Gooey Butter Cake,Melissa Clark,https://static01.nyt.com/images/2014/04/10/dining/gooeybuttercake/gooeybuttercake-videoSixteenByNine310.jpg
+599,"Pan-Roasted Shrimp With Mezcal, Tomatoes and Arbol Chiles",Kim Severson,https://static01.nyt.com/images/2014/08/06/dining/06JPSHRIMP4/06JPSHRIMP4-videoSixteenByNine310.jpg
+600,Southern Shrimp Scampi,Kim Severson,https://static01.nyt.com/images/2014/07/24/multimedia/severson-shrimp/severson-shrimp-videoSixteenByNine310.jpg
+601,The Best Clam Chowder,Sam Sifton,https://static01.nyt.com/images/2017/08/03/dining/COOKING-BEST-CLAM-CHOWDER2/COOKING-BEST-CLAM-CHOWDER2-mediumThreeByTwo252.jpg
+602,Rhode Island Clam Chowder,Sam Sifton,https://static01.nyt.com/images/2014/08/10/magazine/10eat3/10eat3-videoSixteenByNine310.jpg
+603,Manhattan Clam Chowder with Hake and Chorizo,Dana Bowen,https://static01.nyt.com/images/2014/05/28/dining/manhattanclamchowder/manhattanclamchowder-videoSixteenByNine310.jpg
+604,Manhattan Clam Chowder,Sam Sifton,https://static01.nyt.com/images/2014/08/10/magazine/10eat2/10eat2-videoSixteenByNine310.jpg
+605,Boiled Lobster With Lobster Mayonnaise,Mark Bittman And Sam Sifton,https://static01.nyt.com/images/2014/04/07/dining/lobstertray/lobstertray-videoSixteenByNine310.jpg
+606,Peach Crumble Slab Pie,Melissa Clark,https://static01.nyt.com/images/2018/07/26/dining/mc-peach-crumble-slab-pie/mc-peach-crumble-slab-pie-mediumThreeByTwo252.jpg
+607,Sazerac,Robert Simonson,https://static01.nyt.com/images/2014/08/04/dining/sazerac-still/sazerac-still-videoSixteenByNine310.jpg
+608,Mushroom Omelet With Chives,Martha Rose Shulman,https://static01.nyt.com/images/2009/12/14/health/14recipehealth_600/14recipehealth_600-videoSixteenByNine310.jpg
+609,Goat Cheese and Apple Omelet,Mark Bittman,https://static01.nyt.com/images/2014/05/13/dining/appleomelet-still/appleomelet-still-videoSixteenByNine310.jpg
+610,Red Beans and Rice,Kim Severson,https://static01.nyt.com/images/2018/03/01/dining/01COOKING-REDBEANS-RICE2/01COOKING-REDBEANS-RICE2-mediumThreeByTwo252.jpg
+611,Roast Chicken Legs with Cilantro Gremolata,Sam Sifton,https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-with-Cilantro/Chicken-Legs-with-Cilantro-videoSixteenByNine310.jpg
+612,Cast-Iron Steak,Julia Moskin,https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-videoSixteenByNine310-v4.jpg
+613,Spaghetti With Garlicky Bread Crumbs and Anchovies,Melissa Clark,https://static01.nyt.com/images/2014/04/18/multimedia/clark-spaghetti-bread/clark-spaghetti-bread-videoSixteenByNine310.jpg
+614,Duck With Cherries and Red Wine Vinegar,David Tanis,https://static01.nyt.com/images/2014/06/04/dining/04KITCH1/04KITCH1-videoSixteenByNine310.jpg
+615,Macaroni Milanaise,Sam Sifton,https://static01.nyt.com/images/2014/06/12/dining/milanaise-still/milanaise-still-videoSixteenByNine310.jpg
+616,Perfect Instant Ramen,Jeff Gordinier,https://static01.nyt.com/images/2018/05/01/dining/01COOKING-PERFECTINSTANTRAMEN1/01COOKING-PERFECTINSTANTRAMEN1-mediumThreeByTwo252.jpg
+617,Bombay Leg Of Lamb With Yogurt And Lime,Amanda Hesser,https://static01.nyt.com/applications/cooking/4d350c2/assets/50.png?1
+618,Baked Broccoli Rabe With Parmesan,Mark Bittman,https://static01.nyt.com/images/2014/04/08/dining/broccolirabevideo/broccolirabevideo-videoSixteenByNine310.jpg
+619,Chinese Barbecued Spareribs,Amanda Hesser,https://static01.nyt.com/applications/cooking/d3f9aa5/assets/28.png?1
+620,Brown Butter Nectarine Cobbler/Cake,Melissa Clark,https://static01.nyt.com/images/2014/04/03/dining/-Brown-Butter-Nectarine-Cobbler/-Brown-Butter-Nectarine-Cobbler-videoSixteenByNine310.jpg
+621,Tomato Cilantro Soup,Julia Moskin,https://static01.nyt.com/applications/cooking/a1a368d/assets/12.png?1
+622,Skillet Corn,Jonathan Reynolds,https://static01.nyt.com/applications/cooking/4d350c2/assets/46.png?1
+623,Thai Rice Soup With Pork-Cilantro Meatballs,Julia Moskin,https://static01.nyt.com/images/2014/07/16/dining/16SUPERMODEL_CONGEE/16SUPERMODEL_CONGEE-videoSixteenByNine310.jpg
+624,"Grilled Corn, Mexican Style",Mark Bittman,https://static01.nyt.com/images/2014/03/05/dining/grilledcorn-still/grilledcorn-still-videoSixteenByNine310.jpg
+625,Crunchy Soft-Shell Crabs,Melissa Clark,https://static01.nyt.com/images/2014/04/02/dining/Crunchy-Soft-Shell-Crabs/Crunchy-Soft-Shell-Crabs-videoSixteenByNine310.jpg
+626,Hamburgers (Tavern Style),Sam Sifton,https://static01.nyt.com/images/2018/07/19/multimedia/sifton-hamburgers/sifton-hamburgers-mediumThreeByTwo252-v3.jpg
+627,Hamburgers (Diner Style),Sam Sifton,https://static01.nyt.com/images/2018/07/19/multimedia/sifton-hamburgers/sifton-hamburgers-mediumThreeByTwo252-v3.jpg
+628,Chicken in a Watermelon,Rozanne Gold,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/4.png?1
+629,Zucchini and Squash Blossom Soufflés,David Tanis,https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH1-videoSixteenByNine310.jpg
+630,Tuna Salad Composée,Toby Cecchini,https://static01.nyt.com/images/2014/07/07/dining/tunasalad/tunasalad-mediumThreeByTwo252-v2.jpg
+631,Bananas Foster Bread Pudding,Sam Sifton,https://static01.nyt.com/images/2014/07/13/magazine/13eat2/mag-13Eat-t_CA0-videoSixteenByNine310.jpg
+632,Cold Sesame Noodles With Sweet Peppers,Martha Rose Shulman,https://static01.nyt.com/images/2013/08/09/science/13recipehealth/13recipehealth-largeHorizontal375.jpg
+633,Brussels Sprouts With Pomegranate-Tahini Sauce,Julia Moskin,https://static01.nyt.com/images/2014/04/24/multimedia/me-culinary-tanoreen/me-culinary-tanoreen-videoSixteenByNine310.jpg
+634,Smoked Whitefish Salad With Crème Fraîche and Capers,Julia Moskin,https://int.nyt.com/applications/cooking/9badc34/assets/6.png?1
+635,Almost-Spit-Roasted Moroccan Lamb,David Tanis,https://static01.nyt.com/images/2014/06/11/dining/11KITCH2/11KITCH2-videoSixteenByNine310.jpg
+636,Soft-Shell Crab Toast,Melissa Clark,https://static01.nyt.com/images/2014/06/19/multimedia/clark-crab-toasts/clark-crab-toasts-videoSixteenByNine310.jpg
+637,Craig Claiborne's Smothered Chicken With Mushrooms,Sam Sifton,https://static01.nyt.com/images/2014/01/17/dining/recipes-smotheredchickenSUB/recipes-smotheredchickenSUB-videoSixteenByNine310.jpg
+638,"Light, Fluffy and Rich Pancakes",Mark Bittman,https://static01.nyt.com/images/2014/05/28/dining/Fluffy-and-Rich-Pancakes/Fluffy-and-Rich-Pancakes-videoSixteenByNine310.jpg
+639,Minty Yogurt Chutney,David Tanis,https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH1-mediumThreeByTwo252-v2.jpg
+640,Bobby Flay’s Pan-Roasted Chicken With Mint Sauce,Sam Sifton,https://static01.nyt.com/images/2014/06/29/magazine/29eat/29eat-mediumThreeByTwo252-v2.jpg
+641,Double Strawberry Cheesecake,Melissa Clark,https://static01.nyt.com/images/2014/06/25/dining/strawberrycake-still/strawberrycake-still-mediumThreeByTwo252-v2.jpg
+642,Crisp Pork Belly,Oliver Schwaner-Albright,https://static01.nyt.com/images/2014/05/27/dining/Crisp-and-Unctuous/Crisp-and-Unctuous-videoSixteenByNine310.jpg
+643,Lemon Pizza,Jonathan Reynolds,https://static01.nyt.com/images/2014/05/23/dining/Lemon-Pizza/Lemon-Pizza-videoSixteenByNine310.jpg
+644,Glazed Lamb Ribs,Sam Sifton,https://static01.nyt.com/images/2014/04/04/dining/Glazed-Lamb-Ribs/Glazed-Lamb-Ribs-videoSixteenByNine310.jpg
+645,Publican Chicken,Frank Bruni,https://static01.nyt.com/images/2014/03/31/dining/publican-chicken/publican-chicken-videoSixteenByNine310.jpg
+646,Stuffed Clams,Craig Claiborne,https://static01.nyt.com/applications/cooking/4d350c2/assets/37.png?1
+647,Creamed-Mushroom Bruschetta With Caramelized Onions,Sam Sifton,https://static01.nyt.com/images/2013/04/28/magazine/28eat/28eat-largeHorizontal375-v2.jpg
+648,Spicy Lacquered Chicken Wings,David Tanis,https://static01.nyt.com/images/2014/03/07/dining/07wings/07wings-mediumThreeByTwo252-v2.jpg
+649,Spicy Big Tray Chicken,Mark Bittman,https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-largeHorizontal375.jpg
+650,Simple Spicy Asparagus in a Wok,David Tanis,https://static01.nyt.com/images/2014/03/07/dining/07spicyasparagus/07spicyasparagus-videoSixteenByNine310.jpg
+651,Korean Fried Cauliflower,Julia Moskin,https://static01.nyt.com/images/2013/10/14/dining/kfc-recipe/kfc-recipe-tmagSF.jpg
+652,Chinese Cold Boiled Chicken,David Tanis,https://static01.nyt.com/images/2014/04/30/dining/Cold-Boiled-Chicken/Cold-Boiled-Chicken-videoSixteenByNine310.jpg
+653,White Chicken Potpie,Melissa Clark,https://static01.nyt.com/images/2013/03/27/dining/27APPE3/27JPAPPE2-tmagSF.jpg
+654,Laurie Colwin's Roast Chicken,Pilar Viladas,https://static01.nyt.com/images/2014/05/19/dining/colwin-still/colwin-still-videoSixteenByNine310-v2.jpg
+655,Gingery Chicken Stew,Mark Bittman,https://static01.nyt.com/images/2014/02/19/dining/19JPFLEX2/19JPFLEX2-videoSixteenByNine310.jpg
+656,Sauteed Veal Chops With Herb Vinegar Glaze,Pierre Franey,https://static01.nyt.com/applications/cooking/a9ea0b6/assets/11.png?1
+657,Stuffed Veal Breast,Amanda Hesser,https://static01.nyt.com/images/2014/05/22/dining/Stuffed-Veal-Breast/Stuffed-Veal-Breast-videoSixteenByNine310.jpg
+658,Whelks with Parsley and Garlic Butter,Florence Fabricant,https://static01.nyt.com/images/2012/12/19/dining/19SUBWHELKS_SPAN/19SUBWHELKS_SPAN-videoSixteenByNine310.jpg
+659,Bulgogi Sloppy Joes With Scallion Salsa,Sam Sifton,https://static01.nyt.com/images/2011/09/18/magazine/18eat1_span/18eat1_span-videoSixteenByNine310.jpg
+660,Grilled Bluefish With Chourico And Clams,Sam Sifton,https://static01.nyt.com/applications/cooking/4d350c2/assets/25.png?1
+661,Crab Newburg à la Cross Creek,Sam Sifton,https://static01.nyt.com/images/2013/07/14/magazine/14eat2/14eat2-largeHorizontal375-v2.jpg
+662,Salt-and-Pepper Beef Ribs,Sam Sifton,https://static01.nyt.com/images/2014/04/03/dining/Salt-and-Pepper-Beef-Ribs/Salt-and-Pepper-Beef-Ribs-videoSixteenByNine310.jpg
+663,Crisp Lamb With Yogurt and Scallions,Sam Sifton,https://static01.nyt.com/images/2012/09/16/magazine/16eat1/16eat1-videoSixteenByNine310-v2.jpg
+664,Tempura-Fried Green Beans With Mustard Dipping Sauce,Sam Sifton,https://static01.nyt.com/images/2018/12/11/dining/tempura-fried-green-beans/merlin_147141264_225c0498-d37d-4efa-abfd-5cb1768289d5-mediumThreeByTwo252.jpg
+665,Carolina Chicken Bog,Mark Bittman And Sam Sifton,https://static01.nyt.com/images/2019/01/08/dining/ss-carolina-chicken-bog/ss-carolina-chicken-bog-mediumThreeByTwo252.jpg
+666,Eleven Madison Park Granola,Sam Sifton,https://static01.nyt.com/images/2015/07/27/dining/27GRANOLA/27GRANOLA-mediumThreeByTwo252-v2.jpg
+667,Fatty ’Cue Brussels Sprouts,Sam Sifton,https://static01.nyt.com/images/2014/02/20/dining/recipes-fattycuebrusselssprouts/recipes-fattycuebrusselssprouts-videoSixteenByNine310.jpg
+668,Boston Beans And Pork,Mark Bittman And Sam Sifton,https://int.nyt.com/applications/cooking/193486b/assets/42.png?1
+669,White Barbecue Sauce,Sam Sifton,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/5.png?1
+670,Steamed Blue Crabs,Sam Sifton,https://static01.nyt.com/images/2010/06/13/magazine/13food-span/13food-span-mediumThreeByTwo252-v3.jpg
+671,Chicken Livers Toscani,Sam Sifton,https://static01.nyt.com/applications/cooking/a1a368d/assets/7.png?1
+672,Coke-Brined Fried Chicken,Sam Sifton,https://static01.nyt.com/images/2014/01/29/dining/29JPBOWL1/29JPBOWL1-videoSixteenByNine310-v2.jpg
+673,Home/Made Mushroom Lasagna,Sam Sifton,https://static01.nyt.com/images/2014/04/03/dining/Home-Made-Mushroom-Lasagna/Home-Made-Mushroom-Lasagna-videoSixteenByNine310.jpg
+674,Sam Sifton's Cucumber Kimchi,Sam Sifton,https://static01.nyt.com/images/2014/04/03/dining/Cucumber-Kimchi/Cucumber-Kimchi-videoSixteenByNine310.jpg
+675,Jamaican Oxtail Stew,Sam Sifton,https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-mediumThreeByTwo252.jpg
+676,Pork Ragù al Maialino,Sam Sifton,https://static01.nyt.com/images/2014/01/07/dining/recipes-porkraguSUB/recipes-porkraguSUB-videoSixteenByNine310.png
+677,Game Day Nachos,Sam Sifton,https://static01.nyt.com/images/2014/01/29/dining/29BOWL_SPAN/29BOWL-videoSixteenByNine310.jpg
+678,Fatty ’Cue Spareribs,Sam Sifton,https://static01.nyt.com/images/2014/04/03/dining/Fatty-Cue-Spareribs/Fatty-Cue-Spareribs-videoSixteenByNine310.jpg
+679,Country Captain,Sam Sifton,https://static01.nyt.com/images/2018/07/24/dining/sifton-country-captain-horizontal/sifton-country-captain-horizontal-mediumThreeByTwo252.jpg
+680,Serious Potato Skins,Sam Sifton,https://static01.nyt.com/images/2014/05/20/dining/Potato-Skins/Potato-Skins-videoSixteenByNine310.jpg
+681,Apple Pie,Sam Sifton,https://static01.nyt.com/images/2018/10/05/dining/ss-apple-pie-horizontal/ss-apple-pie-horizontal-mediumThreeByTwo252.jpg
+682,Faux Babbo Ravioli,Sam Sifton,https://static01.nyt.com/images/2014/05/26/dining/Faux-Babbo-Ravioli/Faux-Babbo-Ravioli-videoSixteenByNine310.jpg
+683,Pico de Gallo,Sam Sifton,https://static01.nyt.com/images/2012/07/15/magazine/15Eat1/15Eat1-videoSixteenByNine310.jpg
+684,Poundcake and Strawberries,Sam Sifton,https://static01.nyt.com/images/2019/05/16/dining/ss-poundcake-and-strawberries/merlin_154348446_aedb960e-7c0a-4337-adef-bb2882f40efe-mediumThreeByTwo252.jpg
+685,Bacon-Onion Jam,Sam Sifton,https://static01.nyt.com/images/2014/01/26/magazine/26eat/mag-26Eat-t_CA0-videoSixteenByNine310.jpg
+686,Trini-Chinese Chicken,Sam Sifton,https://static01.nyt.com/images/2013/03/31/magazine/31eat1/31eat1-largeHorizontal375-v2.jpg
+687,Fish Tacos,Sam Sifton,https://static01.nyt.com/images/2017/08/09/dining/09COOKING-PADTHAI5/09COOKING-PADTHAI5-mediumThreeByTwo252.jpg
+688,Thanksgiving Dressing,Sam Sifton,https://static01.nyt.com/images/2015/10/12/dining/12THANKSGIVING/12THANKSGIVING-mediumThreeByTwo252.jpg
+689,Roast Goose,Sam Sifton,https://static01.nyt.com/images/2015/11/19/dining/19COOKING-ROASTEDBIRD/19COOKING-ROASTEDBIRD-mediumThreeByTwo252.jpg
+690,Turkey Cutlets Marsala,Sam Sifton,https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24eat-copy-mediumThreeByTwo252-v3.jpg
+691,Roasted Brussels Sprouts,Sam Sifton,https://static01.nyt.com/images/2014/04/24/dining/Brussels-Sprouts/Brussels-Sprouts-videoSixteenByNine310.jpg
+692,Asado Negro,Sam Sifton,https://static01.nyt.com/images/2010/12/05/magazine/05food-span/05food-span-mediumThreeByTwo252-v3.jpg
+693,Big Country Salad,Sam Sifton,https://static01.nyt.com/images/2014/04/04/dining/Big-Country-Salad/Big-Country-Salad-videoSixteenByNine310.jpg
+694,Calf's Liver With Irish Whisky And Tarragon,Moira Hodgson,https://int.nyt.com/applications/cooking/04b4067/assets/35.png?1
+695,Simmering Irish Stew With Dumplings,Jonathan Reynolds,https://static01.nyt.com/applications/cooking/a1a368d/assets/25.png?1
+696,Rio’s Spicy Chicken Wings,Melissa Clark,https://static01.nyt.com/images/2014/09/02/dining/gansowings/gansowings-videoSixteenByNine310-v2.jpg
+697,Whole-Duck Cassoulet,Mark Bittman,https://static01.nyt.com/images/2012/02/26/magazine/26eat_span/26eat_span-videoSixteenByNine310.jpg
+698,Coconut Chicken Curry With Cashews,David Tanis,https://static01.nyt.com/images/2013/01/09/dining/09KITCH_SPAN/09KITCH_SPAN-mediumThreeByTwo252-v2.jpg
+699,Chicken With Heads of New Garlic,David Tanis,https://static01.nyt.com/images/2013/07/24/dining/24KITCH_SPAN/24KITCH-tmagSF.jpg
+700,Jerk Chicken,Julia Moskin,https://static01.nyt.com/images/2014/02/20/dining/recipes-jerkchicken/recipes-jerkchicken-videoSixteenByNine310.jpg
+701,Persian-Inspired Fried Chicken,Julia Moskin,https://static01.nyt.com/images/2016/05/03/dining/03COOKING-PERSIANCHICKEN2/03COOKING-PERSIANCHICKEN2-mediumThreeByTwo252.jpg
+702,Duck and Andouille Etouffée,Kim Severson,https://static01.nyt.com/images/2014/04/15/dining/Duck-and-Andouille-touffe/Duck-and-Andouille-touffe-videoSixteenByNine310.jpg
+703,Restaurant-Style Pork Chops,Sam Sifton,https://static01.nyt.com/images/2014/05/20/dining/Restaurant-style-Pork-Chops/Restaurant-style-Pork-Chops-videoSixteenByNine310.jpg
+704,Grilled Pork and Peaches,Sam Sifton,https://static01.nyt.com/images/2016/06/06/dining/06COOKING-GRILLEDPORKNPEACHES2/06COOKING-GRILLEDPORKNPEACHES2-mediumThreeByTwo252.jpg
+705,Pork Rillettes,Mark Bittman,https://static01.nyt.com/images/2014/04/07/dining/Rillettes/Rillettes-videoSixteenByNine310.jpg
+706,Cider-Cured Pork Chops,Sam Sifton,https://static01.nyt.com/images/2014/05/22/dining/Cider-Cured-Pork-Chops-copy/Cider-Cured-Pork-Chops-videoSixteenByNine310.jpg
+707,Smothered Pork Chops,Sam Sifton,https://static01.nyt.com/images/2017/08/02/dining/02COOKING_PORKCHOPS1/02COOKING_PORKCHOPS1-mediumThreeByTwo252.jpg
+708,Pickled Green Tomato and Mirliton Chowchow,The New York Times,https://static01.nyt.com/images/2013/01/23/dining/23SUPERBOWL2/23SUPERBOWL2-videoSixteenByNine310.jpg
+709,Pork Grillades and Grits,Kim Severson,https://static01.nyt.com/images/2014/06/02/dining/grillades-still/grillades-still-videoSixteenByNine310.jpg
+710,Roasted Broccoli With Shrimp,Melissa Clark,https://static01.nyt.com/images/2019/01/11/dining/mc-roasted-shrimp-broccoli/mc-roasted-shrimp-broccoli-mediumThreeByTwo252.jpg
+711,Dark Molasses Gingerbread With Whipped Cream,Kim Severson,https://static01.nyt.com/images/2014/04/09/dining/Dark-Molasses-Gingerbread/Dark-Molasses-Gingerbread-mediumThreeByTwo252-v3.jpg
+712,Chinese Chile-Scallion Oil,Julia Moskin,https://static01.nyt.com/images/2014/04/02/dining/chilioil/chilioil-videoSixteenByNine310.jpg
+713,Southern Pan-Fried Chicken,Kim Severson,https://static01.nyt.com/images/2014/03/13/dining/chicken-still-2/chicken-still-2-videoSixteenByNine310-v3.jpg
+714,Edna Lewis’s Peach Cobbler,Kim Severson,https://static01.nyt.com/images/2015/05/20/dining/20HIT_PEACHCOBBLER/20HIT_PEACHCOBBLER-mediumThreeByTwo252.jpg
+715,David Tanis’s Risi e Bisi,David Tanis,https://static01.nyt.com/images/2014/04/30/dining/30KIT6/KIT-7-videoSixteenByNine310.jpg
+716,Family-Meal Fish Tacos,Sam Sifton,https://static01.nyt.com/images/2013/06/02/magazine/02eat1/02eat1-videoSixteenByNine310-v2.jpg
+717,Pad Thai,Jennifer Steinhauer,https://static01.nyt.com/images/2016/05/28/dining/28COOKING-PAD-THAI1/28COOKING-PAD-THAI1-mediumThreeByTwo252.jpg
+718,Kim Severson’s Italian Meatballs,Kim Severson,https://static01.nyt.com/images/2013/12/12/dining/recipes-meatballs/recipes-meatballs-largeHorizontal375.jpg
+719,Lazy Sonker,Kim Severson,https://static01.nyt.com/images/2013/06/28/dining/video-sonker-pie-carolina/video-sonker-pie-carolina-master315.jpg
+720,Master Recipe for Biscuits and Scones,Julia Moskin,https://static01.nyt.com/images/2014/10/26/dining/26biscuit/26biscuit-videoSixteenByNine310.jpg
+721,David Eyre’s Pancake,Amanda Hesser,https://static01.nyt.com/images/2014/03/31/dining/David-Eyres-Pancake/David-Eyres-Pancake-videoSixteenByNine310.jpg
+722,French Potato and Green Bean Salad,David Tanis,https://static01.nyt.com/images/2012/06/27/dining/27KITCH_SPAN/27KITCH_SPAN-videoSixteenByNine310.jpg
+723,Minty Fruit Salad,Mark Bittman,https://static01.nyt.com/images/2017/08/02/dining/02COOKING_FRUITSALAD1/02COOKING_FRUITSALAD1-mediumThreeByTwo252.jpg
+724,Lobster and Avocado Salad,Craig Claiborne And Pierre Franey,https://static01.nyt.com/images/2014/05/22/dining/Lobster-and-avocado-salad/Lobster-and-avocado-salad-videoSixteenByNine310.jpg
+725,Cucumber-Watermelon Salad,Kim Severson,https://static01.nyt.com/images/2014/04/02/dining/cucumber-watermelon-salad/cucumber-watermelon-salad-videoSixteenByNine310.jpg
+726,"Queso Fundido With Chorizo, Jalapeño and Cilantro",Melissa Clark,https://static01.nyt.com/images/2014/03/28/dining/fundito/fundito-videoSixteenByNine310.jpg
+727,Riz Creole,Pierre Franey,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/31.png?1
+728,French Toast Amandine,Sam Sifton,https://static01.nyt.com/images/2018/04/09/dining/09COOKING-FRENCHTOASTALMANDINE2/09COOKING-FRENCHTOASTALMANDINE2-mediumThreeByTwo252.jpg
+729,Strawberry-Banana Compote,Sam Sifton,https://static01.nyt.com/images/2014/06/01/magazine/01eat/01eat-smallSquare252.jpg
+730,Slow Roasted Duck With Orange-Sherry Sauce,Pableaux Johnson,https://static01.nyt.com/images/2014/05/13/dining/orangeduck-still/orangeduck-still-videoSixteenByNine310.jpg
+731,Creole Gumbo,Matt Lee And Ted Lee,https://static01.nyt.com/images/2014/06/02/dining/gumbo-still/gumbo-still-videoSixteenByNine310.jpg
+732,Scallion Pancakes With Squid,Melissa Clark,https://static01.nyt.com/images/2013/08/19/dining/clarkeSeafood-Pancake/clarkeSeafood-Pancake-tmagSF.jpg
+733,Sheet Pan Supper,Melissa Clark,https://static01.nyt.com/images/2014/01/31/multimedia/clark-roasted-chicken/clark-roasted-chicken-videoSixteenByNine310-v2.jpg
+734,Chicken “Piccata” With Chard or Beet Greens,Martha Rose Shulman,https://static01.nyt.com/images/2014/03/22/science/24recipehealth/24recipehealth-videoSixteenByNine310.jpg
+735,"Beet, Greens and Cheddar Crumble",Melissa Clark,https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26JPCASSEROLE4-videoSixteenByNine310.jpg
+736,"Grilled Sardines and Asparagus With Citrus, Chiles and Sesame",Mark Bittman,https://static01.nyt.com/images/2014/03/30/magazine/30bittman1/30bittman1-videoSixteenByNine310-v2.jpg
+737,Creamy Chicken Liver Pasta With Wild Morels,David Tanis,https://static01.nyt.com/images/2014/05/28/dining/28KITCH1/28KITCH1-videoSixteenByNine310.jpg
+738,Yucatan Shrimp,Sam Sifton,https://static01.nyt.com/images/2014/04/02/dining/Yucatan-Shrimp/Yucatan-Shrimp-videoSixteenByNine310.jpg
+739,All-Purpose Biscuits,Sam Sifton,https://static01.nyt.com/images/2014/04/03/dining/All-Purpose-Biscuits/All-Purpose-Biscuits-videoSixteenByNine310.jpg
+740,Rao's Meatballs With Marinara Sauce,Adam Nagourney,https://static01.nyt.com/images/2015/12/10/dining/10COOKING-MEATBALLS2/10COOKING-MEATBALLS2-mediumThreeByTwo252.jpg
+741,Eggs Poached in Marinara Sauce,Martha Rose Shulman,https://static01.nyt.com/images/2019/02/27/dining/eggs-poached-marinara-sauce/eggs-poached-marinara-sauce-mediumThreeByTwo252-v2.jpg
+742,Steak Mock Frites,Sam Sifton,https://static01.nyt.com/images/2014/05/18/magazine/18eat/18eat-videoSixteenByNine310-v2.jpg
+743,Chicken-Tarragon Pot Pie,Julia Moskin,https://static01.nyt.com/images/2016/01/16/dining/16COOKING_CHICKENTARRPOTPIE/16COOKING_CHICKENTARRPOTPIE-mediumThreeByTwo252.jpg
+744,Takeout-Style Sesame Noodles,Sam Sifton,https://static01.nyt.com/images/2017/08/23/dining/23COOKING-TAKEOUTSESAMENOODLES2/23COOKING-TAKEOUTSESAMENOODLES2-mediumThreeByTwo252-v2.jpg
+745,Chicken la Tulipe,Jonathan Reynolds,https://static01.nyt.com/images/2014/04/11/dining/altulipe/altulipe-videoSixteenByNine310.jpg
+746,André Soltner’s Roast Chicken,Molly O'Neill,https://static01.nyt.com/images/2014/04/11/dining/roastchicken/roastchicken-videoSixteenByNine310.jpg
+747,Gong Bao Chicken With Peanuts,Julia Moskin,https://static01.nyt.com/images/2017/01/29/dining/29COOKING-GONGBAOCHICKEN2/29COOKING-GONGBAOCHICKEN2-mediumThreeByTwo252.jpg
+748,Cumin Lamb Stir-Fry,Melissa Clark,https://static01.nyt.com/images/2014/03/26/dining/26APPE_SPAN/26APPE_SPAN-videoSixteenByNine310-v2.jpg
+749,Stir-Fried Cabbage With Cumin Seeds,Julia Moskin,https://static01.nyt.com/applications/cooking/4d350c2/assets/4.png?1
+750,Steamed Corn With Clams and Bacon,Sam Sifton,https://static01.nyt.com/images/2014/04/09/dining/Clams-And-Bacon/Clams-And-Bacon-videoSixteenByNine310.jpg
+751,Caramelized Corn With Fresh Mint,Julia Moskin,https://static01.nyt.com/images/2015/11/02/dining/02COOKING-CARAMALIZEDCORN2/02COOKING-CARAMALIZEDCORN2-mediumThreeByTwo252.jpg
+752,Oyster Stuffing Cakes,Julia Moskin,https://static01.nyt.com/images/2014/03/23/dining/23OYSTER_395/23OYSTER_395-videoSixteenByNine310.jpg
+753,Bacon Scallion Cream Sauce,Julia Moskin,https://static01.nyt.com/images/2014/04/21/dining/Bacon-Scallion-Cream-Sauce/Bacon-Scallion-Cream-Sauce-videoSixteenByNine310.jpg
+754,Laurie Colwin’s Creamed Spinach With Jalapeño Peppers,The New York Times,https://static01.nyt.com/images/2014/04/02/dining/02colwinrecipe/02colwinrecipe-videoSixteenByNine310.jpg
+755,Preserved Lemons,Julia Moskin,https://static01.nyt.com/images/2014/04/03/dining/lemonspreserved/lemonspreserved-videoSixteenByNine310.jpg
+756,Vin d'Orange,Julia Moskin,https://static01.nyt.com/images/2014/04/03/dining/rose/rose-videoSixteenByNine310.jpg
+757,Roberta’s Pizza Dough,Sam Sifton,https://static01.nyt.com/images/2015/08/28/dining/pizzadough-2/pizzadough-2-mediumThreeByTwo252.jpg
+758,Pizza Margherita,Sam Sifton,https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-smallSquare252-v2.jpg
+759,Lamb Meatballs With Spiced Tomato Sauce,Sam Sifton,https://static01.nyt.com/images/2014/04/20/magazine/20eat1/mag-20Eat-t_CA0-videoSixteenByNine310.jpg
+760,Pickleback Slaw,Sam Sifton,https://static01.nyt.com/images/2014/04/16/dining/16JPEASTER3/16JPEASTER3-videoSixteenByNine310.jpg
+761,Tartine’s Country Bread,The New York Times,https://static01.nyt.com/images/2014/04/23/dining/23TARTINE2/23TARTINE2-videoSixteenByNine310.jpg
+762,Screaming Eagle Cheese-Steak Sub,Sam Sifton,https://static01.nyt.com/images/2011/03/27/magazine/mag-27Eat-t-000_CA0/mag-27Eat-t-000_CA0-videoSixteenByNine310.jpg
+763,Roasted Squid With Chorizo and Pimentón,David Tanis,https://static01.nyt.com/images/2014/05/07/dining/07KITCH2/07KITCH2-videoSixteenByNine310.jpg
+764,Suvir Saran’s Spinach and Potato Patties (Palak Ki Tiki),Martha Rose Shulman,https://static01.nyt.com/images/2014/05/13/science/15recipehealth/15recipehealth-videoSixteenByNine310.jpg
+765,Simple Lamb Kebabs With Greek Flavors,John Willoughby And Chris Schlesinger,https://static01.nyt.com/images/2013/08/21/dining/21JPGRILLING3/21JPGRILLING3-largeHorizontal375.jpg
+766,Scallops Tartare,Craig Claiborne And Pierre Franey,https://static01.nyt.com/applications/cooking/a9ea0b6/assets/44.png?1
+767,Chorizo Boudin Balls,Suzanne Lenzer,https://static01.nyt.com/images/2013/01/23/dining/23SUPERBOWL1/23SUPERBOWL1-square320.jpg
+768,Edna Lewis’s Rhubarb Pie,Molly O'Neill,https://static01.nyt.com/images/2014/04/02/dining/Rhubarb-Pie/Rhubarb-Pie-videoSixteenByNine310.jpg
+769,Greenport Shuffle,Sam Sifton,https://static01.nyt.com/images/2014/05/02/dining/Greenport/Greenport-videoSixteenByNine310.jpg
+770,Veal Milanese,Amanda Hesser,https://static01.nyt.com/applications/cooking/f59b669/assets/37.png?1
+771,Almond Birthday Cake With Sherry-Lemon Buttercream,Melissa Clark,https://static01.nyt.com/images/2013/08/06/dining/video-clark-cake-buttercream/video-clark-cake-buttercream-mediumThreeByTwo252-v3.jpg
+772,Southern Living's Best Fried Chicken,Julia Moskin,https://static01.nyt.com/images/2016/05/11/dining/fried-chicken-still/fried-chicken-still-mediumThreeByTwo252.jpg
+773,Stir-Fried Pork and Pineapple,Mark Bittman,https://static01.nyt.com/images/2016/06/06/dining/06COOKING-STIR-FRIED-PORK-PINEAPPLE1/06COOKING-STIR-FRIED-PORK-PINEAPPLE1-mediumThreeByTwo252.jpg
+774,Fried Scallops,John Willoughby And Chris Schlesinger,https://static01.nyt.com/images/2013/06/05/dining/20130605-GRILLING-slide-8GYT/20130605-GRILLING-slide-8GYT-tmagSF.jpg
+775,"Chicken Wings With Gochujang, Ginger and Garlic",Mark Bittman,https://static01.nyt.com/images/2017/01/24/dining/24COOKING-KOREAN-CHICKEN2/24COOKING-KOREAN-CHICKEN2-mediumThreeByTwo252.jpg
+776,Sautéed Flounder With Green Beans and Potatoes,Frank Stitt,https://static01.nyt.com/images/2013/10/20/magazine/20highlands-flounder/20highlands-flounder-tmagSF.jpg
+777,Roy Choi’s Braised Short-Rib Stew,Sam Sifton,https://static01.nyt.com/images/2014/04/08/dining/braised/braised-videoSixteenByNine310.jpg
+778,Lamb Chops Fried in Parmesan Batter,Mark Bittman,https://static01.nyt.com/images/2013/11/10/magazine/10eat3/10eat3-largeHorizontal375.jpg
+779,Sweet Potatoes Anna With Prunes,Tara Parker-Pope,https://static01.nyt.com/images/2011/11/14/health/Well_veggie_sweet/Well_veggie_sweet-videoSixteenByNine310.jpg
+780,April Bloomfield's Clam Chowder,April Bloomfield,https://static01.nyt.com/images/2013/11/27/dining/27MEMBLOOMFIELD1/27MEMBLOOMFIELD1-largeHorizontal375-v2.jpg
+781,Danny Bowien's Pastrami,Danny Bowien,https://static01.nyt.com/images/2013/11/12/dining/video-bittman-bowien/video-bittman-bowien-largeHorizontal375-v2.jpg
+782,Vietnamese Lamb,Mark Bittman,https://static01.nyt.com/images/2014/05/08/dining/Vietnamese-Lamb/Vietnamese-Lamb-videoSixteenByNine310.jpg
+783,Beef Rib Roast,Sam Sifton,https://static01.nyt.com/images/2018/11/21/dining/ss-beef-rib-roast/merlin_146850651_9b0a9ece-7022-4ef9-bd01-f70bbef57761-mediumThreeByTwo252.jpg
+784,Crown Roast of Pork,Sam Sifton,https://static01.nyt.com/images/2013/12/13/magazine/video-feast-crownroast/video-feast-crownroast-mediumThreeByTwo252-v3.jpg
+785,Roast Turkey,Sam Sifton,https://static01.nyt.com/images/2013/12/13/magazine/video-feast-turkey/video-feast-turkey-mediumThreeByTwo252-v3.jpg
+786,Lobster Stock,Sam Sifton,https://static01.nyt.com/applications/cooking/f59b669/assets/46.png?1
+787,Steamed Lobsters,Sam Sifton,https://static01.nyt.com/images/2017/06/26/dining/26COOKING-LOBSTER2/26COOKING-LOBSTER2-mediumThreeByTwo252.jpg
+788,Pan-Roasted Pork Chops With Apple Fritters,Sam Sifton,https://static01.nyt.com/images/2013/09/29/magazine/29eat/29eat-videoSixteenByNine310.jpg
+789,Zuni Café Chicken,The New York Times,https://static01.nyt.com/images/2018/06/07/dining/zuni-chicken/zuni-chicken-mediumThreeByTwo252.jpg
+790,Laurie Colwin’s Baked Mustard Chicken,The New York Times,https://static01.nyt.com/images/2014/04/02/dining/02JPCOLWIN3/02JPCOLWIN3-videoSixteenByNine310.jpg
+791,Chermoula Eggplant With Bulgur and Yogurt,Tara Parker-Pope,https://static01.nyt.com/images/2017/02/21/dining/21COOKING-EGGPLANT-BULGAR-YOGURT1/21COOKING-EGGPLANT-BULGAR-YOGURT1-mediumThreeByTwo252.jpg
+792,Chicken With Caramelized Onion and Cardamom Rice,Julia Moskin,https://static01.nyt.com/images/2015/12/21/dining/21COOKING_CHICKENnONION2/21COOKING_CHICKENnONION2-mediumThreeByTwo252.jpg
+793,German Oven Pancake,Trish Hall,https://static01.nyt.com/applications/cooking/4d350c2/assets/12.png?1
+794,Watermelon Punch,Pete Wells,https://static01.nyt.com/applications/cooking/a1a368d/assets/19.png?1
+795,Chinese Chili,Florence Fabricant,https://static01.nyt.com/images/2014/02/05/dining/05PAIR_SPAN/05PAIR_SPAN-videoSixteenByNine310.jpg
+796,Chorizo-Stuffed Dates With Piquillo Pepper Sauce,Melissa Clark,https://static01.nyt.com/images/2014/02/19/dining/19TAKEAWAY_SPAN/19TAKEAWAY_SPAN-videoSixteenByNine310.jpg
+797,Easy Sheet-Pan Chicken,Melissa Clark,https://static01.nyt.com/images/2014/01/31/multimedia/clark-roasted-chicken/clark-roasted-chicken-videoSixteenByNine310-v2.jpg
+798,Nashville-Style Hot Fried Chicken,Melissa Clark,https://static01.nyt.com/images/2019/05/08/dining/mc-nashville-hot-chicken/merlin_154348302_6054d377-9f8a-4a62-80f7-f2faa0efd2d2-mediumThreeByTwo252.jpg
+799,Rishia Zimmern’s Chicken With Shallots,Sam Sifton,https://static01.nyt.com/images/2014/03/23/magazine/23eat/23eat-mediumThreeByTwo252-v2.jpg
+800,Pernil,Mark Bittman,https://static01.nyt.com/images/2014/04/08/dining/pernil/pernil-videoSixteenByNine310.jpg
+801,Green and White Pizza,Sam Sifton,https://static01.nyt.com/images/2015/04/23/dining/green-white-pizza/green-white-pizza-videoSixteenByNine310.jpg
+802,Cheeses Pizza,Sam Sifton,https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA1/09JPPIZZA1-videoSixteenByNine310.jpg
+803,Smoked Salmon Tart for a Crowd,David Tanis,https://static01.nyt.com/images/2014/12/10/dining/10KITCHEN1/10KITCHEN1-mediumThreeByTwo252-v2.jpg
+804,Smoky Eggplant Soup,David Tanis,https://static01.nyt.com/images/2013/08/14/dining/14KITCH2/14KITCH2-largeHorizontal375.jpg
+805,Roasted Pepper Tartine,David Tanis,https://static01.nyt.com/images/2014/10/08/dining/08KITCH2/08KITCH2-videoSixteenByNine310.jpg
+806,Vietnamese Lemongrass Beef and Noodle Salad,David Tanis,https://static01.nyt.com/images/2014/10/15/dining/15KITCHEN/15KITCHEN-videoSixteenByNine310.jpg
+807,Savory Potato Tart,David Tanis,https://static01.nyt.com/images/2014/10/22/dining/22KITCHEN4/1022KITCHEN4-videoSixteenByNine310.jpg
+808,Catalan Stew With Lobster and Clams,David Tanis,https://static01.nyt.com/images/2014/09/17/dining/17KITCHEN1/KITCHEN1-videoSixteenByNine310.jpg
+809,Rigatoni and Cauliflower al Forno,David Tanis,https://static01.nyt.com/images/2014/10/01/dining/01KITCHEN3/01KITCHEN3-videoSixteenByNine310.jpg
+810,Creamed Corn Without Cream,Martha Rose Shulman,https://static01.nyt.com/images/2012/08/21/science/22recipehealth/22recipehealth-videoSixteenByNine310.jpg
+811,Seared Red Cabbage Wedges,Martha Rose Shulman,https://static01.nyt.com/images/2010/02/03/health/03recipehealth_600/03recipehealth_600-videoSixteenByNine310.jpg
+812,Sautéed Shredded Cabbage and Squash,Martha Rose Shulman,https://static01.nyt.com/images/2012/02/08/science/07recipehealth/07recipehealth-videoSixteenByNine310.jpg
+813,"Fennel, Mushroom and Radish Salad",David Tanis,https://static01.nyt.com/images/2014/04/03/dining/Fennel-Mushroom-and-Radish-Salad/Fennel-Mushroom-and-Radish-Salad-videoSixteenByNine310.jpg
+814,Mashed Butternut Squash,David Tanis,https://static01.nyt.com/images/2013/12/18/dining/18KITCH2/18KITCH2-tmagSF.jpg
+815,Pear-Pomegranate Pie,Melissa Clark,https://static01.nyt.com/images/2018/10/05/dining/mc-pear-pomegranate-pie/mc-pear-pomegranate-pie-mediumThreeByTwo252.jpg
+816,Brandied Pumpkin Pie,Melissa Clark,https://static01.nyt.com/images/2014/11/11/multimedia/clark-brandied-pumpkin/clark-brandied-pumpkin-smallSquare252-v2.jpg
+817,Pumpkin Pie With a Vodka Crust,Emily Weinstein,https://static01.nyt.com/images/2014/04/02/dining/Pumpkin-Pie/Pumpkin-Pie-videoSixteenByNine310.jpg
+818,Marilyn Monroe’s Stuffing,Matt Lee And Ted Lee,https://static01.nyt.com/images/2010/11/10/dining/10marilyn-span/10marilyn-span-videoSixteenByNine310.jpg
+819,Spiced Apple-Sausage Stuffing With Cranberries and Brandy,Melissa Clark,https://static01.nyt.com/images/2014/03/31/dining/spiced-apple-sausage-stuffing/spiced-apple-sausage-stuffing-videoSixteenByNine310.jpg
+820,Simple Roast Turkey,Melissa Clark,https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-mediumThreeByTwo252-v2.jpg
+821,Lobster Risotto,Sam Sifton,https://static01.nyt.com/images/2014/02/26/dining/recipes-lobsterrisotto/recipes-lobsterrisotto-videoSixteenByNine310.jpg
+822,Fergus Henderson’s Trotter Gear,Sam Sifton,https://static01.nyt.com/images/2019/03/05/dining/ss-trotter-gear/merlin_150673191_7722d1b3-2c97-4805-808b-00ca9e209c5a-mediumThreeByTwo252.jpg
+823,Pulled Pork,Sam Sifton,https://static01.nyt.com/images/2015/05/20/dining/20HIT_PORK/20HIT_PORK-mediumThreeByTwo252.jpg
+824,Outdoor Fish Fry,John Willoughby And Chris Schlesinger,https://static01.nyt.com/images/2014/08/29/dining/outdoorfishfry/outdoorfishfry-videoSixteenByNine310.jpg
+825,Bean-Hole Baked Beans,John Willoughby,https://static01.nyt.com/images/2014/03/05/dining/05beanhole/05beanhole-videoSixteenByNine310.jpg
+826,Beer-Can Chicken,Sam Sifton,https://static01.nyt.com/images/2017/05/15/dining/15COOKING-BEERCAN-CHICKEN3/15COOKING-BEERCAN-CHICKEN3-mediumThreeByTwo252.jpg
+827,Grilled Paella,Sam Sifton,https://static01.nyt.com/images/2014/02/26/dining/recipes-grilledpaella/recipes-grilledpaella-videoSixteenByNine310.jpg
+828,Momofuku's Bo Ssam,Sam Sifton,https://static01.nyt.com/images/2012/01/15/magazine/15eat1_span/15eat1_span-videoSixteenByNine310-v3.jpg
+829,Spiced Skirt Steak With Whole Roasted Plantains,Julia Moskin,https://static01.nyt.com/images/2014/04/24/dining/Spiced-Skirt-Steak/Spiced-Skirt-Steak-videoSixteenByNine310.jpg
+830,Chimichurri Hanger Steak,Florence Fabricant,https://static01.nyt.com/images/2014/04/01/dining/chimichurri-hanger-steak/chimichurri-hanger-steak-videoSixteenByNine310-v3.jpg
+831,Steak With Ginger Butter Sauce,Mark Bittman,https://static01.nyt.com/images/2015/04/29/dining/steak-ginger-sauce/steak-ginger-sauce-videoSixteenByNine310.jpg
+832,Avocado Vichyssoise,Mark Bittman,https://static01.nyt.com/images/2014/05/13/dining/Avocado-Vichyssoise/Avocado-Vichyssoise-videoSixteenByNine310.jpg
+833,Crawfish-Stuffed Avocados,Molly O'Neill,https://static01.nyt.com/applications/cooking/d3f9aa5/assets/11.png?1
+834,Avocado With Soy-Lime Vinaigrette,Mark Bittman,https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Eat-t_CA0-largeHorizontal375.jpg
+835,Roasted Carrot and Avocado Salad,Florence Fabricant,https://static01.nyt.com/images/2012/10/31/dining/31CARROTS2_SPAN/31CARROTS2_SPAN-videoSixteenByNine310.jpg
+836,Avocado Fries,Kim Severson,https://static01.nyt.com/images/2014/04/18/dining/avadcadofries/avadcadofries-videoSixteenByNine310.jpg
+837,Chilled Cucumber Soup With Avocado Toast,Melissa Clark,https://static01.nyt.com/images/2013/07/23/dining/23dinner/23dinner-tmagSF.jpg
+838,Chicken and Sausage Jambalaya,Marian Burros,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/16.png?1
+839,Muffuletta,The New York Times,https://static01.nyt.com/images/2019/02/24/dining/muffaletta/merlin_150672987_2c385b61-c216-48a7-a273-80db45c78551-mediumThreeByTwo252.jpg
+840,New Crawfish Etouffee,The New York Times,https://static01.nyt.com/applications/cooking/d91f60a/assets/10.png?1
+841,Mahony’s Beef Po’ Boys,Sam Sifton,https://static01.nyt.com/images/2015/02/12/dining/mahonys-po-boy/mahonys-po-boy-videoSixteenByNine310.jpg
+842,New Orleans Barbecue Shrimp,Mark Bittman,https://static01.nyt.com/images/2018/06/05/dining/31COOKING-BBQ-SHRIMP2/31COOKING-BBQ-SHRIMP2-mediumThreeByTwo252.jpg
+843,Shrimp Remoulade,Craig Claiborne,https://static01.nyt.com/applications/cooking/4d350c2/assets/9.png?1
+844,Mussels Marinara,Molly O'Neill,https://static01.nyt.com/applications/cooking/1fa6bc8/assets/7.png?1
+845,Stewed Squid In Tomato Sauce,Moira Hodgson,https://int.nyt.com/applications/cooking/804e3c3/assets/3.png?1
+846,Tomato Sauce With Onion and Butter,Mark Bittman,https://static01.nyt.com/images/2013/11/10/magazine/10eat2/10eat2-largeHorizontal375.jpg
+847,Shrimp alla Marinara,Julia Moskin,https://static01.nyt.com/images/2014/01/29/dining/29JPSAUCE3/29JPSAUCE3-videoSixteenByNine310.jpg
+848,Spaghetti With Enokitake Mushrooms and Marinara Sauce,Craig Claiborne,https://static01.nyt.com/applications/cooking/a9ea0b6/assets/8.png?1
+849,Simple Marinara Sauce,Martha Rose Shulman,https://static01.nyt.com/images/2014/03/26/dining/simplemarinara/simplemarinara-videoSixteenByNine310.jpg
+850,Dolly Sinatra's Marinara Sauce,Alex Witchel,https://int.nyt.com/applications/cooking/9e15255/assets/49.png?1
+851,Spaghetti With Fresh Tomato and Basil Sauce,The New York Times,https://static01.nyt.com/images/2015/07/27/dining/27SPAGHETTI/27SPAGHETTI-mediumThreeByTwo252.jpg
+852,The Frankies’ Fried Eggplant Sandwich,Melissa Clark,https://static01.nyt.com/images/2013/08/06/dining/video-clark-eggplant/video-clark-eggplant-videoSixteenByNine310-v2.jpg
+853,Classic Marinara Sauce,Julia Moskin,https://static01.nyt.com/images/2014/01/29/dining/29SAUCE_SPAN/29SAUCE_SPAN-mediumThreeByTwo252-v2.jpg
+854,Rib Steak With Marrow and Red-Wine Sauce,Pierre Franey,https://int.nyt.com/applications/cooking/942961b/assets/46.png?1
+855,Broiled Steak with Pineapple and Onion Salsa,Mark Bittman,https://static01.nyt.com/images/2014/03/28/dining/broiledsteak-still/broiledsteak-still-videoSixteenByNine310.jpg
+856,Ashkinaze Rib-Eye,Sam Sifton,https://static01.nyt.com/images/2012/05/20/magazine/20eat1/20eat1-videoSixteenByNine310.jpg
+857,Tri-Tip Steak With Tomato Romesco,Mark Bittman,https://static01.nyt.com/images/video/2010/01/01/7199_1_tritipromanesco_312x176.jpg
+858,Grilled Chile Flank Steak With Salsa,Melissa Clark,https://static01.nyt.com/images/2013/08/09/dining/video-clark-steak-salsa/video-clark-steak-salsa-videoSixteenByNine310.jpg
+859,Vietnamese Steak With Cucumber Salad,Melissa Clark,https://static01.nyt.com/images/2018/04/27/dining/dj-take/dj-take-videoSixteenByNine310-v2.jpg
+860,Giant Chipotle-Rubbed Steaks With Cilantro-Lime Butter,Sam Sifton,https://int.nyt.com/applications/cooking/fe05d3d/assets/22.png?1
+861,Pan-Seared Veal Steaks With Green Peppercorns,David Tanis,https://static01.nyt.com/images/2014/02/05/dining/05KITCH_SPAN/05KITCH_SPAN-videoSixteenByNine310.jpg
+862,Fast Tandoori Chicken,Mark Bittman,https://static01.nyt.com/images/2013/12/13/dining/recipes-tandoorichicken/recipes-tandoorichicken-mediumThreeByTwo252-v2.jpg
+863,Craig Claiborne's Beef Stew,Craig Claiborne,https://static01.nyt.com/images/2014/04/11/dining/beefstew/beefstew-mediumThreeByTwo252-v2.jpg
+864,Craig Claiborne's Fried Chicken,Craig Claiborne,https://static01.nyt.com/applications/cooking/a1a368d/assets/1.png?1
+865,"Pizza With Caramelized Onions, Figs, Bacon and Blue Cheese",Sam Sifton,https://static01.nyt.com/images/2014/01/10/dining/recipes-pizzabaconbluecheese/recipes-pizzabaconbluecheese-videoSixteenByNine310.jpg
+866,Mushroom-Barley Soup,Mark Bittman,https://static01.nyt.com/images/2014/04/08/dining/mbarleysoup/mbarleysoup-videoSixteenByNine310.jpg
+867,Choucroute Loaf,Molly O'Neill,https://static01.nyt.com/images/2014/01/09/dining/recipes-choucrouteloaf/recipes-choucrouteloaf-videoSixteenByNine310.jpg
+868,Lamb Stew With Chickpeas and Butternut Squash,Molly O'Neill,https://static01.nyt.com/images/2014/01/21/dining/recipes-lambstew/recipes-lambstew-videoSixteenByNine310.jpg
+869,Curried Tofu With Soy Sauce,Mark Bittman,https://static01.nyt.com/images/2011/11/25/dining/video-curriedtofu/video-curriedtofu-largeHorizontal375.jpg
+870,Myra Waldo's Swedish Lamb,Craig Claiborne,https://static01.nyt.com/images/2014/01/15/dining/recipes-myrawaldoswedishlamb/recipes-myrawaldoswedishlamb-videoSixteenByNine310.jpg
+871,Soba Salad,Mark Bittman,https://static01.nyt.com/images/2019/01/11/dining/mb-soba-salad/mb-soba-salad-mediumThreeByTwo252.jpg
+872,Chicken Fricassee With Vermouth,Craig Claiborne And Pierre Franey,https://static01.nyt.com/images/2014/01/07/dining/recipes-chickenfricassee/recipes-chickenfricassee-videoSixteenByNine310.jpg
+873,Claudia Roden's Orange and Almond Cake,Moira Hodgson,https://static01.nyt.com/images/2014/04/11/dining/almondorange/almondorange-videoSixteenByNine310.jpg
+874,Braised Chicken With Salami and Olives,Kim Severson,https://static01.nyt.com/images/2014/04/16/dining/16COOKBOOK3/16COOKBOOK3-videoSixteenByNine310.jpg
+875,Fresh Ham With Maple-Balsamic Glaze,Sam Sifton,https://static01.nyt.com/images/2014/04/16/dining/16EASTER_SPAN-recipe/16EASTER-videoSixteenByNine310.jpg
+876,Unstrung Harp,Sam Sifton,https://static01.nyt.com/images/2014/05/02/dining/Unstrung-Harp/Unstrung-Harp-videoSixteenByNine310.jpg
+877,Beggar's Chicken,Craig Claiborne And Pierre Franey,https://int.nyt.com/applications/cooking/04b4067/assets/38.png?1
+878,Pan-Seared Asparagus Salad With Frisée and Fried Egg,Melissa Clark,https://static01.nyt.com/images/2014/03/06/dining/06asparagus/06asparagus-videoSixteenByNine310.jpg

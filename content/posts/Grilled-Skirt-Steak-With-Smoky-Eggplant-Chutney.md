@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "John Willoughby And Chris Schlesinger"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/03/05/dining/05steak/05steak-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/03/05/dining/05steak/05steak-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/03/05/dining/05steak/05steak-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/03/05/dining/05steak/05steak-superJumbo.jpg)
 
 *A heartfelt dinner that will surely put a smile on your face is an easy way to toast this special occasion.*
 

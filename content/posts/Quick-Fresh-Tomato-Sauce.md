@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/08/26/dining/26KITCHEN1/26KITCHEN1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/08/26/dining/26KITCHEN1/26KITCHEN1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/08/26/dining/26KITCHEN1/26KITCHEN1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/08/26/dining/26KITCHEN1/26KITCHEN1-superJumbo.jpg)
 
 *Spooned over a warm piece of toast, this sauce is every bit as filling as it is beautiful.*
 

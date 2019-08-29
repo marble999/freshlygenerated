@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19NEWMEXICO/19NEWMEXICO-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19NEWMEXICO/19NEWMEXICO-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/11/19/dining/19NEWMEXICO/19NEWMEXICO-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/11/19/dining/19NEWMEXICO/19NEWMEXICO-superJumbo.jpg)
 
 *Some of my favorite meals are actually cooking-based. When I go to the farmers market, I find myself cooking delectable meals out of just about every imaginable type of produce. On a recent trip to the grocery store, I came across a recipe for slow-cooked red chili turkey from Laura Werthmann’s book, Smoked to Order.*
 

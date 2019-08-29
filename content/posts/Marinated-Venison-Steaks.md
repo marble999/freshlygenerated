@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19MONTANA/19MONTANA-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19MONTANA/19MONTANA-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/11/19/dining/19MONTANA/19MONTANA-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/11/19/dining/19MONTANA/19MONTANA-superJumbo.jpg)
 
 *My husband and I make this special Sunday dinner just as much as we celebrate friends’ birthdays, anniversaries and anniversaries of long-term relationships, especially when it comes to our son. He likes venison because it comes from wild game that is not fished and must be game-hunted. We always use a Venison sausage, which looks so much like the traditional vegetarian sausage that it would be surprising that people had never seen one (The substitute is delicious, though, making all my meat-loving clients drool when they visit). The venison is cooked in foil for a very long time on the stovetop, then fried until the thin, silky strips are crisp, dark brown and sweet.*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Craig Claiborne And Pierre Franey"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/05/22/dining/Lobster-and-avocado-salad/Lobster-and-avocado-salad-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/05/22/dining/Lobster-and-avocado-salad/Lobster-and-avocado-salad-mediumThreeByTwo440.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/05/22/dining/Lobster-and-avocado-salad/Lobster-and-avocado-salad-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/05/22/dining/Lobster-and-avocado-salad/Lobster-and-avocado-salad-mediumThreeByTwo440.jpg)
 
 *This mild, but springy, version of the Italian salad is great with avocado slices, but you could substitute whole, ripe tomatoes with a squeeze of lemon juice and plenty of fresh garlic. This salad is primarily composed of the bitter sweet avocado, a squashlike vegetable, and the outer greens of the tender raw chicory. But you could substitute halved butternut squash, (for its even tarter, pickier flavour), but walnuts, pecans, hazelnuts, or walnut seeds would also be great.*
 

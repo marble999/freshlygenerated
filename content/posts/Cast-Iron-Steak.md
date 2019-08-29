@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Julia Moskin"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-videoSixteenByNine310-v4.jpg"
+socialImage: "https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-videoSixteenByNineJumbo1600-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-videoSixteenByNine310-v4.jpg)
+![](https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-videoSixteenByNineJumbo1600-v2.jpg)
 
 *This actually predates the glam-grilled-pork-chop retro-soul of celebrity chef Jaleel White, but it is definitely making a comeback. You’ll still spot cast-iron tines on steakhouses and high-end Vietnamese restaurants, but now there are a variety of ways to use it: with sliced vegetables in a Southwestern salad; seared slices of beef, chicken, or shrimp, griddle-baked and adorned with smoky Thai chili glaze; and slices of steak that are braised in a rice wine and chicken stock until plump and tender, then served hot and lingering on a bed of fresh corn and baby peas. Here’s one version from Dan Loughery of Federalist Steakhouse, 150 E. 93rd St.*
 ### Ingredients

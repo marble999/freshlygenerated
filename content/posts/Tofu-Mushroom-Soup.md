@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Martha Rose Shulman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/02/10/dining/10MARTHA/10MARTHA-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/02/10/dining/10MARTHA/10MARTHA-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/02/10/dining/10MARTHA/10MARTHA-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/02/10/dining/10MARTHA/10MARTHA-superJumbo.jpg)
 
 *Photo*
 

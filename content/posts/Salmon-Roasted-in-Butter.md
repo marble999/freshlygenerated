@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/08/14/dining/14ROASTEDSALMON/14ROASTEDSALMON-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/08/14/dining/14ROASTEDSALMON/14ROASTEDSALMON-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/08/14/dining/14ROASTEDSALMON/14ROASTEDSALMON-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/08/14/dining/14ROASTEDSALMON/14ROASTEDSALMON-superJumbo.jpg)
 
 *Photo*
 

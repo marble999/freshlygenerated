@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/05/20/dining/20LONDONBROILRUB/20LONDONBROILRUB-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/05/20/dining/20LONDONBROILRUB/20LONDONBROILRUB-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/05/20/dining/20LONDONBROILRUB/20LONDONBROILRUB-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/05/20/dining/20LONDONBROILRUB/20LONDONBROILRUB-superJumbo.jpg)
 
 *Clockwise from the middle: Weightless, Lemon Juice, Smoked Pumpkin Seed, Parmesan Cheese*
 

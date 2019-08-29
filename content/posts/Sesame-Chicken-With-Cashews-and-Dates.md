@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2018/03/15/dining/15COOKING-STIRFRYCHICK1/15COOKING-STIRFRYCHICK1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2018/03/15/dining/15COOKING-STIRFRYCHICK1/15COOKING-STIRFRYCHICK1-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2018/03/15/dining/15COOKING-STIRFRYCHICK1/15COOKING-STIRFRYCHICK1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2018/03/15/dining/15COOKING-STIRFRYCHICK1/15COOKING-STIRFRYCHICK1-threeByTwoMediumAt2X.jpg)
 
 *Put your favorites together in this easy and entertaining dish that would make a fabulous party food. Couscous works well with chicken as it absorbs the flavors and the chicken doesn’t get drowned out. Try this recipe with, say, tilapia, wild salmon, or tofu. Add lots of frozen whole green beans for an easy side dish.*
 

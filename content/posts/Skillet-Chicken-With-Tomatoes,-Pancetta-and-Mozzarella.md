@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/01/03/multimedia/clark-skillet-chicken/clark-skillet-chicken-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/01/03/multimedia/clark-skillet-chicken/clark-skillet-chicken-articleLarge-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/01/03/multimedia/clark-skillet-chicken/clark-skillet-chicken-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/01/03/multimedia/clark-skillet-chicken/clark-skillet-chicken-articleLarge-v2.jpg)
 
 *× Skillet Chicken With Tomatoes, Pancetta and Mozzarella*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/04/dining/Glazed-Lamb-Ribs/Glazed-Lamb-Ribs-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/04/dining/Glazed-Lamb-Ribs/Glazed-Lamb-Ribs-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/04/dining/Glazed-Lamb-Ribs/Glazed-Lamb-Ribs-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/04/04/dining/Glazed-Lamb-Ribs/Glazed-Lamb-Ribs-superJumbo.jpg)
 
 *Terrific for dinner party, the elegant presentation of these fantastic glazed lamb ribs will not have you in a rush.*
 ### Ingredients

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes5-asparagus/22feast-recipes5-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes5-asparagus/22feast-recipes5-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes5-asparagus/22feast-recipes5-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes5-asparagus/22feast-recipes5-videoSixteenByNineJumbo1600.jpg)
 
 *The secret to grilling wasabi. It’s actually a bacteria, not just a piece of spaghetti. Most of the time, it is used sparingly on cucumbers, onion, and tea leaf. With asparagus, I was hesitant to use as much as I had — there were a whole lot of spears on the grill — but when the sesame seeds popped, I couldn’t stop. It just seemed like such a fabulous way to add a bit of Asian flavor to the flank steak. This recipe calls for a little water mixed in the sesame seeds. But if you want a little less salt, add a little vinegar or balsamic vinegar instead.*
 

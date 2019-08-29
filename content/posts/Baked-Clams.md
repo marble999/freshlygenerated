@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Tamar Adler"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/12/13/magazine/13eat1/13mag-13eat-t_CA1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/12/13/magazine/13eat1/13mag-13eat-t_CA1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/12/13/magazine/13eat1/13mag-13eat-t_CA1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/12/13/magazine/13eat1/13mag-13eat-t_CA1-superJumbo.jpg)
 
 *There are a few important requirements when it comes to oysters. They must always be tied, they must always be shucked. Here, chef Tovah Matlin of the French Laundry shows us how to pierce the mollusk and close the shell. The shell is where the oyster fully opens up, revealing the meat inside. Depending on the size of the oyster, the final product will look like a spoon, a bowl, or a dollop. This dish, originally from Matlin’s cookbook, The French Laundry of the Oak Room, is meant to complement a plate of shrimp cocktail.*
 ### Ingredients

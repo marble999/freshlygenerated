@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Tejal Rao"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/03/19/magazine/19eat1/19eat1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2017/03/19/magazine/19eat1/19eat1-videoSixteenByNineJumbo1600-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/03/19/magazine/19eat1/19eat1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2017/03/19/magazine/19eat1/19eat1-videoSixteenByNineJumbo1600-v2.jpg)
 
 *The bread I use for this recipe is the bread stuffing in sourdough, which is chewy and nutty-tasting without too much flour. If it isn’t available at Whole Foods, search for bread stuffing in the store bakery section.*
 

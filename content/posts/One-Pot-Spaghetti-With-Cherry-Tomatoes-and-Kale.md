@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Tejal Rao"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2018/12/20/dining/one-pot-spaghetti-tomatoes-kale-horizontal/one-pot-spaghetti-tomatoes-kale-horizontal-mediumThreeByTwo252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2018/12/20/dining/one-pot-spaghetti-tomatoes-kale-horizontal/one-pot-spaghetti-tomatoes-kale-horizontal-threeByTwoMediumAt2X-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2018/12/20/dining/one-pot-spaghetti-tomatoes-kale-horizontal/one-pot-spaghetti-tomatoes-kale-horizontal-mediumThreeByTwo252-v2.jpg)
+![](https://static01.nyt.com/images/2018/12/20/dining/one-pot-spaghetti-tomatoes-kale-horizontal/one-pot-spaghetti-tomatoes-kale-horizontal-threeByTwoMediumAt2X-v2.jpg)
 
 *This recipe is a favorite in my house. Fresh, flavorful and easy. I make it often and it is easy to reheat, too. Best of all is the homemade pasta sauce, which works for both meatballs and spaghetti.*
 ### Ingredients

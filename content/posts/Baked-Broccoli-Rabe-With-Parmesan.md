@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/08/dining/broccolirabevideo/broccolirabevideo-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/08/dining/broccolirabevideo/broccolirabevideo-articleLarge-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/08/dining/broccolirabevideo/broccolirabevideo-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/04/08/dining/broccolirabevideo/broccolirabevideo-articleLarge-v2.jpg)
 
 *Watch Melissa Clark’s report on how to get your entire family involved with eating green.*
 

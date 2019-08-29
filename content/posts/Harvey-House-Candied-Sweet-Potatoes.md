@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19KANSAS/19KANSAS-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19KANSAS/19KANSAS-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/11/19/dining/19KANSAS/19KANSAS-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/11/19/dining/19KANSAS/19KANSAS-superJumbo.jpg)
 
 *I love it, I love it, I love it. Candied sweet potatoes are a staple of my sweet potato recipes. And I love them paired with bourbon, but this one is perfect by itself.*
 

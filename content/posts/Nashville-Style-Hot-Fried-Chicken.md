@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2019/05/08/dining/mc-nashville-hot-chicken/merlin_154348302_6054d377-9f8a-4a62-80f7-f2faa0efd2d2-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2019/05/08/dining/mc-nashville-hot-chicken/merlin_154348302_6054d377-9f8a-4a62-80f7-f2faa0efd2d2-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2019/05/08/dining/mc-nashville-hot-chicken/merlin_154348302_6054d377-9f8a-4a62-80f7-f2faa0efd2d2-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2019/05/08/dining/mc-nashville-hot-chicken/merlin_154348302_6054d377-9f8a-4a62-80f7-f2faa0efd2d2-threeByTwoMediumAt2X.jpg)
 
 *If I’m having fried chicken at a dinner party, I’m typically on Instagram or Twitter while shoving bits of the super hot bird into my mouth, because sometimes the experience gets so hot that your shirt isn’t helping.*
 

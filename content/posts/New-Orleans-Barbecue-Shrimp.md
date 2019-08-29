@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-BBQ-SHRIMP2/31COOKING-BBQ-SHRIMP2-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-BBQ-SHRIMP2/31COOKING-BBQ-SHRIMP2-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2018/06/05/dining/31COOKING-BBQ-SHRIMP2/31COOKING-BBQ-SHRIMP2-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2018/06/05/dining/31COOKING-BBQ-SHRIMP2/31COOKING-BBQ-SHRIMP2-threeByTwoMediumAt2X.jpg)
 
 *Over the past few weeks, we’ve been whipping up some fun, interesting sounding dishes with the latest in cooking technology. When we asked you for ideas, we were swamped with recipes for all sorts of unconventional dishes. We can’t wait to share what you did.*
 

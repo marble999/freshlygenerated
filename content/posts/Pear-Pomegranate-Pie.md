@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2018/10/05/dining/mc-pear-pomegranate-pie/mc-pear-pomegranate-pie-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2018/10/05/dining/mc-pear-pomegranate-pie/mc-pear-pomegranate-pie-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2018/10/05/dining/mc-pear-pomegranate-pie/mc-pear-pomegranate-pie-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2018/10/05/dining/mc-pear-pomegranate-pie/mc-pear-pomegranate-pie-threeByTwoMediumAt2X.jpg)
 
 *Pears are one of the most versatile fruits for our cookbooks, and this ever-popular dessert can be made with any variety. Whether you have grown your own or are buying a frozen pear that has been baked, you’ll probably be able to get your hands on one of the following recipes: Blackberry Pomegranate Pie, Heirloom Raspberries with Pomegranate, Whole Asparagus with Pomegranate and Fresh Strawberries, and Pear-Pomegranate Winter Cake.*
 

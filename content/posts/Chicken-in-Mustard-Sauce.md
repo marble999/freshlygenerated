@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Jacques Pépin"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/10/15/dining/15RECIPE17DIN/15RECIPE17DIN-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/10/15/dining/15RECIPE17DIN/15RECIPE17DIN-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/10/15/dining/15RECIPE17DIN/15RECIPE17DIN-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/10/15/dining/15RECIPE17DIN/15RECIPE17DIN-superJumbo.jpg)
 
 *My husband and I love sharing our favorite recipes, and this is one of ours. We share it with our family whenever we can, or whenever our dog gets mad because I make him French fries, which he loves. It’s simple, yet decadent in taste.*
 

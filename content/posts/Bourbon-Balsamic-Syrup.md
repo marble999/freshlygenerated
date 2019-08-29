@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/08/16/magazine/16eat2_bourbon/16eat2_bourbon-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/08/16/magazine/16eat2_bourbon/16eat2_bourbon-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/08/16/magazine/16eat2_bourbon/16eat2_bourbon-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/08/16/magazine/16eat2_bourbon/16eat2_bourbon-superJumbo.jpg)
 
 *Instagram YET another version of wine syrups and there are a lot of different flavors. But don’t let the name fool you. It’s a syrupy treat, just like the wine itself.*
 

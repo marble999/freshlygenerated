@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/09/08/multimedia/clark-clafouti/clark-clafouti-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/09/08/multimedia/clark-clafouti/clark-clafouti-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/09/08/multimedia/clark-clafouti/clark-clafouti-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/09/08/multimedia/clark-clafouti/clark-clafouti-videoSixteenByNineJumbo1600.jpg)
 
 *After a few days of eating healthy foods, you probably feel like you should add a little bit of sweetness to your diet too. Enter the custard-flavored clafoutis and their wondrous purple hue. It’s all about a wonderfully rich custard, lightening the load of ingredients needed to dole out a sort of luxe dessert.*
 

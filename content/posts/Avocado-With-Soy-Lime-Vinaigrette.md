@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Eat-t_CA0-largeHorizontal375.jpg"
+socialImage: "https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Eat-t_CA0-articleLarge.jpg"
 ---
 
-![](https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Eat-t_CA0-largeHorizontal375.jpg)
+![](https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Eat-t_CA0-articleLarge.jpg)
 
 *If you’re trying to eat healthy but can’t afford to swap a cheat day of french fries for a multivitamin, that can be a problem. However, there are plenty of healthy options available on your plate without breaking the bank.*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Alison Roman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-horizontal/roman-salmon-horizontal-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-horizontal/roman-salmon-horizontal-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-horizontal/roman-salmon-horizontal-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-horizontal/roman-salmon-horizontal-threeByTwoMediumAt2X.jpg)
 
 *If you’re looking for quick, easy, and flavorful salmon recipes, then Cumin-Roasted Salmon With Cilantro Sauce should definitely be on your radar. The sauce pairs perfectly with the salmon and the sauce is ideal for light mealtime meals when you need the addition of a bit of flavor.*
 ### Ingredients

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "The New York Times"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/05/20/t-magazine/20beddie-bloomfield/20beddie-bloomfield-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/05/20/t-magazine/20beddie-bloomfield/20beddie-bloomfield-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/05/20/t-magazine/20beddie-bloomfield/20beddie-bloomfield-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/05/20/t-magazine/20beddie-bloomfield/20beddie-bloomfield-superJumbo.jpg)
 
 *Artichokes come in two varieties, woody and woody-skinned. This recipe is one of a bunch Bloomfield made for the American Cookbook dinner series, hosted in celebration of her book The River Café Cookbook, with recipes from their culinary teams. It’s no surprise that she made one of the most vegetarian-friendly dishes on the menu, because her restaurant specializes in “all things with a tang,” as Bloomfield puts it. But it’s a little surprising to hear her two biggest influences on American cuisine are Byron and Hammon-Casella, whose cookbooks Bloomfield says never speak down to her. “Their books treat everything with a culinary logic and an oomph and an intelligence about it that I really like. I wanted to get that — that eye for how things work, for right and wrong, for respecting and perfection.”*
 

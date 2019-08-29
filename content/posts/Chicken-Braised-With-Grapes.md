@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Florence Fabricant"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/09/28/dining/28PAIR-WEB/28PAIR-WEB-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/09/28/dining/28PAIR-WEB/28PAIR-WEB-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/09/28/dining/28PAIR-WEB/28PAIR-WEB-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/09/28/dining/28PAIR-WEB/28PAIR-WEB-videoSixteenByNineJumbo1600.jpg)
 
 *What a delicious food to serve to a date. The flavors of chicken and grapes take a new turn as you combine them for this delicious entree. To keep it yummy and quick to prepare, you can serve them separate for the main course or together for the side.*
 

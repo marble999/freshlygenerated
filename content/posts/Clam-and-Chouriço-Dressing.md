@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19MASSACHUSETTES/19MASSACHUSETTES-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19MASSACHUSETTES/19MASSACHUSETTES-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/11/19/dining/19MASSACHUSETTES/19MASSACHUSETTES-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/11/19/dining/19MASSACHUSETTES/19MASSACHUSETTES-superJumbo.jpg)
 
 *Blogger Melissa Clark, founder of Lemonade Kitchen, shares a seasonal mustard dressing that’s sure to make your dreams come true. “It’s inexpensive, bright, and easy to make,” she said.*
 

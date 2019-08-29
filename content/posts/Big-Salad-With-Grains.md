@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Julia Moskin"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/05/09/dining/09SALADGUIDE9/09SALADGUIDE9-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2017/05/09/dining/09SALADGUIDE9/09SALADGUIDE9-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/05/09/dining/09SALADGUIDE9/09SALADGUIDE9-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2017/05/09/dining/09SALADGUIDE9/09SALADGUIDE9-videoSixteenByNineJumbo1600.jpg)
 
 *Photograph of the Big Salad by James Sowole and Ingredients for dressing by Inez Caplan.*
 

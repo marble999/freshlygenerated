@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Jeff Gordinier"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/05/25/dining/25CHEF6/25CHEF6-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/05/25/dining/25CHEF6/25CHEF6-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/05/25/dining/25CHEF6/25CHEF6-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/05/25/dining/25CHEF6/25CHEF6-videoSixteenByNineJumbo1600.jpg)
 
 *Join the Broth! Grilled Arctic Char With Horseradish Crema*
 ### Ingredients

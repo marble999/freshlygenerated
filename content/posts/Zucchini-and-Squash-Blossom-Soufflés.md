@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH1-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH1-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH1-superJumbo.jpg)
 
 *Trying a new recipe is always exciting, no matter what it is. We love this basic recipe because it’s so healthy — rich, creamy smoothies, all made with butternut squash — without using cream.*
 

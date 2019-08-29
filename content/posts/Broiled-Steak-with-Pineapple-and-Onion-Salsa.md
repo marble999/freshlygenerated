@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/03/28/dining/broiledsteak-still/broiledsteak-still-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/03/28/dining/broiledsteak-still/broiledsteak-still-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/03/28/dining/broiledsteak-still/broiledsteak-still-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/03/28/dining/broiledsteak-still/broiledsteak-still-superJumbo.jpg)
 
 *Steak is a great choice for dinner when you are hungry in the spring, and this variation of the classic steak recipe is my favorite way to welcome the warm weather.*
 

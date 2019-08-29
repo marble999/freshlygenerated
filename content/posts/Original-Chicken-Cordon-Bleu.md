@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Molly O'Neill"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKEN-CORDON-BLEU1/01CHICKEN-CORDON-BLEU1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKEN-CORDON-BLEU1/01CHICKEN-CORDON-BLEU1-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKEN-CORDON-BLEU1/01CHICKEN-CORDON-BLEU1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKEN-CORDON-BLEU1/01CHICKEN-CORDON-BLEU1-videoSixteenByNineJumbo1600.jpg)
 
 *When I made this dish recently, I couldn’t believe that for more than 60 years, this classic French dish has been revered as a supreme centerpiece. It’s not an easy chicken dish to tackle, but this recipe — which calls for chicken thighs, not breasts — works out well. I remember how nervous I was when I first picked up this recipe. My fingers curled under the narrow breast bones and made me worried that my kids wouldn’t be able to stuff the breast meat.*
 

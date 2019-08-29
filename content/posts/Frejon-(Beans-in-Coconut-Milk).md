@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Yewande Komolafe"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex7/merlin_156460119_aad69999-093c-4b01-ac8f-72da4602aac1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex7/merlin_156460119_aad69999-093c-4b01-ac8f-72da4602aac1-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex7/merlin_156460119_aad69999-093c-4b01-ac8f-72da4602aac1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex7/merlin_156460119_aad69999-093c-4b01-ac8f-72da4602aac1-threeByTwoMediumAt2X.jpg)
 
 *If you are looking for healthy and satisfying overnight oats, this sweet and savory option provides lots of veggies and fruits and is surprisingly easy to make. It can be made up to a week in advance and reheated in the morning.*
 

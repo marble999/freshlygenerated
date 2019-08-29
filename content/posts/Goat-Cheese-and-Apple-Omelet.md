@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/05/13/dining/appleomelet-still/appleomelet-still-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/05/13/dining/appleomelet-still/appleomelet-still-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/05/13/dining/appleomelet-still/appleomelet-still-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/05/13/dining/appleomelet-still/appleomelet-still-superJumbo.jpg)
 
 *It’s no secret that goat cheese has made a name for itself in the food world, gaining a new and buzzy status after starting its red carpet-ready career on TV show reality competitions (hello, Big Little Lies). But a playful Asian take on this buttery cheese is also easy to pair with many types of cooked foods. In this example, braised apple is paired with the goat cheese omelet, served with a drizzle of sweet citrus yoghurt and dried chamomile tea.*
 

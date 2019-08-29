@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/05/12/dining/Minty-Thai-Beef-Salad/Minty-Thai-Beef-Salad-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/05/12/dining/Minty-Thai-Beef-Salad/Minty-Thai-Beef-Salad-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/05/12/dining/Minty-Thai-Beef-Salad/Minty-Thai-Beef-Salad-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/05/12/dining/Minty-Thai-Beef-Salad/Minty-Thai-Beef-Salad-superJumbo.jpg)
 
 *A bowlful of beef salad with sour cherries and mint here at The Food Market delivers the classic Thai textural ratio that is not only delicious, but uniquely Thai.*
 ### Ingredients

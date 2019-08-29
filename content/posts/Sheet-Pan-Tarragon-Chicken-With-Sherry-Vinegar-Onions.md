@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/05/03/dining/03APPE1/03APPE1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2017/05/03/dining/03APPE1/03APPE1-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/05/03/dining/03APPE1/03APPE1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2017/05/03/dining/03APPE1/03APPE1-videoSixteenByNineJumbo1600.jpg)
 
 *Serves 4*
 ### Ingredients

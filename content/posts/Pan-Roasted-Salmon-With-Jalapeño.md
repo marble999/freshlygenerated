@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/07/09/magazine/09eat/09eat-mediumThreeByTwo252-v3.jpg"
+socialImage: "https://static01.nyt.com/images/2017/07/09/magazine/09eat/09eat-videoSixteenByNineJumbo1600-v4.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/07/09/magazine/09eat/09eat-mediumThreeByTwo252-v3.jpg)
+![](https://static01.nyt.com/images/2017/07/09/magazine/09eat/09eat-videoSixteenByNineJumbo1600-v4.jpg)
 
 *Before I even had dinner, the kitchen was aglow with the smell of my own cooking. To make a difference in the earth, it’s worth concentrating on who you’re treating, and who is coming in to eat that night.*
 

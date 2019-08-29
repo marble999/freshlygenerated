@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/05/20/dining/20HIT_COLESLAW/20HIT_COLESLAW-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/05/20/dining/20HIT_COLESLAW/20HIT_COLESLAW-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/05/20/dining/20HIT_COLESLAW/20HIT_COLESLAW-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/05/20/dining/20HIT_COLESLAW/20HIT_COLESLAW-superJumbo.jpg)
 
 *A Southwestern coleslaw is a hot topic with your salad friends — hence the long buzz surrounding Panza salad. What everyone really wants is a version that is both spicy and creamy — one without borscht-like creamy bits (chunks of cabbage). If you’re one of the impatient types, try this (quick, easy and inspired) version from young, warm New York chef Laura Werlin, which combines mandarin oranges, mango and kaffir lime leaves.*
 ### Ingredients

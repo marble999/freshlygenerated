@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/10/dining/gooeybuttercake/gooeybuttercake-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/10/dining/gooeybuttercake/gooeybuttercake-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/10/dining/gooeybuttercake/gooeybuttercake-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/04/10/dining/gooeybuttercake/gooeybuttercake-superJumbo.jpg)
 
 *Often referred to as a “gooey butter cake,” this recipe calls for a layer of clear, thick cream cheese frosting. It’s needed to stop the cake from becoming soggy as it bakes. Whip up this cake mix.*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Kim Severson"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/09/dining/Dark-Molasses-Gingerbread/Dark-Molasses-Gingerbread-mediumThreeByTwo252-v3.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/09/dining/Dark-Molasses-Gingerbread/Dark-Molasses-Gingerbread-superJumbo-v4.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/09/dining/Dark-Molasses-Gingerbread/Dark-Molasses-Gingerbread-mediumThreeByTwo252-v3.jpg)
+![](https://static01.nyt.com/images/2014/04/09/dining/Dark-Molasses-Gingerbread/Dark-Molasses-Gingerbread-superJumbo-v4.jpg)
 
 *For this easy dessert, you might want to let the turkey roaster brown a bit longer and leave out the eggs to get a nice golden brown crust. Basted in egg yolks with the browned turkey roaster juices, the gingerbread incorporates aromatics and a bit of a rich flavor. The Whipped Cream adds a creamy finish to the already moist crust.*
 

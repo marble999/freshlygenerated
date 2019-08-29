@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/06/11/magazine/11eat/11mag-11eat-t_CA0-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2017/06/11/magazine/11eat/11eat-videoSixteenByNineJumbo1600-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/06/11/magazine/11eat/11mag-11eat-t_CA0-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2017/06/11/magazine/11eat/11eat-videoSixteenByNineJumbo1600-v2.jpg)
 
 *Here is a great recipe for what I like to refer to as the slow dog, the ethnic dish that is traditionally a blend of national dishes.*
 

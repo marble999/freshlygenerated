@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH1-mediumThreeByTwo252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH1-mediumThreeByTwo252-v2.jpg)
+![](https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH1-superJumbo.jpg)
 
 *Minty yogurt chutney is an undeniably tasty sweet. “It reminds me of summer,” says Bellarie.*
 ### Ingredients

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2013/12/18/dining/18KITCH2/18KITCH2-tmagSF.jpg"
+socialImage: "https://static01.nyt.com/images/2013/12/18/dining/18KITCH2/18KITCH2-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2013/12/18/dining/18KITCH2/18KITCH2-tmagSF.jpg)
+![](https://static01.nyt.com/images/2013/12/18/dining/18KITCH2/18KITCH2-superJumbo.jpg)
 
 *That’s right. Today’s soup has a really sweet flavor! It’s best as an accompaniment to roasted veggies or salads. I love this soup so much that I make it for myself.*
 

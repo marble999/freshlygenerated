@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/05/28/dining/28KITCH1/28KITCH1-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/05/28/dining/28KITCH1/28KITCH1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/05/28/dining/28KITCH1/28KITCH1-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/05/28/dining/28KITCH1/28KITCH1-superJumbo.jpg)
 
 *The ultimate dish for the Passover holiday, wild morels have a longer and subtler flavor than other wild mushrooms. They are wild, so they require their own secret seasoning blend, but there are plenty of recipes that call for either a shallot or black garlic (another bonus ingredient) to marinate them. They are unscented — neither parmesan nor truffle aromas will be noticeable here — but this doesn’t seem to impact how they appear at all. Moreover, although they are supposedly “rich” in flavor, I was unable to detect any richness in my portion — this celery root was dressed with a homemade wild mushroom butter (using wild mushrooms in combination with butter is one of the healthiest and easiest tricks for hitting your healthy dietary goals).*
 

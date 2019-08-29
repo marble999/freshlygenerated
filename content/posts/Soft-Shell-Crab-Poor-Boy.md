@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/12/30/dining/bittman-po-boy/bittman-po-boy-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/12/30/dining/bittman-po-boy/bittman-po-boy-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/12/30/dining/bittman-po-boy/bittman-po-boy-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/12/30/dining/bittman-po-boy/bittman-po-boy-superJumbo.jpg)
 
 *Soft-shell crab Poor-Boy*
 

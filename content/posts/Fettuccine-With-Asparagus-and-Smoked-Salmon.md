@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Florence Fabricant"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/05/12/dining/Fettuccine-With-Asparagus-And-Smoked-Salmon/Fettuccine-With-Asparagus-And-Smoked-Salmon-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/05/12/dining/Fettuccine-With-Asparagus-And-Smoked-Salmon/Fettuccine-With-Asparagus-And-Smoked-Salmon-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/05/12/dining/Fettuccine-With-Asparagus-And-Smoked-Salmon/Fettuccine-With-Asparagus-And-Smoked-Salmon-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/05/12/dining/Fettuccine-With-Asparagus-And-Smoked-Salmon/Fettuccine-With-Asparagus-And-Smoked-Salmon-superJumbo.jpg)
 
 *This is a two-course recipe because the second one is usually the easiest.*
 

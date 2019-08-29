@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KITCHEN1-videoSixteenByNine310-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KITCHEN1-superJumbo-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KITCHEN1-videoSixteenByNine310-v2.jpg)
+![](https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KITCHEN1-superJumbo-v2.jpg)
 
 *When hankering for a snack, we don’t have to look far. It is one of the staples of our diets that we are bombarded with advertisements for all sorts of flavors and ingredients — including spicy, hoppy mustard, homemade pizza, crisped-up baked potato bites, and blue cheese. There is no shortage of ways to present this staple, but many simply use frozen, pre-made sausage.*
 

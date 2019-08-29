@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Martha Rose Shulman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/03/26/dining/simplemarinara/simplemarinara-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/03/26/dining/simplemarinara/simplemarinara-articleLarge.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/03/26/dining/simplemarinara/simplemarinara-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/03/26/dining/simplemarinara/simplemarinara-articleLarge.jpg)
 
 *According to the restaurant Raymond Vineyard, the secret to their marinara sauce is that they use equal parts of tomato paste and canned white tomatoes, and they cook it down in that same can so it simmers and thickens. It’s a simple technique that requires very little equipment, such as a long, hot, clean pan or a deep skillet — and, eventually, any sauce will lend itself to this combination.*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2013/04/28/magazine/28eat/28eat-largeHorizontal375-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2013/04/28/magazine/28eat/28eat-articleLarge-v3.jpg"
 ---
 
-![](https://static01.nyt.com/images/2013/04/28/magazine/28eat/28eat-largeHorizontal375-v2.jpg)
+![](https://static01.nyt.com/images/2013/04/28/magazine/28eat/28eat-articleLarge-v3.jpg)
 
 *Cut up some mushrooms, toss them with a little olive oil, seasoning them with salt and pepper, and roast in a 300 degree oven until just tender. When they are slightly browned on top, sprinkle with nuts or seeds, if desired, and serve with a drizzle of extra virgin olive oil.*
 

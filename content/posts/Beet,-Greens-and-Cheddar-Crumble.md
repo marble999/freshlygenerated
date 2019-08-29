@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26JPCASSEROLE4-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26JPCASSEROLE4-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26JPCASSEROLE4-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26JPCASSEROLE4-superJumbo.jpg)
 
 *Sometimes the sight of a giant beet can make you want to shove it down your throat like a ball of white dirt, and that’s fine. But even if you can’t stomach a juicy, crunchy swashbuckler, there’s a healthier way to eat this spear. Don’t let its scary appearance deter you: They’re actually fiber-rich, too. I have one big reason to trust their chewy consistency — I lived in a town with beet fields for a few years while college studying for a baking class. But they’re surprisingly versatile: Sauté them with garlic and rosemary until translucent, drizzle with brown butter, and garnish with a slice of avocado to remind you how easy beet dishes are. And just before you eat, sprinkle them with feta, rosemary, and a dollop of balsamic vinegar.*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/05/14/magazine/14eat1/14eat1-mediumThreeByTwo252-v3.jpg"
+socialImage: "https://static01.nyt.com/images/2017/05/14/magazine/14eat1/14eat1-threeByTwoMediumAt2X-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/05/14/magazine/14eat1/14eat1-mediumThreeByTwo252-v3.jpg)
+![](https://static01.nyt.com/images/2017/05/14/magazine/14eat1/14eat1-threeByTwoMediumAt2X-v2.jpg)
 
 *Now that the weather is finally springing up, it's time to get outside again. The most original play dates of the season happen this time of year, when your toddlers are old enough to let loose and soak up the sun. But just because their turn comes, doesn't mean they’re going to play outside. (Don’t worry. You probably aren’t as bad as these mothers.)*
 

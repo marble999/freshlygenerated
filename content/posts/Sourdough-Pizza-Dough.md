@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/03/23/dining/23JPSOURDOUGH2/23JPSOURDOUGH2-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/03/23/dining/23JPSOURDOUGH2/23JPSOURDOUGH2-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/03/23/dining/23JPSOURDOUGH2/23JPSOURDOUGH2-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/03/23/dining/23JPSOURDOUGH2/23JPSOURDOUGH2-superJumbo.jpg)
 
 *This recipe combines two trendy ingredients (sourdough and pizza dough) to make an unusual recipe for dinner. It provides enough moisture and nutrients to sweeten your life, while also going cool with a rich, chocolatey sauce.*
 ### Ingredients

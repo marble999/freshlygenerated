@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "John Willoughby"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/07/15/dining/15GRILLSAUCE/15GRILLSAUCE-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/07/15/dining/15GRILLSAUCE/15GRILLSAUCE-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/07/15/dining/15GRILLSAUCE/15GRILLSAUCE-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/07/15/dining/15GRILLSAUCE/15GRILLSAUCE-superJumbo.jpg)
 
 *Nothing says barbecue like a good beef or chicken sandwich. So if you’re looking for a quick barbecue sauce with a secret ingredient — or a fast trick to spruce up your everyday sandwich — these cocktails (and instructions) will do the trick.*
 

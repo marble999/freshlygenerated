@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-with-Cilantro/Chicken-Legs-with-Cilantro-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-with-Cilantro/Chicken-Legs-with-Cilantro-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-with-Cilantro/Chicken-Legs-with-Cilantro-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-with-Cilantro/Chicken-Legs-with-Cilantro-superJumbo.jpg)
 
 *The beauty of citrus flavors on a roast is that they lend their subtleties to a limited repertoire of roasts. Kale, spinach and turnips are good for flavor (and the salad that goes with them). But chicken—and red meat more generally—lacks the nips and curries that can instantly reinvigorate red meat dishes.*
 

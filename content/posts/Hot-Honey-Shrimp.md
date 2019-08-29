@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2018/12/05/dining/hot-honey-shrimp-horizontal/merlin_147457098_d52160bb-f821-42d5-9db6-d79a9469d2e3-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2018/12/05/dining/hot-honey-shrimp-horizontal/merlin_147457098_d52160bb-f821-42d5-9db6-d79a9469d2e3-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2018/12/05/dining/hot-honey-shrimp-horizontal/merlin_147457098_d52160bb-f821-42d5-9db6-d79a9469d2e3-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2018/12/05/dining/hot-honey-shrimp-horizontal/merlin_147457098_d52160bb-f821-42d5-9db6-d79a9469d2e3-threeByTwoMediumAt2X.jpg)
 
 *The scent of shrimps on the grill is a surefire way to get people excited about summer. This recipe not only looks really cool but is actually very easy to do. You can find the finished dish at the new Aqua Vida.*
 

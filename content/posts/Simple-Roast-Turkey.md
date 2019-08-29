@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-mediumThreeByTwo252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-mediumThreeByTwo252-v2.jpg)
+![](https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-superJumbo.jpg)
 
 *Over the last several weeks, more and more e-mails have arrived about our food challenge. Why does Roast Turkey pack a punch? Roast Turkey is a stand-alone dish and is ideally served with sides. Yet, it is sweet. And white.*
 

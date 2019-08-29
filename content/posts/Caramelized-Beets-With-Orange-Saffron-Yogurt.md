@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/05/20/dining/beets-yotam/beets-yotam-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/05/20/dining/beets-yotam/beets-yotam-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/05/20/dining/beets-yotam/beets-yotam-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/05/20/dining/beets-yotam/beets-yotam-videoSixteenByNineJumbo1600.jpg)
 
 *Think of them as a Chablis: rich and fruity in all the right ways. Whether or not you like serious wines, the orange-saffron yogurt should be your first go-to low-calorie dessert drink.*
 

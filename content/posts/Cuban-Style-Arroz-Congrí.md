@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Kim Severson"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/05/18/dining/18JPCUBA3/18JPCUBA3-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/05/18/dining/18JPCUBA3/18JPCUBA3-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/05/18/dining/18JPCUBA3/18JPCUBA3-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/05/18/dining/18JPCUBA3/18JPCUBA3-videoSixteenByNineJumbo1600.jpg)
 
 *Arroz is such a Spanish staple, and here I’ve tweaked the recipe to make it a little bit lighter. These were a very popular dish in Cuba, thanks to the revolutionary spirit of independence with its traditional ingredients and recipes.*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Rosie Schaap"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-a-can/24mag-clam-in-a-can-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-a-can/24mag-clam-in-a-can-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-a-can/24mag-clam-in-a-can-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-a-can/24mag-clam-in-a-can-superJumbo.jpg)
 
 *Clams in a Can*
 

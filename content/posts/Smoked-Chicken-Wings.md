@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/05/25/dining/25WINGS/25WINGS-mediumThreeByTwo252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2016/05/25/dining/25WINGS/25WINGS-videoSixteenByNineJumbo1600-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/05/25/dining/25WINGS/25WINGS-mediumThreeByTwo252-v2.jpg)
+![](https://static01.nyt.com/images/2016/05/25/dining/25WINGS/25WINGS-videoSixteenByNineJumbo1600-v2.jpg)
 
 *Photo*
 ### Ingredients

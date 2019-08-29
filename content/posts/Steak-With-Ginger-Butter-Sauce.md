@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Mark Bittman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/04/29/dining/steak-ginger-sauce/steak-ginger-sauce-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2015/04/29/dining/steak-ginger-sauce/steak-ginger-sauce-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/04/29/dining/steak-ginger-sauce/steak-ginger-sauce-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2015/04/29/dining/steak-ginger-sauce/steak-ginger-sauce-superJumbo.jpg)
 
 *What’s not to love about steaks? If it’s soft, juicy steak paired with sweet herbs and butter, you’re in the clear, really. This recipe, which features Prime Tenderloin from Bar Tartine in Paris, is classic in look and texture. But it’s also loaded with special ingredients that are unusual for steaks.*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Braised-Tofu-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Braised-Tofu-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Braised-Tofu-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Braised-Tofu-superJumbo.jpg)
 
 *It’s become quite common to use a processor to make traditional noodle dishes but can often get repetitive. This tried-and-true ryuban is easy to make and can be sliced and cooked without the shredding of any meat.*
 ### Ingredients

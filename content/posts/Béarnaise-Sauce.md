@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-superJumbo.jpg)
 
 *The secret to chef Michael Anthony’s sashimi is in his sauce. “The sushi I start with is always so great that I start with the vinaigrette for the sashimi,” he says. The simple recipe for this light version is a fun appetizer.*
 

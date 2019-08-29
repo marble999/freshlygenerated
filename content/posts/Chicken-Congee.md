@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sara Bonisteel"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/09/28/dining/28CHINESE-WEB1/28CHINESE-WEB1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/09/28/dining/28CHINESE-WEB1/28CHINESE-WEB1-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/09/28/dining/28CHINESE-WEB1/28CHINESE-WEB1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/09/28/dining/28CHINESE-WEB1/28CHINESE-WEB1-videoSixteenByNineJumbo1600.jpg)
 
 *This is a fantastic recipe to serve at the annual Chinese Food Festival in Columbus, Ohio. Fruity flavors and comforting rice take the place of its hearty meat components.*
 ### Ingredients

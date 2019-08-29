@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Yewande Komolafe"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex9/merlin_156460023_a8fc5107-39cf-41c5-99f1-001727ca100a-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex9/merlin_156460023_a8fc5107-39cf-41c5-99f1-001727ca100a-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex9/merlin_156460023_a8fc5107-39cf-41c5-99f1-001727ca100a-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex9/merlin_156460023_a8fc5107-39cf-41c5-99f1-001727ca100a-threeByTwoMediumAt2X.jpg)
 
 *The franchise shares with us the fruits of its labour*
 

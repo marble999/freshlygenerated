@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Julia Moskin"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/06/03/dining/maangchi-moskinSUB/maangchi-moskinSUB-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/06/03/dining/maangchi-moskinSUB/maangchi-moskinSUB-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/06/03/dining/maangchi-moskinSUB/maangchi-moskinSUB-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/06/03/dining/maangchi-moskinSUB/maangchi-moskinSUB-superJumbo.jpg)
 
 *Bulgogi—or grilled beef—is a delicious dish that is easy to make with meat and vegetables from a box or a jar. My family loves this delectable BBQ (BBQ) dish—especially the gochujang-infused tangy gochujang pepper sauce. I love using a jar of Chef’s blend spiced-meat marinade on my bulgogi grill or slow cooker to get the perfect marinade balance. For this recipe, chef Bruce Wusta used a neutral flavor to make his marinade with seasonal produce like arugula, cherry tomatoes, and cucumbers.*
 ### Ingredients

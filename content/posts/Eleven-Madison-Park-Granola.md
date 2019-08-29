@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/07/27/dining/27GRANOLA/27GRANOLA-mediumThreeByTwo252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2015/07/27/dining/27GRANOLA/27GRANOLA-superJumbo-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/07/27/dining/27GRANOLA/27GRANOLA-mediumThreeByTwo252-v2.jpg)
+![](https://static01.nyt.com/images/2015/07/27/dining/27GRANOLA/27GRANOLA-superJumbo-v2.jpg)
 
 *Designed by Michael Clarke, Eleven Madison Park Granola*
 

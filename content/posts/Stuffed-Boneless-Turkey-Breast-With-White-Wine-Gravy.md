@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Julia Moskin"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/11/18/dining/18JULIAREX1/18JULIAREX1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/11/18/dining/18JULIAREX1/18JULIAREX1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/11/18/dining/18JULIAREX1/18JULIAREX1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/11/18/dining/18JULIAREX1/18JULIAREX1-superJumbo.jpg)
 
 *There’s something oddly satisfying about giving a stuffed boneless turkey breast with wine-gravy a taste test. It’s not just that the whole turkey is full of delicate skin but that the chicken-like texture and gloriously moist meat make the breast seem like a breakfast entree. When I get my sons a mashed potato with a giblet gravy, I’m thinking I just can’t get enough. Turkey is another story. But at the end of the day, I want it as something really fatty and rich like a chorizo sausage. Add some extra veggies, and maybe a bowl of soup and that doesn’t seem quite as bad for you. I guarantee the bonus calories and fat will soon be too much to stomach. But that’s the point: it makes me want to embrace this other Thanksgiving tradition with all the vim and vigor I can muster. Who doesn’t?*
 

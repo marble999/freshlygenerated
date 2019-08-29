@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "David Tanis"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/02/17/dining/17KITCH1/17KITCH1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/02/17/dining/17KITCH1/17KITCH1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/02/17/dining/17KITCH1/17KITCH1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/02/17/dining/17KITCH1/17KITCH1-superJumbo.jpg)
 
 *Photo*
 

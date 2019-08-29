@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Julia Moskin"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/06/07/dining/salted-caramel-brownie-2/salted-caramel-brownie-2-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/06/07/dining/salted-caramel-brownie-2/salted-caramel-brownie-2-videoSixteenByNineJumbo1600-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/06/07/dining/salted-caramel-brownie-2/salted-caramel-brownie-2-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/06/07/dining/salted-caramel-brownie-2/salted-caramel-brownie-2-videoSixteenByNineJumbo1600-v2.jpg)
 
 *It doesn’t get much more Instagrammable than this chocolate brownie with caramel, pecans, and whipped cream. Here’s a recipe from Lindsey Palmer, dessert chef at Blue Agave in New York City and author of A Classic Pumpkin Baking Book.*
 ### Ingredients

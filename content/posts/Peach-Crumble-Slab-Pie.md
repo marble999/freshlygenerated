@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2018/07/26/dining/mc-peach-crumble-slab-pie/mc-peach-crumble-slab-pie-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2018/07/26/dining/mc-peach-crumble-slab-pie/mc-peach-crumble-slab-pie-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2018/07/26/dining/mc-peach-crumble-slab-pie/mc-peach-crumble-slab-pie-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2018/07/26/dining/mc-peach-crumble-slab-pie/mc-peach-crumble-slab-pie-threeByTwoMediumAt2X.jpg)
 
 *Photo*
 

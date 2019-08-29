@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Kim Severson"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/08/06/dining/06JPSHRIMP4/06JPSHRIMP4-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/08/06/dining/06JPSHRIMP4/06JPSHRIMP4-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/08/06/dining/06JPSHRIMP4/06JPSHRIMP4-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/08/06/dining/06JPSHRIMP4/06JPSHRIMP4-superJumbo.jpg)
 
 *When you’re out to dinner with your girlfriends and everything is great until you have an extra-extra-boozy margarita, think of these pan-roasted shrimp with Mezcal, tomatoes and arbol chiles and call it dinner with friends.*
 ### Ingredients

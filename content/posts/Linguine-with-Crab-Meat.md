@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Florence Fabricant"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/12/17/dining/17PAIRING/17PAIRING-smallSquare252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2014/12/17/dining/17PAIRING/17PAIRING-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/12/17/dining/17PAIRING/17PAIRING-smallSquare252-v2.jpg)
+![](https://static01.nyt.com/images/2014/12/17/dining/17PAIRING/17PAIRING-superJumbo.jpg)
 
 *Photo*
 

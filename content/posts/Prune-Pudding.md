@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Steven Kurutz"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB2/10DEPRESSION-WEB2-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB2/10DEPRESSION-WEB2-videoSixteenByNineJumbo1600-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB2/10DEPRESSION-WEB2-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB2/10DEPRESSION-WEB2-videoSixteenByNineJumbo1600-v2.jpg)
 
 *This time-honored dessert is the stuff of women’s dreams — and men’s nightmares. It requires the “flight of fancy” enjoyed by Russian aristocrats in the 19th century and the finesse of a chef like famed molecular gastronomist Ferran Adria. Now is the time to employ both of these talents to reinvent this truly classic dish with a modern twist.*
 

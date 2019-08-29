@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/02/dining/Chili-Lobster-With-Texas-Toast/Chili-Lobster-With-Texas-Toast-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/02/dining/Chili-Lobster-With-Texas-Toast/Chili-Lobster-With-Texas-Toast-mediumThreeByTwo440.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/02/dining/Chili-Lobster-With-Texas-Toast/Chili-Lobster-With-Texas-Toast-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/04/02/dining/Chili-Lobster-With-Texas-Toast/Chili-Lobster-With-Texas-Toast-mediumThreeByTwo440.jpg)
 
 *Even the easiest of suppers takes time to come together. At the risk of sounding like a baker, I have a secret weapon to help you out: chili and toast.*
 

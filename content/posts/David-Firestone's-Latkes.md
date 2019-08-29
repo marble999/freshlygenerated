@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "The New York Times"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2013/11/06/dining/06MASHUP_SPAN/06MASHUP-tmagSF.jpg"
+socialImage: "https://static01.nyt.com/images/2013/11/06/dining/06MASHUP_SPAN/06MASHUP-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2013/11/06/dining/06MASHUP_SPAN/06MASHUP-tmagSF.jpg)
+![](https://static01.nyt.com/images/2013/11/06/dining/06MASHUP_SPAN/06MASHUP-superJumbo.jpg)
 
 *Recipes are all well and good, but what about the joys of serving your guests? You can make everything fancy and perfect, or you can give your guests the opportunity to be outrageous. Who doesn’t love to watch their guests dance for hours on end? I put a light spin on the latke recipe of most of my parties and left out the crunch of walnuts. Instead I had a fun fun way to bring a pocket of walnuts to my guests. I also wanted to add a splash of marmalade to the dish, but I couldn’t quite come up with the right combination. So for this recipe I kept it simple and chose a fruity marmalade for the top of the pancake. I also paired the sweet filling with a sprinkling of mini meatballs from the mason jar. They look perfect on top of the pancakes and after you have them all to yourself, you’ll be ready to start another party!*
 

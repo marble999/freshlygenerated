@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24eat-copy-mediumThreeByTwo252-v3.jpg"
+socialImage: "https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24eat-copy-articleLarge-v5.jpg"
 ---
 
-![](https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24eat-copy-mediumThreeByTwo252-v3.jpg)
+![](https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24eat-copy-articleLarge-v5.jpg)
 
 *Marsala is traditionally a fortified wine, but you can add it to an otherwise light meal and add so much richness to the flavours that it will take your dinner to another level. This is all about the rich meaty flavors, especially in the tomato sauce, which is spiked with the ancient fruit’s star signal. The Marsala adds a rich, dark, earthy quality to the meat, while the acidity sends the tomatoes screaming to the right place. This dish can be adapted for a vegetarian family. I recommend some extra virgin olive oil for the meat and a bit of saffron for the sauce.*
 

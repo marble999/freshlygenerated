@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Martha Rose Shulman"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PASTRY2-videoSixteenByNine310-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PASTRY2-superJumbo-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PASTRY2-videoSixteenByNine310-v2.jpg)
+![](https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PASTRY2-superJumbo-v2.jpg)
 
 *One of my favorite things to eat has become my go-to dessert — a little tray of this tart, too. The method changes depending on the thickness of the tart. You can freeze it and pull it out when it’s a tad too thick. I typically use it in the springtime, which means more raspberries in the harvest season. You can use a fresh tart, or top it with vanilla ice cream or whipped cream.*
 

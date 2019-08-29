@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Gabrielle Hamilton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/01/29/magazine/29eat/29mag-29eat-t_CA0-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2017/01/29/magazine/29eat/29mag-29eat-t_CA0-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/01/29/magazine/29eat/29mag-29eat-t_CA0-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2017/01/29/magazine/29eat/29mag-29eat-t_CA0-videoSixteenByNineJumbo1600.jpg)
 
 *The typical Thanksgiving turkey takes days to prepare, but don’t get stuck with an ugly, frozen bird. Cooks can slake your hunger and satisfy your appetite with this recipe from Chef Brett Davis of “Holidays, Food and Design with Brett Davis.”*
 ### Ingredients

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/07/25/dining/25FRIED-CHICKEN/25FRIED-CHICKEN-mediumThreeByTwo252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2016/07/25/dining/25FRIED-CHICKEN/25FRIED-CHICKEN-horizontalMediumAt2X-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/07/25/dining/25FRIED-CHICKEN/25FRIED-CHICKEN-mediumThreeByTwo252-v2.jpg)
+![](https://static01.nyt.com/images/2016/07/25/dining/25FRIED-CHICKEN/25FRIED-CHICKEN-horizontalMediumAt2X-v2.jpg)
 
 *When I moved to Connecticut a few years ago, I brought “Chipotle sauce” with me as I proclaimed that it was one of my favorite dishes — and it is.*
 

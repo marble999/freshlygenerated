@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Francis Lam"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2017/02/05/magazine/05eat-copy/05mag-05eat-t_CA0-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2017/02/05/magazine/05eat-copy/05eat-videoSixteenByNineJumbo1600-v2.jpg"
 ---
 
-![](https://static01.nyt.com/images/2017/02/05/magazine/05eat-copy/05mag-05eat-t_CA0-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2017/02/05/magazine/05eat-copy/05eat-videoSixteenByNineJumbo1600-v2.jpg)
 
 *When I was a little girl, my parents would make me an egg white omelet every Sunday afternoon, just to serve up as a simple breakfast. This traditional recipe is never sent off to school with me but, I trust my mom to serve a simple dish with only the most simple flavors — nothing fancy. It tastes amazingly good. And because I love cooked eggs — but mostly cooked scrambled eggs — this recipe is on my to-make list. The eggs are fried to the crescendo of their deliciousness then a side of crispy, vegan-made French fries is added for a fun snack during lunchtime. There’s no garnish for the dish or recipe, so you can bring it any time — but I know it sounds cheesy to suggest this for a weekday meal, but this isn’t so easy to keep quiet in public.*
 

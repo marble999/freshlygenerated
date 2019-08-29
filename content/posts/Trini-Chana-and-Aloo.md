@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Francis Lam"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04eat-t_CA0-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04eat-t_CA0-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04eat-t_CA0-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04eat-t_CA0-superJumbo.jpg)
 
 *Trini Chana aloo, or bean curd in coconut milk, is a fresh, flavorful start to lunch on a spring day, and it’s incredible when paired with watermelon and green relish.*
 

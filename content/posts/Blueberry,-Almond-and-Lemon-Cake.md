@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Yotam Ottolenghi"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2019/08/07/dining/yo-blueberry-almond-lemon-cake/merlin_158598102_10e85156-2033-41b1-9374-46521e2f5eec-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2019/08/07/dining/yo-blueberry-almond-lemon-cake/merlin_158598102_10e85156-2033-41b1-9374-46521e2f5eec-threeByTwoMediumAt2X.jpg"
 ---
 
-![](https://static01.nyt.com/images/2019/08/07/dining/yo-blueberry-almond-lemon-cake/merlin_158598102_10e85156-2033-41b1-9374-46521e2f5eec-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2019/08/07/dining/yo-blueberry-almond-lemon-cake/merlin_158598102_10e85156-2033-41b1-9374-46521e2f5eec-threeByTwoMediumAt2X.jpg)
 
 *Prep Time: 20 minutes*
 

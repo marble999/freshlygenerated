@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Kim Severson"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/03/13/dining/chicken-still-2/chicken-still-2-videoSixteenByNine310-v3.jpg"
+socialImage: "https://static01.nyt.com/images/2014/03/13/dining/chicken-still-2/chicken-still-2-articleLarge-v5.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/03/13/dining/chicken-still-2/chicken-still-2-videoSixteenByNine310-v3.jpg)
+![](https://static01.nyt.com/images/2014/03/13/dining/chicken-still-2/chicken-still-2-articleLarge-v5.jpg)
 
 *For Southern chicken, I found this recipe at Cafe Adelaide in Laurel, Maryland, a college town in Maryland’s Western suburbs. This is less spicy than most but it has less spice than many pan-fried chicken recipes do as well. Also, the chicken is rather moist, which makes it the ideal chicken to eat with a spoon.*
 ### Ingredients

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2016/06/01/dining/0601ENCHILADASJP1/0601ENCHILADASJP1-mediumThreeByTwo252.jpg"
+socialImage: "https://static01.nyt.com/images/2016/06/01/dining/0601ENCHILADASJP1/0601ENCHILADASJP1-videoSixteenByNineJumbo1600.jpg"
 ---
 
-![](https://static01.nyt.com/images/2016/06/01/dining/0601ENCHILADASJP1/0601ENCHILADASJP1-mediumThreeByTwo252.jpg)
+![](https://static01.nyt.com/images/2016/06/01/dining/0601ENCHILADASJP1/0601ENCHILADASJP1-videoSixteenByNineJumbo1600.jpg)
 
 *Extra salt is just as important to the overall culinary operation as parsley and Spanish onions. So are perfectly ripe tomatoes, which are great for the sauce and make your enchiladas go from a fluffy labor of love to a stunning standout. But if you don’t have the time, supplies, or hands to pull off the authentic dish (typically in a Hispanic region, you will probably find whole steaks of beef in jalapeño bits thrown in, which takes the quintessential dish to another level), a restaurant dish is probably your best bet.*
 

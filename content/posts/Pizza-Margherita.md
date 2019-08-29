@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-smallSquare252-v2.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-smallSquare252-v2.jpg)
+![](https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-superJumbo.jpg)
 
 *This delicious pizza is, as its name suggests, for lovers of pizza (and tomatoes) everywhere. Packed with cheese, tomato sauce, and basil, the special pizza recipe you make from this recipe gives you an equally satisfying way to take home friends and family and wow them with your gourmet culinary skills. Yields two to three pizzas.*
 

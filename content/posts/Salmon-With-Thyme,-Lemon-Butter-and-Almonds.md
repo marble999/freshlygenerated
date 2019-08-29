@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Nigella Lawson"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-superJumbo.jpg)
 
 *Remember this? It’s the recipe that makes lemon butter simple and easy (though if you can’t find it, it’s a good substitute).*
 

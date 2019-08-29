@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Sam Sifton"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2015/04/01/dining/01COOKBOOK1/01COOKBOOK1-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2015/04/01/dining/01COOKBOOK1/01COOKBOOK1-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2015/04/01/dining/01COOKBOOK1/01COOKBOOK1-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2015/04/01/dining/01COOKBOOK1/01COOKBOOK1-superJumbo.jpg)
 
 *The interior of the Russellville Public Library is, for better or worse, a make-do place. The paint is peeling, the rugs are stained, and the ceilings are bare of drywall and layers of plaster. Windows are boarded up. During the day, light floods through the glass storefront, the glass ceilings provide space for a handful of books and the soundtrack is piped through the hallway’s doorways. At night, things get dark — and a lot of it is because of the light bulbs used for the place’s light switches.*
 

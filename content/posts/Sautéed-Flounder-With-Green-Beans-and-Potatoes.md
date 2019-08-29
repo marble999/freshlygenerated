@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Frank Stitt"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2013/10/20/magazine/20highlands-flounder/20highlands-flounder-tmagSF.jpg"
+socialImage: "https://static01.nyt.com/images/2013/10/20/magazine/20highlands-flounder/20highlands-flounder-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2013/10/20/magazine/20highlands-flounder/20highlands-flounder-tmagSF.jpg)
+![](https://static01.nyt.com/images/2013/10/20/magazine/20highlands-flounder/20highlands-flounder-superJumbo.jpg)
 
 *I don’t have the willpower to eat a massive steak dinner every night. Or, as I like to call it, “going on a diet” so I can eat what I want when I want it. The only time I try to work it into my routine is when I am in the mood for something light. Lightness allows me to indulge in my love of wild things. Wild things like vegetables! How nice to enjoy whole plant foods like vegetables for once!*
 

@@ -9,10 +9,10 @@ tags:
 - "AI"
 - "Melissa Clark"
 description: "A tasty AI-generated recipe. Endorsed by Obama."
-socialImage: "https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ2/10JPSCHMALTZ2-videoSixteenByNine310.jpg"
+socialImage: "https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ2/10JPSCHMALTZ2-superJumbo.jpg"
 ---
 
-![](https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ2/10JPSCHMALTZ2-videoSixteenByNine310.jpg)
+![](https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ2/10JPSCHMALTZ2-superJumbo.jpg)
 
 *Twist your spring into shape with these tasty tidbits of fun baked gribenes.*
 

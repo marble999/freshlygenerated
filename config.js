@@ -7,8 +7,8 @@ module.exports = {
   subtitle: 'Recipe generation made fun.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 5,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 12,
+  googleAnalyticsId: 'UA-119150275-2',
   useKatex: false,
   menu: [
     {
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Chef Grover',
+    name: 'Freshly Generated',
     photo: 'chefgif.webp',
-    bio: 'With decades of industry experience and millenia-worth of compute, Chef Grover is the hero we need.',
+    bio: 'AI-Generated Recipes, Served up Fresh Each Day.',
     contacts: {
       email: '',
       facebook: '#',

@@ -3,17 +3,52 @@
 
 .feed {
   &__item {
-    @include margin-bottom(1.25);
+    // @include margin-bottom(1.15);
+    padding: 20px 0px;
+    border-bottom: 1px solid #dedede;
 
     &:last-child {
       @include margin-bottom(.5);
     }
 
+    &-meta {
+      display: flex;
+    }
+    
+    &-photo {
+      flex: 33%;
+      padding: 0px 0px 0px 0px;
+    }
+
+    &-info {
+      flex: 67%;
+      padding: 0px 20px 0px 20px;
+    }
+
+    @media (max-width: $layout-breakpoint-sm) {
+      &-photo {
+        flex: 60%;
+      }
+
+      &-description {
+        display: none;
+      }
+
+      &-readmore {
+        display: none;  
+      }
+      
+    }
+
     &-title {
-      font-size: $typographic-base-font-size * 1.6875;
-      @include line-height(1.5);
+      font-size: $typographic-base-font-size * 1.4;
+      font-family: "Playfair Display", 'Times New Roman', Times, serif; 
+      margin: 0px;
+      margin-bottom: 6px;
+      // * 1.6875;
+      @include line-height(1.1);
       @include margin-top(0);
-      @include margin-bottom(.5);
+      // @include margin-bottom(.5);
 
       &-link {
         color: $color-base;
@@ -29,14 +64,16 @@
     }
 
     &-description {
-      font-size: $typographic-base-font-size;
+      font-size: $typographic-small-font-size;
       @include line-height(1);
-      @include margin-bottom(.75);
+      // @include margin-bottom(.75);
+      margin: 0px;
+      color: #6b6b6b;
     }
 
     &-meta {
       &-time {
-        font-size: $typographic-small-font-size;
+        font-size: $typographic-very-small-font-size;
         color: $color-base;
         font-weight: 600;
         text-transform: uppercase;
@@ -48,7 +85,7 @@
 
       &-category {
         &-link {
-          font-size: $typographic-small-font-size;
+          font-size: $typographic-very-small-font-size;
           color: $color-secondary;
           font-weight: 600;
           text-transform: uppercase;
@@ -65,8 +102,9 @@
     }
 
     &-readmore {
-      font-size: $typographic-base-font-size;
-      color: $color-primary;
+      font-size: $typographic-very-small-font-size;
+      // color: $color-primary;
+      color: #666666;
 
       &:hover,
       &:focus {

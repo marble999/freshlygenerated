@@ -14,9 +14,9 @@ socialImage: "https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH
 
 ![](https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH1-superJumbo.jpg)
 
-*Trying a new recipe is always exciting, no matter what it is. We love this basic recipe because it’s so healthy — rich, creamy smoothies, all made with butternut squash — without using cream.*
+*Trying a new recipe is always exciting, no matter what it is. We love this basic recipe because it's so healthy - rich, creamy smoothies, all made with butternut squash - without using cream.*
 
-*The meatloaf carrot cake recipe is so much fun to make, and we wanted to make it into something even more delicious. So this is a version of it that has fluffed oatmeal in place of cereal. It has the same lovely moist crumble, and it’s topped with chickpeas (whether you choose to make a baked version or a muffin is up to you). This recipe is actually much healthier than the meatloaf version — with ingredients like chickpeas, eggs, whole grain oatmeal, and butternut squash, it’s low in saturated fat, cholesterol, calories, and sugar.*
+*The meatloaf carrot cake recipe is so much fun to make, and we wanted to make it into something even more delicious. So this is a version of it that has fluffed oatmeal in place of cereal. It has the same lovely moist crumble, and it's topped with chickpeas (whether you choose to make a baked version or a muffin is up to you). This recipe is actually much healthier than the meatloaf version - with ingredients like chickpeas, eggs, whole grain oatmeal, and butternut squash, it's low in saturated fat, cholesterol, calories, and sugar.*
 
 *You can definitely keep the oatmeal in the recipe, so that you can keep adding it to oatmeal-based breakfasts as well as sipping it straight or drizzling it on sandwiches and salads. The recipe also works well in one of our favorite morning treats: Croque Monsieur. It is croque monsieur heaven.*
 

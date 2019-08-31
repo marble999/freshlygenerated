@@ -11,14 +11,17 @@
     width: 180px;
     height: 260px;
     margin-left: -23px;
+    display: none;
   }
 
   &__title {
-    font-size: $typographic-base-font-size * 1.125;
+    font-size: $typographic-base-font-size * 2.125;
     font-weight: 600;
     @include line-height(1.125);
     @include margin(.5, .3, .5, 0);
-    // text-align: center;
+    text-align: center;
+    // font-size: 30px;
+    font-weight: 100;
 
     &-link {
       color: $color-base;
@@ -36,7 +39,7 @@
     color: $color-gray;
     @include line-height(1);
     @include margin-bottom(1);
-    // text-align: center;
+    text-align: center;
   }
 
 }

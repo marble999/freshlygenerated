@@ -12,12 +12,15 @@
     &-item {
       padding: 0;
       margin: 10px 0;
+      display: inline-block;
 
       &-link {
         font-size: $typographic-base-font-size;
         color: $typographic-base-font-color;
         font-weight: normal;
         border: 0;
+        float: left;
+        margin: 0px 10px;
 
         &:hover,
         &:focus {

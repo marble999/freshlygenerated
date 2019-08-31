@@ -38,6 +38,4 @@ socialImage: "https://static01.nyt.com/images/2014/04/08/dining/broccolirabevide
 
 1. Form mixture into five-inch balls. Arrange balls onto a baking sheet and bake 10 to 12 minutes until lightly browned.
 
-1. Enjoy!
-
-1. 
+Enjoy!

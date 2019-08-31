@@ -16,18 +16,18 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Freshly Generated',
     photo: 'chefgif.webp',
-    bio: 'AI-Generated Recipes, Served up Fresh Each Day.',
+    bio: 'AI-Generated Recipes, Served up Fresh for Your Amusement',
     contacts: {
       email: '',
       facebook: '#',

@@ -3,6 +3,10 @@
 
 .page {
   @include margin-bottom(2);
+  margin: auto;
+  float: none;
+  max-width: 800px;
+
 
   &__inner {
     padding: 25px 20px;
@@ -24,26 +28,26 @@
 
 }
 
-@include breakpoint-sm {
-  .page {
-    lost-column: 7/12;
+// @include breakpoint-sm {
+//   .page {
+//     lost-column: 7/12;
 
-    &__inner {
-      padding: 30px 20px;
-    }
+//     &__inner {
+//       padding: 30px 20px;
+//     }
 
-  }
+//   }
 
-}
+// }
 
-@include breakpoint-md {
-  .page {
-    lost-column: 2/3;
+// @include breakpoint-md {
+//   .page {
+//     lost-column: 2/3;
 
-    &__inner {
-      padding: 40px 35px;
-    }
+//     &__inner {
+//       padding: 40px 35px;
+//     }
 
-  }
+//   }
 
-}
+// }

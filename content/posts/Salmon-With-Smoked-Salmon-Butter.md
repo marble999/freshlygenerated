@@ -42,14 +42,13 @@ Sea salt, freshly ground black pepper, and extra virgin olive oil, to taste
 
 1. Stir in chives, lemon zest, and fennel, a generous 1 teaspoon sea salt, and enough pepper to taste. Garnish with fresh lemon wedges and a garnish of feta or crumbled feta.
 
-1. Adapted from Eat Well; Marta and Michael’s Parsley Book; California Olive Oil Company; Edible Communities.
+1. Adapted from Eat Well; Marta and Michael's Parsley Book; California Olive Oil Company; Edible Communities.
 
 1. Related Links
 
 1. Murals you should see in New York
 
-1. Paris–inspired cupcakes, baked at the Jolly Penny
+1. ParisÃ‚Â–inspired cupcakes, baked at the Jolly Penny
 
-1. What’s ‘deju vu’ and why does it taste so great?
+1. What's Ã‚Â‘deju vu' and why does it taste so great?
 
-1. 

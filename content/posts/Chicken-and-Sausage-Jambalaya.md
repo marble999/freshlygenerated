@@ -19,7 +19,7 @@ socialImage: "https://static01.nyt.com/applications/cooking/1fa6bc8/assets/16.pn
 
 Sausage, chicken, and vegetable stuffing
 
-* 1 – 4 tbsp olive oil
+* 1/4 tbsp olive oil
 
 * 1 onion, chopped
 
@@ -45,7 +45,7 @@ Sausage, chicken, and vegetable stuffing
 
 * 1 large red pepper, diced
 
-½ cup jalapeño pepper, diced
+Ã‚Â½ cup jalapeÃƒÂ±o pepper, diced
 
 Salt and Pepper to taste
 
@@ -60,6 +60,5 @@ Curry Sauce (Cream or Honey)
 
 1. If using rice, add half and half, hot, bring to a boil, cover, and simmer for 15 minutes. Pour into a mixing bowl or bowl of plastic containers.
 
-1. Pour butter, juice from red pepper, jalapeño, and cream into a medium saucepan. Bring to a boil, and then stir in salt and pepper. Cook until reduced to 2 tablespoons. Add sauce to mixing bowl or container. Add sauce to meat mixture and gently stir. Serve with rice, cold rice, or hot rice.
+1. Pour butter, juice from red pepper, jalapeÃƒÂ±o, and cream into a medium saucepan. Bring to a boil, and then stir in salt and pepper. Cook until reduced to 2 tablespoons. Add sauce to mixing bowl or container. Add sauce to meat mixture and gently stir. Serve with rice, cold rice, or hot rice.
 
-1. 

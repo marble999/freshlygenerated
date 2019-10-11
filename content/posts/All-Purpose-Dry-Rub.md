@@ -74,4 +74,3 @@ socialImage: "https://static01.nyt.com/images/2015/05/20/dining/20LONDONBROILRUB
 
 1. Related Video
 
-1. 

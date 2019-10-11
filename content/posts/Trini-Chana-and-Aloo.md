@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04
 
 ![](https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04eat-t_CA0-superJumbo.jpg)
 
-*Trini Chana aloo, or bean curd in coconut milk, is a fresh, flavorful start to lunch on a spring day, and it’s incredible when paired with watermelon and green relish.*
+*Trini Chana aloo, or bean curd in coconut milk, is a fresh, flavorful start to lunch on a spring day, and it's incredible when paired with watermelon and green relish.*
 
 *Prep time: 5 minutes*
 
@@ -25,21 +25,21 @@ socialImage: "https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04
 
 * 2 cups plain soy milk
 
-¼ cup water
+Ã‚Â¼ cup water
 
-½ cup blanched, shelled pea pods
+Ã‚Â½ cup blanched, shelled pea pods
 
 * 1 clove garlic, minced
 
-¼ cup fresh cilantro leaves, roughly chopped
+Ã‚Â¼ cup fresh cilantro leaves, roughly chopped
 
-½ cup roasted, skinned, and peeled fresh bell peppers, finely chopped
+Ã‚Â½ cup roasted, skinned, and peeled fresh bell peppers, finely chopped
 
-¼ cup chopped fresh mint leaves
+Ã‚Â¼ cup chopped fresh mint leaves
 
 * 1/8 teaspoon cayenne pepper
 
-½ teaspoon salt
+Ã‚Â½ teaspoon salt
 
 * 1/4 teaspoon freshly ground black pepper
 ### Directions
@@ -48,4 +48,3 @@ socialImage: "https://static01.nyt.com/images/2015/10/04/magazine/04eat/04mag-04
 
 1. Serve on a plate covered with a cooling sheet. Garnish each serving with a sprinkling of fresh cilantro.
 
-1. 

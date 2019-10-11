@@ -62,10 +62,9 @@ Freshly ground black pepper
 
 1. For the grill: Place a charcoal grill or grill pan over medium heat and douse with 1 tablespoon vegetable oil. Grill steak until thoroughly charred on the outside, about 4 minutes, and cooked through, 10 to 12 minutes longer. Lower heat to medium-low and continue to grill for another 2 to 3 minutes. Remove from heat. Set aside. Keep warm. Place 4 tablespoons red wine vinegar and 1 tablespoon mustard in a small bowl. Add salt and pepper and whisk well. Set aside.
 
-1. For the grilled skirt steak: Place oil in a small bowl and add onion and garlic. Sauté over low heat until onion is lightly browned, 3 to 4 minutes. Stir in vinegar and mustard and season with salt and pepper. Add steak and toss. Cover and refrigerate for at least 1 hour. Heat grill or charcoal fire until hot and place grill pan over medium heat. Grill until the steak is rare to medium-rare, about 2 to 3 minutes. Turn over and grill about 4 minutes more. Keep warm.
+1. For the grilled skirt steak: Place oil in a small bowl and add onion and garlic. SautÃƒÂ© over low heat until onion is lightly browned, 3 to 4 minutes. Stir in vinegar and mustard and season with salt and pepper. Add steak and toss. Cover and refrigerate for at least 1 hour. Heat grill or charcoal fire until hot and place grill pan over medium heat. Grill until the steak is rare to medium-rare, about 2 to 3 minutes. Turn over and grill about 4 minutes more. Keep warm.
 
-1. Cook’s notes: The eggplant chutney can be made up to 2 days ahead. Store covered in the refrigerator in an airtight container.
+1. Cook's notes: The eggplant chutney can be made up to 2 days ahead. Store covered in the refrigerator in an airtight container.
 
 1. Check back here every Friday for a new recipe and keep up with all of the Times recipes here.
 
-1. 

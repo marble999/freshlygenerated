@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH
 
 ![](https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH1-superJumbo.jpg)
 
-*Minty yogurt chutney is an undeniably tasty sweet. “It reminds me of summer,” says Bellarie.*
+*Minty yogurt chutney is an undeniably tasty sweet. "It reminds me of summer," says Bellarie.*
 ### Ingredients
 
 :
@@ -52,7 +52,7 @@ socialImage: "https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH
 * 1/2 cup cashews, toasted
 ### Directions:
 
-1. In a large saucepan, heat butter over medium heat. Add onion and sauté until soft. Add onion and sauté until tender.
+1. In a large saucepan, heat butter over medium heat. Add onion and sautÃƒÂ© until soft. Add onion and sautÃƒÂ© until tender.
 
 1. Add wine, vinegar, tomato juice, olive oil, spices, and salt. Cook until mixture boils, then reduce heat to low.
 
@@ -60,6 +60,5 @@ socialImage: "https://static01.nyt.com/images/2014/06/25/dining/25KITCH1/25KITCH
 
 1. Add mint and cashews and simmer for 30 minutes. Serve warm.
 
-1. Read the rest of Melissa Clark’s Sap the Grapes series.
+1. Read the rest of Melissa Clark's Sap the Grapes series.
 
-1. 

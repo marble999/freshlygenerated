@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-st
 
 ![](https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-videoSixteenByNineJumbo1600-v2.jpg)
 
-*This actually predates the glam-grilled-pork-chop retro-soul of celebrity chef Jaleel White, but it is definitely making a comeback. You’ll still spot cast-iron tines on steakhouses and high-end Vietnamese restaurants, but now there are a variety of ways to use it: with sliced vegetables in a Southwestern salad; seared slices of beef, chicken, or shrimp, griddle-baked and adorned with smoky Thai chili glaze; and slices of steak that are braised in a rice wine and chicken stock until plump and tender, then served hot and lingering on a bed of fresh corn and baby peas. Here’s one version from Dan Loughery of Federalist Steakhouse, 150 E. 93rd St.*
+*This actually predates the glam-grilled-pork-chop retro-soul of celebrity chef Jaleel White, but it is definitely making a comeback. You'll still spot cast-iron tines on steakhouses and high-end Vietnamese restaurants, but now there are a variety of ways to use it: with sliced vegetables in a Southwestern salad; seared slices of beef, chicken, or shrimp, griddle-baked and adorned with smoky Thai chili glaze; and slices of steak that are braised in a rice wine and chicken stock until plump and tender, then served hot and lingering on a bed of fresh corn and baby peas. Here's one version from Dan Loughery of Federalist Steakhouse, 150 E. 93rd St.*
 ### Ingredients
 
 * 1 beef round steak, about 6 to 7 ounces per side, 8 to 10 inches long
@@ -42,4 +42,3 @@ Sriracha sauce for garnish
 
 1. 3. To serve, spoon your favorite salad onto a plate, lay the beef, sauteed in oil and soy sauce, on top, then top with some extra mint and cilantro. Top with Sriracha on the side.
 
-1. 

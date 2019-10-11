@@ -66,4 +66,3 @@ salt and pepper
 
 1. Add the almonds to a microwave-safe bowl and microwave for 30 seconds on high power.
 
-1. 

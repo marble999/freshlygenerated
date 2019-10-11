@@ -14,11 +14,11 @@ socialImage: "https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKE
 
 ![](https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKEN-CORDON-BLEU1/01CHICKEN-CORDON-BLEU1-videoSixteenByNineJumbo1600.jpg)
 
-*When I made this dish recently, I couldn’t believe that for more than 60 years, this classic French dish has been revered as a supreme centerpiece. It’s not an easy chicken dish to tackle, but this recipe — which calls for chicken thighs, not breasts — works out well. I remember how nervous I was when I first picked up this recipe. My fingers curled under the narrow breast bones and made me worried that my kids wouldn’t be able to stuff the breast meat.*
+*When I made this dish recently, I couldn't believe that for more than 60 years, this classic French dish has been revered as a supreme centerpiece. It's not an easy chicken dish to tackle, but this recipe -- which calls for chicken thighs, not breasts -- works out well. I remember how nervous I was when I first picked up this recipe. My fingers curled under the narrow breast bones and made me worried that my kids wouldn't be able to stuff the breast meat.*
 
 *It turned out that my worry was justified. The breast meat can easily go to waste.*
 
-*As for my worries about sticking the breast meat into the crock pot, I had no problems, and I was inspired to convert the recipe to use chicken thighs and thighs the next time around. It’s delicious.*
+*As for my worries about sticking the breast meat into the crock pot, I had no problems, and I was inspired to convert the recipe to use chicken thighs and thighs the next time around. It's delicious.*
 
 *How to Master Chicken with Buttermilk*
 
@@ -26,12 +26,12 @@ socialImage: "https://static01.nyt.com/images/2016/11/01/dining/01COOKING-CHICKE
 
 *Chicken Crock Pot*
 
-*“Flavors are transformed, with layers of different varieties of aromatics that complement each other,” according to Gourmand America. “You create amazing flavors and textures through this balanced cooking process.”*
+*"Flavors are transformed, with layers of different varieties of aromatics that complement each other," according to Gourmand America. "You create amazing flavors and textures through this balanced cooking process."*
 ### Ingredients
 
 * 6 chicken thighs
 
-* 1 ½ cups buttermilk
+* 1 Ã‚Â½ cups buttermilk
 
 * 2 medium carrots, sliced
 
@@ -52,11 +52,11 @@ To taste ground nutmeg
 
 1. Chicken Cordon Bleu for French Desserts
 
-1. These are not recipes for a traditional dish that you would eat at the restaurant. The secret is to have your guests celebrate what’s on the plate, rather than having it turn out to be “cheap and run-of-the-mill.” Follow these steps to adapt a savory dish to the comfort of a dessert.
+1. These are not recipes for a traditional dish that you would eat at the restaurant. The secret is to have your guests celebrate what's on the plate, rather than having it turn out to be "cheap and run-of-the-mill." Follow these steps to adapt a savory dish to the comfort of a dessert.
 
-1. 1. Substitute tofu in place of chicken. I like tofu because it’s better quality than chicken, and it will avoid a lot of added flavors.
+1. 1. Substitute tofu in place of chicken. I like tofu because it's better quality than chicken, and it will avoid a lot of added flavors.
 
-1. 2. For the béchamel, don’t turn the water with the cooked chicken into the basic paste — use stock instead.
+1. 2. For the bÃƒÂ©chamel, don't turn the water with the cooked chicken into the basic paste -- use stock instead.
 
 1. 3. Make bread crumbs and use to coat the chicken skin and breasts.
 
@@ -70,6 +70,5 @@ To taste ground nutmeg
 
 1. *Cholesterol, sodium, GMOs, and other nutritional information can be found at Health.com.
 
-1. Melissa Clark is the Food Editor for TIME.com. She also oversees TimeOut NY’s Food team. Her work has also appeared in Condé Nast Traveler, Esquire, Good Housekeeping, Men’s Health, Prevention, Real Simple, The Wall Street Journal, New York Magazine, The Washington Post and many others.
+1. Melissa Clark is the Food Editor for TIME.com. She also oversees TimeOut NY's Food team. Her work has also appeared in CondÃƒÂ© Nast Traveler, Esquire, Good Housekeeping, Men's Health, Prevention, Real Simple, The Wall Street Journal, New York Magazine, The Washington Post and many others.
 
-1. 

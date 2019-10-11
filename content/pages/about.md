@@ -8,7 +8,7 @@ Welcome to Freshly Generated! This site contains hundreds of recipes generated b
 
 If you're interested in the specifics on the machine learning side, we used [Grover](https://github.com/rowanz/grover) to generate articles in the style of author Melissa Clark from the New York Times Cooking section. We generate articles one (sub)word at a time; for example, the model might generate the word "Ingredients", then a bullet point character, then the word "2", then the word "ripe", then the word "apples", and so on. We continue this process until a special end-of-article word is generated. 
 
-If you decide to make any of these recipes, [let me know](mailto:lmelaskyriazi@college.harvard.edu)! 
+If you decide to make any of these recipes, [let us know](mailto:lmelaskyriazi@college.harvard.edu)! 
 
 Enjoy! 
 

@@ -14,9 +14,9 @@ socialImage: "https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes
 
 ![](https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes5-asparagus/22feast-recipes5-videoSixteenByNineJumbo1600.jpg)
 
-*The secret to grilling wasabi. It’s actually a bacteria, not just a piece of spaghetti. Most of the time, it is used sparingly on cucumbers, onion, and tea leaf. With asparagus, I was hesitant to use as much as I had — there were a whole lot of spears on the grill — but when the sesame seeds popped, I couldn’t stop. It just seemed like such a fabulous way to add a bit of Asian flavor to the flank steak. This recipe calls for a little water mixed in the sesame seeds. But if you want a little less salt, add a little vinegar or balsamic vinegar instead.*
+*The secret to grilling wasabi. It's actually a bacteria, not just a piece of spaghetti. Most of the time, it is used sparingly on cucumbers, onion, and tea leaf. With asparagus, I was hesitant to use as much as I had -- there were a whole lot of spears on the grill -- but when the sesame seeds popped, I couldn't stop. It just seemed like such a fabulous way to add a bit of Asian flavor to the flank steak. This recipe calls for a little water mixed in the sesame seeds. But if you want a little less salt, add a little vinegar or balsamic vinegar instead.*
 
-*When you grate the asparagus with a paring knife, it will get small, and it shouldn’t be too tender. We usually just put the asparagus on the grill for 15-20 minutes per side, just so it’s a little chewy and lets the Sesame Salsa speak for itself. Watch as Melissa peels, debrides, and slices an avocado to add the final finishing touch for a top-notch summer salad.*
+*When you grate the asparagus with a paring knife, it will get small, and it shouldn't be too tender. We usually just put the asparagus on the grill for 15-20 minutes per side, just so it's a little chewy and lets the Sesame Salsa speak for itself. Watch as Melissa peels, debrides, and slices an avocado to add the final finishing touch for a top-notch summer salad.*
 
 *Prep Time: 20 minutes*
 
@@ -40,7 +40,7 @@ socialImage: "https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes
 * 4 teaspoons sesame seeds
 ### Directions
 
-1. Preheat your grill to high. Remove the steak from the refrigerator, place it on the grill, and turn it every 4 minutes or so. You should be able to see the char marks on the steak. If the steak begins to fall off the grill, turn the meat back and repeat until it’s done. While the steak is grilling, combine the Sesame Sesame Seed Water, chives, cilantro, and garlic. Transfer to a bowl, and keep covered with foil until ready to serve.
+1. Preheat your grill to high. Remove the steak from the refrigerator, place it on the grill, and turn it every 4 minutes or so. You should be able to see the char marks on the steak. If the steak begins to fall off the grill, turn the meat back and repeat until it's done. While the steak is grilling, combine the Sesame Sesame Seed Water, chives, cilantro, and garlic. Transfer to a bowl, and keep covered with foil until ready to serve.
 
 1. Sesame Sesame Salsa
 
@@ -68,7 +68,7 @@ socialImage: "https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes
 
 1. Grilled Fennel With Olive Oil and Lettuce
 
-1. Grilled Mac ‘n’ Cheese
+1. Grilled Mac Ã‚Â‘n' Cheese
 
 1. Grilled Oysters With Eggplant
 
@@ -78,4 +78,3 @@ socialImage: "https://static01.nyt.com/images/2016/05/22/magazine/22feastrecipes
 
 1. Related
 
-1. 

@@ -16,9 +16,9 @@ socialImage: "https://static01.nyt.com/images/2016/05/28/dining/28COOKING-PAD-TH
 
 *Photo*
 
-*This Pad Thai is overstuffed with tasty ingredients—that and some spectacular browned shrimp lie at the heart of this recipe.*
+*This Pad Thai is overstuffed with tasty ingredients--that and some spectacular browned shrimp lie at the heart of this recipe.*
 
-*To make a dish this good at home, make these soy sauce and oyster sauces, then get your hands on fresh basil, pickled shallots, chicken, coconut milk, and egg—that and a good stock.*
+*To make a dish this good at home, make these soy sauce and oyster sauces, then get your hands on fresh basil, pickled shallots, chicken, coconut milk, and egg--that and a good stock.*
 ### Ingredients
 
 * 4 eggs
@@ -66,4 +66,3 @@ Sea salt and ground black pepper to taste
 
 1. Serve, garnished with toasted sesame seeds.
 
-1. 

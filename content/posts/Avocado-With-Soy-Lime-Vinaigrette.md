@@ -14,9 +14,9 @@ socialImage: "https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Ea
 
 ![](https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Eat-t_CA0-articleLarge.jpg)
 
-*If you’re trying to eat healthy but can’t afford to swap a cheat day of french fries for a multivitamin, that can be a problem. However, there are plenty of healthy options available on your plate without breaking the bank.*
+*If you're trying to eat healthy but can't afford to swap a cheat day of french fries for a multivitamin, that can be a problem. However, there are plenty of healthy options available on your plate without breaking the bank.*
 
-*You can choose from high-quality avocados (yes, you have a better chance of taking a pill and getting nutrients than drinking a mimosa or another calorie-filled cocktail) in many easy and delicious ways. This vinaigrette is an elegant and simple spread. It’s creamy without being heavy or oily. Of course, it’s also nutritional, with fewer calories than a martini. So go grab that tray of real-deal avocados and start savoring life’s little pleasures.*
+*You can choose from high-quality avocados (yes, you have a better chance of taking a pill and getting nutrients than drinking a mimosa or another calorie-filled cocktail) in many easy and delicious ways. This vinaigrette is an elegant and simple spread. It's creamy without being heavy or oily. Of course, it's also nutritional, with fewer calories than a martini. So go grab that tray of real-deal avocados and start savoring life's little pleasures.*
 ### Ingredients
 
 * 4 small avocados, pitted and peeled
@@ -29,7 +29,7 @@ socialImage: "https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Ea
 
 * 1 teaspoon lime zest
 
-* 1/4 teaspoon ground jalapeño
+* 1/4 teaspoon ground jalapeÃƒÂ±o
 
 * 1 tablespoon sesame oil
 
@@ -46,4 +46,3 @@ socialImage: "https://static01.nyt.com/images/2013/03/10/magazine/10eat/mag-10Ea
 
 1. Talk to Melissa Clark on Twitter or Instagram @melissacarter.
 
-1. 

@@ -21,7 +21,7 @@ socialImage: "https://static01.nyt.com/images/2014/05/12/dining/Fettuccine-With-
 
 * 4-6 ounces of grilled smoked salmon or other smoked fish, such as smoked trout or trout roe
 
-� pound baby asparagus, halved lengthwise and separated into 2 sections
+Â¼ pound baby asparagus, halved lengthwise and separated into 2 sections
 
 * 6 ounces asparagus hearts, unpeeled, sliced
 
@@ -31,15 +31,14 @@ socialImage: "https://static01.nyt.com/images/2014/05/12/dining/Fettuccine-With-
 
 * 12 shavings salty sherry vinegar
 
-� cup slivered almonds
+Â¼ cup slivered almonds
 
 Sour cream, olive oil, and/or lemon juice, to serve
 ### Directions
 
-1. To make the sauce, heat oil in a medium pan on medium heat, and saut� asparagus in the oil until soft, approximately 2 minutes. Add to the fish, and toss until dissolved in the sauce. Add pasta, toss to coat, and add vinegar. Continue cooking until pasta is heated through.
+1. To make the sauce, heat oil in a medium pan on medium heat, and sautÃ© asparagus in the oil until soft, approximately 2 minutes. Add to the fish, and toss until dissolved in the sauce. Add pasta, toss to coat, and add vinegar. Continue cooking until pasta is heated through.
 
 1. To serve, drizzle with sour cream and a drizzle of olive oil. Sprinkle with almonds.
 
 1. Melissa Clark is the Executive Chef and Co-Owner of il Milo di Subppinos Gourmet Pizza, located in Venice, California. Follow her at melissacarter.com
 
-1. 

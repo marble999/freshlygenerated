@@ -50,10 +50,9 @@ salt and pepper
 
 1. Melt the butter in a large pan over medium heat.
 
-1. When it’s hot, add the shrimp (limiting the number if it’s too difficult). Cook them for two minutes, until they begin to turn pink and then turn them to the sides and return to the pan. This will take around one minute.
+1. When it's hot, add the shrimp (limiting the number if it's too difficult). Cook them for two minutes, until they begin to turn pink and then turn them to the sides and return to the pan. This will take around one minute.
 
 1. Add sea salt to the shrimp, and mix with the butter.
 
 1. Add all the other ingredients into the pan. As soon as the shrimp starts to turn pink, cover the pan, and cook for about 15 minutes on medium high heat. Remove from the heat and allow to cool for at least 15 minutes before serving.
 
-1. 

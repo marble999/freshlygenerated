@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-hor
 
 ![](https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-horizontal/roman-salmon-horizontal-threeByTwoMediumAt2X.jpg)
 
-*If you’re looking for quick, easy, and flavorful salmon recipes, then Cumin-Roasted Salmon With Cilantro Sauce should definitely be on your radar. The sauce pairs perfectly with the salmon and the sauce is ideal for light mealtime meals when you need the addition of a bit of flavor.*
+*If you're looking for quick, easy, and flavorful salmon recipes, then Cumin-Roasted Salmon With Cilantro Sauce should definitely be on your radar. The sauce pairs perfectly with the salmon and the sauce is ideal for light mealtime meals when you need the addition of a bit of flavor.*
 ### Ingredients
 
 * 4 salmon fillets (approximately 2 pounds each)
@@ -38,7 +38,7 @@ socialImage: "https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-hor
 
 1. 1. Preheat the oven to 425 degrees F. Pat the salmon dry.
 
-1. 2. Heat a small sauté pan over medium heat. Add the olive oil and stir. When the oil is almost a rich red color, add the garlic and cook for a few seconds, then add the tomatoes and any juice from the sauce. Cook for another 3 to 4 minutes, stirring constantly. Add the cilantro, Sriracha, lime juice, and salt.
+1. 2. Heat a small sautÃƒÂ© pan over medium heat. Add the olive oil and stir. When the oil is almost a rich red color, add the garlic and cook for a few seconds, then add the tomatoes and any juice from the sauce. Cook for another 3 to 4 minutes, stirring constantly. Add the cilantro, Sriracha, lime juice, and salt.
 
 1. 3. Add the chopped onion and cook for about 3 minutes, until the onion is translucent. Stir the mixture into the tomato mixture. Turn the heat to low and let simmer for a few minutes. Stir in the herb mix.
 
@@ -50,4 +50,3 @@ socialImage: "https://static01.nyt.com/images/2018/08/28/dining/roman-salmon-hor
 
 1. Related
 
-1. 

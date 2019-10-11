@@ -16,15 +16,15 @@ socialImage: "https://static01.nyt.com/images/2014/04/02/dining/Chili-Lobster-Wi
 
 *Even the easiest of suppers takes time to come together. At the risk of sounding like a baker, I have a secret weapon to help you out: chili and toast.*
 
-*I loved the traditional mesquite-grilled romaine steak with slaw, and if that’s not on your heart, it may be time to move down south to Texas. I know because my step-mom lives in Houston, and she tells me about how the temperature can get uncomfortably high, especially in the summer. What she doesn’t talk about is how pretty the toast is. Not only does it look appealing, but it melts right into your mouth and brings out the flavors of the toasted bread.*
+*I loved the traditional mesquite-grilled romaine steak with slaw, and if that's not on your heart, it may be time to move down south to Texas. I know because my step-mom lives in Houston, and she tells me about how the temperature can get uncomfortably high, especially in the summer. What she doesn't talk about is how pretty the toast is. Not only does it look appealing, but it melts right into your mouth and brings out the flavors of the toasted bread.*
 
-*But this recipe requires a little more planning, as it requires you to make a tortilla. As the tomatillos, tomatoes, and onions cook down into chili, the topping that holds the tortilla together will be ready in just about a minute. This is the perfect recipe to give to guests who are overly excited about the food they’re bringing.*
+*But this recipe requires a little more planning, as it requires you to make a tortilla. As the tomatillos, tomatoes, and onions cook down into chili, the topping that holds the tortilla together will be ready in just about a minute. This is the perfect recipe to give to guests who are overly excited about the food they're bringing.*
 
 *Chili Lobster With Texas Toast*
 
 *Yield: 2 servings*
 
-*Make Ahead: You can prepare the toasted bread before serving, but don’t expect it to be perfect until an hour or so after the chili is.*
+*Make Ahead: You can prepare the toasted bread before serving, but don't expect it to be perfect until an hour or so after the chili is.*
 
 *Serves: 6*
 ### Ingredients
@@ -57,7 +57,7 @@ socialImage: "https://static01.nyt.com/images/2014/04/02/dining/Chili-Lobster-Wi
 
 * 1 cup diced tomatoes
 
-* 6 Texas-style whole-grain or semi-sweet or other whole-grain breads (I like to make it tomato-yellow), halved lengthwise or if you’re using whole loaves, or a new sourdough, toasted
+* 6 Texas-style whole-grain or semi-sweet or other whole-grain breads (I like to make it tomato-yellow), halved lengthwise or if you're using whole loaves, or a new sourdough, toasted
 
 * 2 or 3 large tomatoes, peeled, seeded, seeded, chopped
 
@@ -80,8 +80,7 @@ Chopped fresh cilantro leaves or dill sprigs
 
 1. More Ways to Try Out Mexican Food
 
-1. Chef Philip Krim says cooking traditional Mexican dishes is “forever intimidating” because of the amount of research involved in the preparation and slow cooking of the dishes. But he says that “the more you understand, the more you’ll be able to create and do.” Krim, who has worked at many of Mexico’s top restaurants, from Equinox in Manhattan to the Plateau de Beleza in Acapulco, has created a range of recipes that celebrate Mexican flavors while addressing misconceptions that are often directed at the cuisine.
+1. Chef Philip Krim says cooking traditional Mexican dishes is "forever intimidating" because of the amount of research involved in the preparation and slow cooking of the dishes. But he says that "the more you understand, the more you'll be able to create and do." Krim, who has worked at many of Mexico's top restaurants, from Equinox in Manhattan to the Plateau de Beleza in Acapulco, has created a range of recipes that celebrate Mexican flavors while addressing misconceptions that are often directed at the cuisine.
 
 1. Follow the author at Twitter.com/melissacarrol
 
-1. 

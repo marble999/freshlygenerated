@@ -16,7 +16,7 @@ socialImage: "https://static01.nyt.com/images/2014/09/10/dining/10COOKBOOK1/10CO
 
 *Photo*
 
-*Downtown farmers’ markets are being featured, the creative minds behind consulting firms like Remedy Creative are writing up recipes and food editors are tackling high-quality, yet affordable ingredients for the new cookbook Rebel Chefs. It’s a great time to find something delicious, filling, and light to make weeknight meals that aren’t complicated, time-consuming, or too expensive. Enter broccolini and edamame. This salad is the perfect way to include these beautiful vegetables with the springy finish that’s so hard to get. It’s too easy to make a second version that makes the salad even more nourishing.*
+*Downtown farmers' markets are being featured, the creative minds behind consulting firms like Remedy Creative are writing up recipes and food editors are tackling high-quality, yet affordable ingredients for the new cookbook Rebel Chefs. It's a great time to find something delicious, filling, and light to make weeknight meals that aren't complicated, time-consuming, or too expensive. Enter broccolini and edamame. This salad is the perfect way to include these beautiful vegetables with the springy finish that's so hard to get. It's too easy to make a second version that makes the salad even more nourishing.*
 ### Ingredients
 
 * 1 head broccoli, cut into florets and cooked in boiling water until softened (do not overcook, or the broccoli will become mushy)
@@ -46,8 +46,7 @@ Salt and pepper
 
 1. Meanwhile, whisk together the mayonnaise, chutney, vinegar, and ground cumin in a small bowl. Pour a little of the chilled broth over the mayonnaise mixture, stirring until blended. Ladle over the broccolini and edamame, then toss with 1/4 to 1/2 teaspoon salt and pepper. Serve immediately.
 
-1. Author’s Note:
+1. Author's Note:
 
 1. The food of the Southwest is a vital part of this recipe. The cloves of the Spice Shop in Santa Fe let us into their family recipe for fajitas, which I shared with readers a few months ago. This version of broccolini and edamame uses a little honey to complement the freshness of the herbs and the tang of the mayonnaise. If you like a bit more heat, I add chili flakes (also available at the Spice Shop).
 
-1. 

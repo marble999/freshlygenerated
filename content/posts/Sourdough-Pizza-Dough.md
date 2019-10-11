@@ -48,7 +48,7 @@ Oil
 Kosher salt and freshly ground black pepper
 ### Directions:
 
-1. 1. Preheat oven to 375°F. Place salt, baking powder, baking soda, cinnamon, and ginger in a large bowl and whisk with a fork until dissolved. Whisk eggs, sour cream, and tomato, then add to flour mixture and whisk until blended. The dough should come together and form a ball. Knead for a few minutes until dough feels smooth. Set dough aside and cover with plastic wrap to keep it warm.
+1. 1. Preheat oven to 375Ã‚Â°F. Place salt, baking powder, baking soda, cinnamon, and ginger in a large bowl and whisk with a fork until dissolved. Whisk eggs, sour cream, and tomato, then add to flour mixture and whisk until blended. The dough should come together and form a ball. Knead for a few minutes until dough feels smooth. Set dough aside and cover with plastic wrap to keep it warm.
 
 1. 2. Heat a 9-inch pizza pan over medium-high heat. Dust pizza pan with a few tablespoons of flour and then add reserved dough and toss to coat all surfaces. Add remaining flour and toss to coat. Pour warm oil in the pan and place the pizza pan on a large baking sheet. Bake for 25 to 30 minutes, until crispy and golden brown on both sides. Remove from the oven and let cool for 10 minutes.
 
@@ -56,10 +56,9 @@ Kosher salt and freshly ground black pepper
 
 1. Digesting alone can be hard and it can cause weight gain. Here are some tips to keep your metabolism burning.
 
-1. Nothing draws more heat than that filling, savory bread that’s baked into your parmesan crust: tomato sauce and sharp feta cheese can also fuel your appetite and boost your metabolism.
+1. Nothing draws more heat than that filling, savory bread that's baked into your parmesan crust: tomato sauce and sharp feta cheese can also fuel your appetite and boost your metabolism.
 
 1. Pinched crusts: Eat the tomato sauce to get your lean protein and heart healthy fats in the same package. Save the fat in the fat-free feta cheese for the kick of an energizing kick-up drink.
 
-1. Get super-skinny with likeminded savvies: If you’re looking to get lean and strong, you may want to give a friend a call. Combine hydration and nutritious fats in shakes like this: Sparkling water and goji berries (their powerful antioxidants protect against oxidation), followed by plump Goji Berry & Phyto-Infused Shea Butter ($14).
+1. Get super-skinny with likeminded savvies: If you're looking to get lean and strong, you may want to give a friend a call. Combine hydration and nutritious fats in shakes like this: Sparkling water and goji berries (their powerful antioxidants protect against oxidation), followed by plump Goji Berry & Phyto-Infused Shea Butter ($14).
 
-1. 

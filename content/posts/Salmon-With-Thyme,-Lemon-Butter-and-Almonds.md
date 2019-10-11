@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salm
 
 ![](https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-superJumbo.jpg)
 
-*Remember this? It’s the recipe that makes lemon butter simple and easy (though if you can’t find it, it’s a good substitute).*
+*Remember this? It's the recipe that makes lemon butter simple and easy (though if you can't find it, it's a good substitute).*
 
 *Serves 3 as a first course*
 ### Ingredients
@@ -70,6 +70,5 @@ Salt and freshly ground black pepper, to taste
 
 1. Season the salmon with salt and pepper and arrange on a platter. Serve the salmon with the lemon butter. Serve the tuna fillets, too, on the side.
 
-1. For more cooking recipes, check out Times’ Food section
+1. For more cooking recipes, check out Times' Food section
 
-1. 

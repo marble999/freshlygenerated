@@ -46,10 +46,9 @@ socialImage: "https://static01.nyt.com/images/2015/07/27/dining/27GRANOLA/27GRAN
 
 1. 2. Reduce heat and simmer, stirring occasionally, until the seeds are a bit crispy and the granulated sugar is fully absorbed.
 
-1. 3. Add the vinegar and butter and continue cooking, stirring occasionally, until the mixture is thick and syrupy. Taste and adjust the seasoning. (You can also take it off the heat right away, and it will be served hot, but we’re confident it will still be tasty.)
+1. 3. Add the vinegar and butter and continue cooking, stirring occasionally, until the mixture is thick and syrupy. Taste and adjust the seasoning. (You can also take it off the heat right away, and it will be served hot, but we're confident it will still be tasty.)
 
-1. 4. Slice and serve the granola with a cold cup of coffee (or tea) and some fresh fruit — we are fans of banana peels and chopped strawberries — and a slice of crusty, unsalted bread.
+1. 4. Slice and serve the granola with a cold cup of coffee (or tea) and some fresh fruit -- we are fans of banana peels and chopped strawberries -- and a slice of crusty, unsalted bread.
 
 1. Melissa Clark is the editor in chief of the Strategist.
 
-1. 

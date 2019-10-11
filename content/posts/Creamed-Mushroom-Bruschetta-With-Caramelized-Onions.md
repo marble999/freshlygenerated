@@ -40,7 +40,7 @@ salt and pepper
 * 1 can (19 oz) whole almonds
 ### Directions
 
-1. Heat the olive oil in a large skillet over medium heat. Add the onion and garlic and saut� until soft and translucent, about 10 minutes. Add the cream cheese and cook, stirring often, until just creamy. Add the crushed tomatoes and bring to a boil. Reduce the heat to low and simmer, stirring often, until the liquid has reduced by about half.
+1. Heat the olive oil in a large skillet over medium heat. Add the onion and garlic and sautÃ© until soft and translucent, about 10 minutes. Add the cream cheese and cook, stirring often, until just creamy. Add the crushed tomatoes and bring to a boil. Reduce the heat to low and simmer, stirring often, until the liquid has reduced by about half.
 
 1. Add the breadcrumbs, fingerlings, salt and pepper, and make sure the slices of bread do not touch, to taste. Toast in a 400 degree oven until lightly golden and lightly toasted, about 2 minutes. Using a large, sharp knife, carefully transfer to a cutting board and let cool to room temperature. Spread a generous amount of the mushroom Bruschetta mixture over the toast. Sprinkle with Parmesan cheese, almonds, and serve.
 
@@ -48,4 +48,3 @@ salt and pepper
 
 1. Related Stories
 
-1. 

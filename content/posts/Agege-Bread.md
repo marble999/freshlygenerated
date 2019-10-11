@@ -66,4 +66,3 @@ For the sauce
 
 1. Smash the butter into the saucepan with a spoon. Add the lemons, lemons zested and juiced. Mix in the brown rice syrup, garlic, and ginger. Continue to cook over a medium heat for 10 minutes. Mix in the cooked grains of the pastries until the mixture is smooth. Transfer this mixture into a pot, and allow it to boil on medium heat. Top of the skewers with the toasted wheat sesame seeds, and serve.
 
-1. 

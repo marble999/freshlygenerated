@@ -16,9 +16,9 @@ socialImage: "https://static01.nyt.com/images/2017/12/13/dining/13COOKING-PASTA-
 
 *Photo*
 
-*Above, you can see a video of Chef Giuseppe Calistri and Raffaele De Rampedi on the Making Lemon Sorbet panel at the 2019 Vatican Conferences on Interreligious Dialogue & Combating Fake News event. Below, I’ve asked The Chiara at Delizia to narrate the meal, which was healthy (200 calories per person, though I’m sure some of it is creamy) and delicious.*
+*Above, you can see a video of Chef Giuseppe Calistri and Raffaele De Rampedi on the Making Lemon Sorbet panel at the 2019 Vatican Conferences on Interreligious Dialogue & Combating Fake News event. Below, I've asked The Chiara at Delizia to narrate the meal, which was healthy (200 calories per person, though I'm sure some of it is creamy) and delicious.*
 
-*Julia Iriarte, recipe writer and editor at Creative Loafing magazine, serves four, suggests making a batch ahead of time to keep your freezer stocked. “This easy, inexpensive, and visually stunning dish is gluten-free, vegan, pescatarian, and includes a few of my favorite Italian ingredients,” she says.*
+*Julia Iriarte, recipe writer and editor at Creative Loafing magazine, serves four, suggests making a batch ahead of time to keep your freezer stocked. "This easy, inexpensive, and visually stunning dish is gluten-free, vegan, pescatarian, and includes a few of my favorite Italian ingredients," she says.*
 
 *Makes 4 servings*
 ### Ingredients
@@ -29,7 +29,7 @@ socialImage: "https://static01.nyt.com/images/2017/12/13/dining/13COOKING-PASTA-
 
 * 2 tablespoons (15 g) lemon juice
 
-* 4 tablespoons (80 g) piment d’espelette flakes, ground
+* 4 tablespoons (80 g) piment d'espelette flakes, ground
 
 * 6 tablespoons (85 g) extra virgin olive oil
 
@@ -42,13 +42,13 @@ socialImage: "https://static01.nyt.com/images/2017/12/13/dining/13COOKING-PASTA-
 * 4 large olives, sliced
 ### Directions
 
-1. Place 1/4 cup (80 g) sugar and 1 tablespoon (15 g) lemon juice in a small saucepan and bring to a boil, stirring occasionally until sugar dissolves. Reduce heat to medium and cook, stirring occasionally, until the syrup reaches 240°F, approximately 15 minutes. Remove from heat and allow to cool for 5 minutes.
+1. Place 1/4 cup (80 g) sugar and 1 tablespoon (15 g) lemon juice in a small saucepan and bring to a boil, stirring occasionally until sugar dissolves. Reduce heat to medium and cook, stirring occasionally, until the syrup reaches 240Ã‚Â°F, approximately 15 minutes. Remove from heat and allow to cool for 5 minutes.
 
-1. Combine remaining 1 tablespoon (15 g) sugar and 2 tablespoons (15 g) lemon juice with the olive oil, piment d’espelette, and 1 tablespoon (15 g) olive oil in a medium bowl and gently combine; set aside.
+1. Combine remaining 1 tablespoon (15 g) sugar and 2 tablespoons (15 g) lemon juice with the olive oil, piment d'espelette, and 1 tablespoon (15 g) olive oil in a medium bowl and gently combine; set aside.
 
 1. Pour the syrup into a large bowl and stir until the sugar has dissolved.
 
-1. Assemble the dish: Preheat oven to 400°F.
+1. Assemble the dish: Preheat oven to 400Ã‚Â°F.
 
 1. To make the spinach-and-tomato salad: In a large bowl, combine spinach, tomatoes, lemon zest, and 1/4 cup (75 g) toasted pine nuts. Drizzle the salad with the remaining oil and the thyme and olive oil. Season with salt and pepper.
 
@@ -56,4 +56,3 @@ socialImage: "https://static01.nyt.com/images/2017/12/13/dining/13COOKING-PASTA-
 
 1. Transfer all the salad ingredients to a large ramekin, pour in the pesto, and decorate with 2 slices of lemon, 2 slices of walnut, and a thin slice of oil-cured paprika. Serve immediately.
 
-1. 

@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24e
 
 ![](https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24eat-copy-articleLarge-v5.jpg)
 
-*Marsala is traditionally a fortified wine, but you can add it to an otherwise light meal and add so much richness to the flavours that it will take your dinner to another level. This is all about the rich meaty flavors, especially in the tomato sauce, which is spiked with the ancient fruit’s star signal. The Marsala adds a rich, dark, earthy quality to the meat, while the acidity sends the tomatoes screaming to the right place. This dish can be adapted for a vegetarian family. I recommend some extra virgin olive oil for the meat and a bit of saffron for the sauce.*
+*Marsala is traditionally a fortified wine, but you can add it to an otherwise light meal and add so much richness to the flavours that it will take your dinner to another level. This is all about the rich meaty flavors, especially in the tomato sauce, which is spiked with the ancient fruit's star signal. The Marsala adds a rich, dark, earthy quality to the meat, while the acidity sends the tomatoes screaming to the right place. This dish can be adapted for a vegetarian family. I recommend some extra virgin olive oil for the meat and a bit of saffron for the sauce.*
 
 *Makes 3 main courses*
 
@@ -29,9 +29,9 @@ socialImage: "https://static01.nyt.com/images/2013/11/24/magazine/24eat-copy/24e
 
 * 1 pound bacon, thinly sliced
 
-* 1 quart water chestnuts, about ¾ pound
+* 1 quart water chestnuts, about Ã‚Â¾ pound
 
-½ bunch flat-leaf parsley
+Ã‚Â½ bunch flat-leaf parsley
 
 * 1 teaspoon basil
 
@@ -78,8 +78,6 @@ Salt and pepper
 
 1. Add the chopped tomatoes and Marsala to the pot. Season with salt and pepper, and cook for 20 minutes on medium heat, until the tomato has firmed up and the Marsala is quite thick.
 
-1. Tip: Adding butter to a sauce that already has tomatoes in it can mess up the shape, so it’s best to leave it alone. I prefer using 2 tablespoons of the butter. The tomatoes are meant to be food, not garnishes.
+1. Tip: Adding butter to a sauce that already has tomatoes in it can mess up the shape, so it's best to leave it alone. I prefer using 2 tablespoons of the butter. The tomatoes are meant to be food, not garnishes.
 
-1. Butt out if you have to – it’s always OK to make your own use of ingredients, even after they’ve been used by someone else.
-
-1. 
+1. Butt out if you have to -- it's always OK to make your own use of ingredients, even after they've been used by someone else.

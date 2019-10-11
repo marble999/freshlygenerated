@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB
 
 ![](https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB2/10DEPRESSION-WEB2-videoSixteenByNineJumbo1600-v2.jpg)
 
-*This time-honored dessert is the stuff of women’s dreams — and men’s nightmares. It requires the “flight of fancy” enjoyed by Russian aristocrats in the 19th century and the finesse of a chef like famed molecular gastronomist Ferran Adria. Now is the time to employ both of these talents to reinvent this truly classic dish with a modern twist.*
+*This time-honored dessert is the stuff of women's dreams -- and men's nightmares. It requires the "flight of fancy" enjoyed by Russian aristocrats in the 19th century and the finesse of a chef like famed molecular gastronomist Ferran Adria. Now is the time to employ both of these talents to reinvent this truly classic dish with a modern twist.*
 
 *The key is to use a flash fried halved apple instead of mashed potatoes or any type of mash. This dessert plays off that phenomenal citrusy flavor brought to you by the watercress and citrus slices and avoids the problem of overpowering egg yolks by adding a dash of yogurt. This is a dessert that appeals to anyone and no one, but please, treat your guests to a classic.*
 
@@ -50,7 +50,7 @@ socialImage: "https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB
 
 1. 7. After a few minutes, lay the apples on the griddle on each side and cook until brown. It will look like they are caramelized in color. Remove the potatoes and apples from the griddle pan to a plate.
 
-1. 8. In a pot with a saucepan, stir the quinoa mixture to dissolve the seeds and spices. Continue to cook over low heat for 2 minutes, stirring frequently. Add the apples to the saucepan and pour into a sauté pan or small saucepan over medium heat. Allow to heat.
+1. 8. In a pot with a saucepan, stir the quinoa mixture to dissolve the seeds and spices. Continue to cook over low heat for 2 minutes, stirring frequently. Add the apples to the saucepan and pour into a sautÃƒÂ© pan or small saucepan over medium heat. Allow to heat.
 
 1. 9. Add the pears to the saucepan and cook until they begin to caramelize. They will look burnt to the touch. Remove the pears from the saucepan and add the quinoa mixture to the apples and pears.
 
@@ -70,10 +70,9 @@ socialImage: "https://static01.nyt.com/images/2016/08/10/dining/10DEPRESSION-WEB
 
 1. 17. Remove the apples and pears from the griddle pan and slide into the bowl of almond slivered honey mustard. Put a spoonful of honey mustard onto each plate and drizzle with a little water from the pan. Serve hot with 1 tablespoon of the warm honey mustard on each plate.
 
-1. DISCLAIMER: Please consider using a licensed professional in front of the children or present at the event to ensure that your child’s experience in eating may be enjoyable and safe. Any other methods of preparation are totally optional.
+1. DISCLAIMER: Please consider using a licensed professional in front of the children or present at the event to ensure that your child's experience in eating may be enjoyable and safe. Any other methods of preparation are totally optional.
 
-1. When selecting the fruit for your children’s May platter and in establishing your menu planning, please ask about the variety of produce offered by market vendors and local farmers markets. How long does it take produce to grow and for mature? Ask about care instructions such as how much water it needs in its whole and at each stage of growth as well as for handling and storage.
+1. When selecting the fruit for your children's May platter and in establishing your menu planning, please ask about the variety of produce offered by market vendors and local farmers markets. How long does it take produce to grow and for mature? Ask about care instructions such as how much water it needs in its whole and at each stage of growth as well as for handling and storage.
 
 1. This article is from the May 2019 issue of EatingWell Magazine.
 
-1. 

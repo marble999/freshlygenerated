@@ -20,34 +20,34 @@ socialImage: "https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ2/10
 
 *We tested their aftershave and topped sweet rolls with Schmaltz.*
 
-*This recipe is based on the Schmaltz bar recipe we found on The New York Times’ website.*
+*This recipe is based on the Schmaltz bar recipe we found on The New York Times' website.*
 
-*— Melissa Clark*
+*-- Melissa Clark*
 
 *From Gribenes & Schmaltz Market & Kitchen, New York, NY*
 ### Ingredients
 
 :
 
-* 1 ½ cups granulated sugar
+* 1 Ã‚Â½ cups granulated sugar
 
-* 1 ¼ cups fresh milk
+* 1 Ã‚Â¼ cups fresh milk
 
 * 4 eggs
 
-* 1½ teaspoons vanilla extract
+* 1Ã‚Â½ teaspoons vanilla extract
 
-* 1 ¼ cups cream
+* 1 Ã‚Â¼ cups cream
 
-½ teaspoon ground cinnamon
+Ã‚Â½ teaspoon ground cinnamon
 
-½ teaspoon ground nutmeg
+Ã‚Â½ teaspoon ground nutmeg
 
 * 1 teaspoon baking powder
 
-* 1½ cups all-purpose flour
+* 1Ã‚Â½ cups all-purpose flour
 
-½ teaspoon salt
+Ã‚Â½ teaspoon salt
 
 * 1 cup Schmaltz sauce
 
@@ -66,8 +66,7 @@ socialImage: "https://static01.nyt.com/images/2014/12/10/dining/10JPSCHMALTZ2/10
 
 1. Bake for 15 to 18 minutes, until the top is golden. Cool completely before cutting. Store in an airtight container for up to three days.
 
-1. I love Schmaltz for many reasons, but more than anything it’s for how the flavor itself pours out of the tablespoon-sized cubes.
+1. I love Schmaltz for many reasons, but more than anything it's for how the flavor itself pours out of the tablespoon-sized cubes.
 
 1. Created by Melissa Clark for The New York Times
 
-1. 

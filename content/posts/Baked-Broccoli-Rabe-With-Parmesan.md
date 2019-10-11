@@ -14,9 +14,9 @@ socialImage: "https://static01.nyt.com/images/2014/04/08/dining/broccolirabevide
 
 ![](https://static01.nyt.com/images/2014/04/08/dining/broccolirabevideo/broccolirabevideo-articleLarge-v2.jpg)
 
-*Watch Melissa Clark’s report on how to get your entire family involved with eating green.*
+*Watch Melissa Clark's report on how to get your entire family involved with eating green.*
 
-*We all know broccoli is a great veggie to have on hand at all times, but, like, why not bake some broccoli as well? It goes together quite well with Parmesan cheese, just add some tangy lemon juice, if you want that low-acid kick, and good ol’ bread crumbs. No one ever asks “How did you know to bake vegetables?” and broccoli is without a doubt one of the better-known cruciferous vegetables — considering all the chefs and nutritionists who have preached their virtues — so they should.*
+*We all know broccoli is a great veggie to have on hand at all times, but, like, why not bake some broccoli as well? It goes together quite well with Parmesan cheese, just add some tangy lemon juice, if you want that low-acid kick, and good ol' bread crumbs. No one ever asks "How did you know to bake vegetables?" and broccoli is without a doubt one of the better-known cruciferous vegetables -- considering all the chefs and nutritionists who have preached their virtues -- so they should.*
 ### Ingredients
 
 * 2 cups broccoli florets
@@ -40,4 +40,3 @@ socialImage: "https://static01.nyt.com/images/2014/04/08/dining/broccolirabevide
 
 1. Enjoy!
 
-1. 

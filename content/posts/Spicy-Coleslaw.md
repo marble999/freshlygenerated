@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2015/05/20/dining/20HIT_COLESLAW/2
 
 ![](https://static01.nyt.com/images/2015/05/20/dining/20HIT_COLESLAW/20HIT_COLESLAW-superJumbo.jpg)
 
-*A Southwestern coleslaw is a hot topic with your salad friends — hence the long buzz surrounding Panza salad. What everyone really wants is a version that is both spicy and creamy — one without borscht-like creamy bits (chunks of cabbage). If you’re one of the impatient types, try this (quick, easy and inspired) version from young, warm New York chef Laura Werlin, which combines mandarin oranges, mango and kaffir lime leaves.*
+*A Southwestern coleslaw is a hot topic with your salad friends -- hence the long buzz surrounding Panza salad. What everyone really wants is a version that is both spicy and creamy -- one without borscht-like creamy bits (chunks of cabbage). If you're one of the impatient types, try this (quick, easy and inspired) version from young, warm New York chef Laura Werlin, which combines mandarin oranges, mango and kaffir lime leaves.*
 ### Ingredients
 
 :
@@ -56,13 +56,13 @@ Garnish: micro greens, freshly grated daikon (red radish)
 
 1. In a medium bowl, combine mandarin oranges, mango, lime leaves, poblano pepper, potatoes, yellow onions, brisket, garlic, cumin, brown sugar, salt, and olive oil. Fold in shredded lettuce and dressing. Taste for seasoning.
 
-1. Use a slotted spoon to transfer coleslaw to a serving bowl. Drizzle with about 1/4 cup dressing. (If you don’t have extra-virgin olive oil, use reserved dressing.) Garnish with micro greens, daikon, and micro cilantro (or orange or lime zest) and serve.
+1. Use a slotted spoon to transfer coleslaw to a serving bowl. Drizzle with about 1/4 cup dressing. (If you don't have extra-virgin olive oil, use reserved dressing.) Garnish with micro greens, daikon, and micro cilantro (or orange or lime zest) and serve.
 
-1. — Recipe courtesy of Laura Werlin
+1. -- Recipe courtesy of Laura Werlin
 
-1. — Additional recipe excerpts from “One Dish at a Time: Stories, Recipes, and Lessons From a Female Chefs’ Journey” by Mary Beth Liddell
+1. -- Additional recipe excerpts from "One Dish at a Time: Stories, Recipes, and Lessons From a Female Chefs' Journey" by Mary Beth Liddell
 
-1. — See more Food52
+1. -- See more Food52
 
 1. This article originally appeared on Food52.com: Spicy Coleslaw
 
@@ -80,4 +80,3 @@ Garnish: micro greens, freshly grated daikon (red radish)
 
 1. Print
 
-1. 

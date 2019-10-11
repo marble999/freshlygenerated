@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2018/07/18/dining/hannah-oyakodon-
 
 ![](https://static01.nyt.com/images/2018/07/18/dining/hannah-oyakodon-horizontal/merlin_141075420_edfc0f4f-ba70-4542-a881-085a9dc162b9-threeByTwoMediumAt2X.jpg)
 
-*The fact that young women like American women are embracing the humble dish of ramen is testament to the fact that once-a-day Asian food isn’t just a teeny-tiny niche. From meaty, slippery pot stickers to Sichuan-influenced egg rolls, this salty, sour, bright, brown and yellow classic has traveled from the rural countryside to the heart of every major metropolis in Japan. This simple dish makes a great mid-week lunch to kick-start the weekend. Serve over steamed rice and a scoop of nori for texture. It’s a cheap, wholesome way to sit down and have a healthy food rush, thanks to the chicken and egg.*
+*The fact that young women like American women are embracing the humble dish of ramen is testament to the fact that once-a-day Asian food isn't just a teeny-tiny niche. From meaty, slippery pot stickers to Sichuan-influenced egg rolls, this salty, sour, bright, brown and yellow classic has traveled from the rural countryside to the heart of every major metropolis in Japan. This simple dish makes a great mid-week lunch to kick-start the weekend. Serve over steamed rice and a scoop of nori for texture. It's a cheap, wholesome way to sit down and have a healthy food rush, thanks to the chicken and egg.*
 ### Ingredients
 
 * 3 cups cooked white or brown rice
@@ -50,4 +50,3 @@ Kosher salt and black pepper
 
 1. Related Posts
 
-1. 

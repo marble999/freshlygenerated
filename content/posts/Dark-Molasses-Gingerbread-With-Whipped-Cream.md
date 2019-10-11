@@ -64,6 +64,5 @@ socialImage: "https://static01.nyt.com/images/2014/04/09/dining/Dark-Molasses-Gi
 
 1. Continue to bake the turkey for another 1 1/2 hours, until the internal temperature measures 165 F. Remove from oven and let it rest for 10 minutes before slicing. Serve in basting dishes with the Whipped Cream.
 
-1. This recipe is based on a recipe from Just About Everything’s Naturally Delicious: Recipes for Everyday Adventures in a Home Kitchen, by Susan Taylor. The version here is adapted slightly for gluten-free pastry lovers.
+1. This recipe is based on a recipe from Just About Everything's Naturally Delicious: Recipes for Everyday Adventures in a Home Kitchen, by Susan Taylor. The version here is adapted slightly for gluten-free pastry lovers.
 
-1. 

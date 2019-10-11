@@ -52,6 +52,5 @@ socialImage: "https://static01.nyt.com/images/2014/05/12/dining/Minty-Thai-Beef-
 
 1. 5. Meanwhile, prepare the salad. Place spinach on a large serving platter and top with beef, sesame seeds, and coriander. Pour over rice and the sauce.
 
-1. Reprinted with permission from “Gourmand” by Michael Roberts. Copyright © 2019 by Michael Roberts. Published by Houghton Mifflin Harcourt. All rights reserved.
+1. Reprinted with permission from "Gourmand" by Michael Roberts. Copyright Ã‚Â© 2019 by Michael Roberts. Published by Houghton Mifflin Harcourt. All rights reserved.
 
-1. 

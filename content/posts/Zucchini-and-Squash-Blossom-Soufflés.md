@@ -1,9 +1,9 @@
 ---
-title: Zucchini and Squash Blossom Soufflés
+title: Zucchini and Squash Blossom SoufflÃƒÂ©s
 date: "2019-08-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/Zucchini-and-Squash-Blossom-Soufflés/"
+slug: "/posts/Zucchini-and-Squash-Blossom-SoufflÃƒÂ©s/"
 category: "Crazy Recipes"
 tags:
 - "AI"
@@ -14,13 +14,13 @@ socialImage: "https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH
 
 ![](https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH1-superJumbo.jpg)
 
-*Trying a new recipe is always exciting, no matter what it is. We love this basic recipe because it’s so healthy — rich, creamy smoothies, all made with butternut squash — without using cream.*
+*Trying a new recipe is always exciting, no matter what it is. We love this basic recipe because it's so healthy -- rich, creamy smoothies, all made with butternut squash -- without using cream.*
 
-*The meatloaf carrot cake recipe is so much fun to make, and we wanted to make it into something even more delicious. So this is a version of it that has fluffed oatmeal in place of cereal. It has the same lovely moist crumble, and it’s topped with chickpeas (whether you choose to make a baked version or a muffin is up to you). This recipe is actually much healthier than the meatloaf version — with ingredients like chickpeas, eggs, whole grain oatmeal, and butternut squash, it’s low in saturated fat, cholesterol, calories, and sugar.*
+*The meatloaf carrot cake recipe is so much fun to make, and we wanted to make it into something even more delicious. So this is a version of it that has fluffed oatmeal in place of cereal. It has the same lovely moist crumble, and it's topped with chickpeas (whether you choose to make a baked version or a muffin is up to you). This recipe is actually much healthier than the meatloaf version -- with ingredients like chickpeas, eggs, whole grain oatmeal, and butternut squash, it's low in saturated fat, cholesterol, calories, and sugar.*
 
 *You can definitely keep the oatmeal in the recipe, so that you can keep adding it to oatmeal-based breakfasts as well as sipping it straight or drizzling it on sandwiches and salads. The recipe also works well in one of our favorite morning treats: Croque Monsieur. It is croque monsieur heaven.*
 
-*Peanut Butter & Oatmeal & Butternut Squash Blossom Soufflé*
+*Peanut Butter & Oatmeal & Butternut Squash Blossom SoufflÃƒÂ©*
 
 *Yield: 3-4 servings*
 
@@ -31,38 +31,38 @@ socialImage: "https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH
 *Cooking Time: 15 minutes*
 ### Ingredients
 
-• ½ cup unsalted creamy peanut butter, softened
+ *  Ã‚Â½ cup unsalted creamy peanut butter, softened
 
-• ¼ cup almond milk
+ *  Ã‚Â¼ cup almond milk
 
-• ½ teaspoon allspice
+ *  Ã‚Â½ teaspoon allspice
 
-• ¼ teaspoon cinnamon
+ *  Ã‚Â¼ teaspoon cinnamon
 
-• 2 tablespoons butter, melted
+ *  2 tablespoons butter, melted
 
-• 6 large butternut squash, peeled and sliced into thin rounds
+ *  6 large butternut squash, peeled and sliced into thin rounds
 
-• ¼ cup orange juice, well mixed
+ *  Ã‚Â¼ cup orange juice, well mixed
 
-• 3 large eggs
+ *  3 large eggs
 
-• 2 large strips of tofu, cut into 1/4-inch-thick squares
+ *  2 large strips of tofu, cut into 1/4-inch-thick squares
 
-• 4 unpeeled roasted shelled pistachios
+ *  4 unpeeled roasted shelled pistachios
 
-• 1-1/2 cups unbleached all-purpose flour, plus extra for dusting
+ *  1-1/2 cups unbleached all-purpose flour, plus extra for dusting
 
-• 2 teaspoons baking powder
+ *  2 teaspoons baking powder
 
-• 1 teaspoon baking soda
+ *  1 teaspoon baking soda
 
-• 1/2 teaspoon sea salt
+ *  1/2 teaspoon sea salt
 
-• 6 to 8 Tablespoons unsalted butter
+ *  6 to 8 Tablespoons unsalted butter
 ### Directions
 
-1. Heat oven to 400°F. Grease large 12-cup springform pan or 9-inch springform pan.
+1. Heat oven to 400Ã‚Â°F. Grease large 12-cup springform pan or 9-inch springform pan.
 
 1. In a small bowl, combine all ingredients, whisk until smooth. Stir in squash. Scrape into prepared pan.
 
@@ -84,4 +84,3 @@ socialImage: "https://static01.nyt.com/images/2014/07/09/dining/09KITCH1/09KITCH
 
 1. All the recipes on The New York Times recipe blog, Dining Diva.
 
-1. 

@@ -14,7 +14,8 @@ socialImage: "https://static01.nyt.com/images/2014/01/26/magazine/26eat/mag-26Ea
 
 ![](https://static01.nyt.com/images/2014/01/26/magazine/26eat/mag-26Eat-t_CA0-superJumbo.jpg)
 
-*I try not to cook anything I can make at home - but in our kitchen, we love ham for Lent, which is why I often find that I cook lots of ham. I know everyone's obsession with bacon is legendary, but it turns out that I'm an underrated bacon fan myself. This simple recipe puts an equally pungent ham flavor in your salad, but it also adds something else I absolutely love: an onion. Ham is made up of meat - pork - with fat, fat with salt, and salt, salt, salt! Onion adds rich flavor. (Just another reason to love it.)*
+*I try not to cook anything I can make at home -- but in our kitchen, we love ham for Lent, which is why I often find that I cook lots of ham. I know everyone's obsession with bacon is legendary, but it turns out that I'm an underrated bacon fan myself. This simple recipe puts an equally pungent ham flavor in your salad, but it also adds something else I absolutely love: an onion. Ham is made up of meat -- pork -- with fat, fat with salt, and salt, salt, salt! Onion adds rich flavor. (Just another reason to love it.)*
+
 ### Ingredients
 
 * 2 pounds boneless ham

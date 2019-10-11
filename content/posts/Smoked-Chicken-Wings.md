@@ -70,4 +70,3 @@ Freshly chopped cilantro to garnish
 
 1. Remove the foil, and invert the stuffed tortillas onto plates. Serve the stuffed chicken wings, over their shells, with salsa verde, toasted cilantro, and lemon wedges. This dish will make a nice brunch dinner if served in a large pot. For dinner guests, simply serve with rice and olives.
 
-1. 

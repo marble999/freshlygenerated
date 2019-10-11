@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PAST
 
 ![](https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PASTRY2-superJumbo-v2.jpg)
 
-*One of my favorite things to eat has become my go-to dessert — a little tray of this tart, too. The method changes depending on the thickness of the tart. You can freeze it and pull it out when it’s a tad too thick. I typically use it in the springtime, which means more raspberries in the harvest season. You can use a fresh tart, or top it with vanilla ice cream or whipped cream.*
+*One of my favorite things to eat has become my go-to dessert -- a little tray of this tart, too. The method changes depending on the thickness of the tart. You can freeze it and pull it out when it's a tad too thick. I typically use it in the springtime, which means more raspberries in the harvest season. You can use a fresh tart, or top it with vanilla ice cream or whipped cream.*
 
 *Serves 8*
 ### Ingredients
@@ -25,17 +25,17 @@ socialImage: "https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PAST
 
 * 6 tablespoons sugar
 
-½ vanilla bean, split
+Ã‚Â½ vanilla bean, split
 
-½ lemon, juiced
+Ã‚Â½ lemon, juiced
 
 * 1 cup sour cream
 
 * 2 tablespoons water
 
-½ cup almond sugar
+Ã‚Â½ cup almond sugar
 
-½ teaspoon kosher salt
+Ã‚Â½ teaspoon kosher salt
 ### Directions
 
 1. 1. In a bowl, mix together the raspberry juice, hazelnuts, and 1 tablespoon of sugar. Stir to incorporate. Set aside.
@@ -54,7 +54,7 @@ socialImage: "https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PAST
 
 1. About Melissa Clark
 
-1. Melissa Clark is a Los Angeles-based author, chef, and founder of the culinary blog, Sprinkles. Her column, Today’s Baker, appears every Friday in New York Times Magazine. Follow Melissa on Instagram at @sprinklesblog.
+1. Melissa Clark is a Los Angeles-based author, chef, and founder of the culinary blog, Sprinkles. Her column, Today's Baker, appears every Friday in New York Times Magazine. Follow Melissa on Instagram at @sprinklesblog.
 
 1. Related
 
@@ -62,4 +62,3 @@ socialImage: "https://static01.nyt.com/images/2013/06/19/dining/19PASTRY2/19PAST
 
 1. NEW YORK TIMES
 
-1. 

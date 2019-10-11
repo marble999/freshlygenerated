@@ -1,9 +1,9 @@
 ---
-title: Clam and Chouriço Dressing
+title: Clam and ChouriÃƒÂ§o Dressing
 date: "2019-08-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/Clam-and-Chouriço-Dressing/"
+slug: "/posts/Clam-and-ChouriÃƒÂ§o-Dressing/"
 category: "Crazy Recipes"
 tags:
 - "AI"
@@ -14,11 +14,11 @@ socialImage: "https://static01.nyt.com/images/2014/11/19/dining/19MASSACHUSETTES
 
 ![](https://static01.nyt.com/images/2014/11/19/dining/19MASSACHUSETTES/19MASSACHUSETTES-superJumbo.jpg)
 
-*Blogger Melissa Clark, founder of Lemonade Kitchen, shares a seasonal mustard dressing that’s sure to make your dreams come true. “It’s inexpensive, bright, and easy to make,” she said.*
+*Blogger Melissa Clark, founder of Lemonade Kitchen, shares a seasonal mustard dressing that's sure to make your dreams come true. "It's inexpensive, bright, and easy to make," she said.*
 
-*Clam and Chouriço Dressing*
+*Clam and ChouriÃƒÂ§o Dressing*
 
-*“It’s actually called the clam dressing,” Melissa said. “I heard somewhere in California that they use that dressing to make clam chowder, so I made a lemon-garlic chowder, and I was like, that’s a perfectly good name for the dressing. So I thought, let’s be true to the meal that we’re eating.”*
+*"It's actually called the clam dressing," Melissa said. "I heard somewhere in California that they use that dressing to make clam chowder, so I made a lemon-garlic chowder, and I was like, that's a perfectly good name for the dressing. So I thought, let's be true to the meal that we're eating."*
 ### Ingredients
 
 * 2 tablespoons extra-virgin olive oil
@@ -33,7 +33,7 @@ Freshly ground black pepper
 
 * 2 lemons
 
-* 1/2 cup Chouriço, fresh garlic chilies, seeds removed and julienned
+* 1/2 cup ChouriÃƒÂ§o, fresh garlic chilies, seeds removed and julienned
 
 * 2 English muffins
 ### Directions
@@ -44,4 +44,3 @@ Freshly ground black pepper
 
 1. This post is sponsored by Buffalo Mozzarella. Click here to read more.
 
-1. 

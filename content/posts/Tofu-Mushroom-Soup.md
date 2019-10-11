@@ -18,26 +18,26 @@ socialImage: "https://static01.nyt.com/images/2016/02/10/dining/10MARTHA/10MARTH
 
 *Mushrooms are the least toxic protein you can eat because, according to the Centers for Disease Control and Prevention, mushrooms are completely protein free and the only thing that makes them food is their scent.*
 
-*Chef Shelby Tobey of Viviane by Bonne Biere in Chicago recommends this dish, one that is packed with vegetables and flavor and provides a tasty way to add celery and broccoli to your diet, both of which have been linked to helping to reduce LDL. Chefs are having a moment with mushrooms. They are on everything from risotto and pastas to soups, salads, and entrees. And this soup is no exception. When preparing the soup, it is important to cut off the stems from the freshly cut lettuce, so that when you cook the mushrooms, they are covered, which is also a healthy decision. While the mushrooms have a light taste, the broth in the soup absorbs all of the flavor without being overly flavorful. I added a little thickeners from the sodium-free flour so that the soup doesn’t get cloying. And then we went back in the water once again after the mushroom stalks have cooled. (Also, a little bit of your local farmers market dried cannellini beans is always a good idea.)*
+*Chef Shelby Tobey of Viviane by Bonne Biere in Chicago recommends this dish, one that is packed with vegetables and flavor and provides a tasty way to add celery and broccoli to your diet, both of which have been linked to helping to reduce LDL. Chefs are having a moment with mushrooms. They are on everything from risotto and pastas to soups, salads, and entrees. And this soup is no exception. When preparing the soup, it is important to cut off the stems from the freshly cut lettuce, so that when you cook the mushrooms, they are covered, which is also a healthy decision. While the mushrooms have a light taste, the broth in the soup absorbs all of the flavor without being overly flavorful. I added a little thickeners from the sodium-free flour so that the soup doesn't get cloying. And then we went back in the water once again after the mushroom stalks have cooled. (Also, a little bit of your local farmers market dried cannellini beans is always a good idea.)*
 
-*× Expand Tribune Washington Times Opinion*
+*Ãƒ-- Expand Tribune Washington Times Opinion*
 ### Ingredients
 
-• 4 tablespoons unsalted butter
+ *  4 tablespoons unsalted butter
 
-• 2 1/2 cups low-sodium chicken broth
+ *  2 1/2 cups low-sodium chicken broth
 
-• 1 1/2 cups fennel bulbs
+ *  1 1/2 cups fennel bulbs
 
-• 3 (12 ounce) cans sliced mushrooms
+ *  3 (12 ounce) cans sliced mushrooms
 
-• 1 (2-pound) fresh red leaf lettuce
+ *  1 (2-pound) fresh red leaf lettuce
 
-• 1 head Bibb lettuce
+ *  1 head Bibb lettuce
 
-• 1 cup baby spinach, cleaned and shredded
+ *  1 cup baby spinach, cleaned and shredded
 
-• 1 cup fresh kale, washed and shredded
+ *  1 cup fresh kale, washed and shredded
 ### Directions
 
 1. Prepare and season the mushrooms: Split the mushrooms in half lengthwise and remove the outer leaves to allow the mushrooms to smoke and brown in the chicken broth. Place in a clean pot and add enough water to cover by two inches and bring to a boil.
@@ -56,4 +56,3 @@ socialImage: "https://static01.nyt.com/images/2016/02/10/dining/10MARTHA/10MARTH
 
 1. Related:
 
-1. 

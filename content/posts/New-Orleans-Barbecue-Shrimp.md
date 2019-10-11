@@ -14,11 +14,11 @@ socialImage: "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-BBQ-SH
 
 ![](https://static01.nyt.com/images/2018/06/05/dining/31COOKING-BBQ-SHRIMP2/31COOKING-BBQ-SHRIMP2-threeByTwoMediumAt2X.jpg)
 
-*Over the past few weeks, we’ve been whipping up some fun, interesting sounding dishes with the latest in cooking technology. When we asked you for ideas, we were swamped with recipes for all sorts of unconventional dishes. We can’t wait to share what you did.*
+*Over the past few weeks, we've been whipping up some fun, interesting sounding dishes with the latest in cooking technology. When we asked you for ideas, we were swamped with recipes for all sorts of unconventional dishes. We can't wait to share what you did.*
 
-*The most popular idea? Chicken necks. We’ve decided to create a whole dish using chicken stock and chicken necks to make shrimp with a very particular twist. We love how this adds a little mystery. Yup, you read that right. So here’s to this whole family of shrimp toting jerky! We’ll let you know when the recipe is ready.*
+*The most popular idea? Chicken necks. We've decided to create a whole dish using chicken stock and chicken necks to make shrimp with a very particular twist. We love how this adds a little mystery. Yup, you read that right. So here's to this whole family of shrimp toting jerky! We'll let you know when the recipe is ready.*
 
-*About this recipe, Melissa Clark, Taste editor for New York magazine’s The Cut:*
+*About this recipe, Melissa Clark, Taste editor for New York magazine's The Cut:*
 
 *In our weekly Eat Like a Man Facebook live, cooking blogger extraordinaire Anna Klassen shared her recipe for Porch Beef Short Rib Tenderloin with Filet Mignon. That version is juicy and delicious. Now, perhaps more than ever, a beef tenderloin needs something like this. The cheap cheap steak does not live up to its greatness.*
 
@@ -62,4 +62,3 @@ Hot cooked Louisiana Sweet Honey Mustard (or regular mustard)
 
 1. Photography by David Feige.
 
-1. 

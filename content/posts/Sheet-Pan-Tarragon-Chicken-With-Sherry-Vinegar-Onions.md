@@ -25,11 +25,11 @@ socialImage: "https://static01.nyt.com/images/2017/05/03/dining/03APPE1/03APPE1-
 
 Freshly ground black pepper
 
-½ cup white wine
+Ã‚Â½ cup white wine
 
 * 6 ounces (about 1 cup) chicken broth
 
-¼ cup balsamic vinegar
+Ã‚Â¼ cup balsamic vinegar
 
 * 4 small sage leaves, finely chopped
 
@@ -58,12 +58,11 @@ Freshly ground black pepper
 
 1. Read all of our ongoing Winter Food Guides here.
 
-1. © 2015, Melissa Clark. Food & Wine. All rights reserved.
+1. Ã‚Â© 2015, Melissa Clark. Food & Wine. All rights reserved.
 
 1. Related Video
 
-1. Melissa Clark’s Tarragon Chicken with Sherry Vinegar Onions
+1. Melissa Clark's Tarragon Chicken with Sherry Vinegar Onions
 
 1. Watch Melissa Clark cut up a whole chicken:
 
-1. 

@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2018/03/15/dining/15COOKING-STIRFR
 
 ![](https://static01.nyt.com/images/2018/03/15/dining/15COOKING-STIRFRYCHICK1/15COOKING-STIRFRYCHICK1-threeByTwoMediumAt2X.jpg)
 
-*Put your favorites together in this easy and entertaining dish that would make a fabulous party food. Couscous works well with chicken as it absorbs the flavors and the chicken doesn’t get drowned out. Try this recipe with, say, tilapia, wild salmon, or tofu. Add lots of frozen whole green beans for an easy side dish.*
+*Put your favorites together in this easy and entertaining dish that would make a fabulous party food. Couscous works well with chicken as it absorbs the flavors and the chicken doesn't get drowned out. Try this recipe with, say, tilapia, wild salmon, or tofu. Add lots of frozen whole green beans for an easy side dish.*
 
 *Sesame Chicken With Cashews and Dates*
 
@@ -58,8 +58,7 @@ Freshly ground black pepper
 
 1. Meanwhile, bring a large pot of water to a boil over high heat. Add the rice, cover the pan, and cook until the rice is tender and just about done, 8 to 10 minutes.
 
-1. Remove the pan from the heat, and immediately pour off the excess water and drain the rice. Add the remaining 1 tablespoon sesame oil to the pan over medium-high heat. Add the green beans and sauté until lightly browned, about 1 minute. Pour the beans over the rice and cook until heated through, about 2 minutes.
+1. Remove the pan from the heat, and immediately pour off the excess water and drain the rice. Add the remaining 1 tablespoon sesame oil to the pan over medium-high heat. Add the green beans and sautÃƒÂ© until lightly browned, about 1 minute. Pour the beans over the rice and cook until heated through, about 2 minutes.
 
 1. Once the rice is cooked, place the chicken, green beans, and sauce on a serving platter and garnish with sesame seeds, cilantro, and a sprinkle of toasted sesame seeds.
 
-1. 

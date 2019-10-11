@@ -18,7 +18,7 @@ socialImage: "https://static01.nyt.com/images/2015/05/20/dining/20HIT_PORK/20HIT
 
 *Your pull pork is supposed to be juicy and tender, with a tenderized, yet intact center.*
 
-*If, like me, you find the fat coating the outside of the pork to be so dry it’s almost a barrier, those super-salted/marinade/cut pieces of pork always come in handy. But what if the meat inside is actually juicy and a perfect mahogany? That recipe will be for you.*
+*If, like me, you find the fat coating the outside of the pork to be so dry it's almost a barrier, those super-salted/marinade/cut pieces of pork always come in handy. But what if the meat inside is actually juicy and a perfect mahogany? That recipe will be for you.*
 
 *Scroll down for the recipe.*
 
@@ -70,4 +70,3 @@ Salt, for dredging pork cubes
 
 1. Related: How to Make A Perfect Cauliflower Steak
 
-1. 

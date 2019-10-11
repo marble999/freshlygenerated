@@ -38,15 +38,15 @@ socialImage: "https://static01.nyt.com/images/2014/04/04/dining/Glazed-Lamb-Ribs
 Vegetable oil for deep-frying
 ### Directions
 
-1. Preheat oven to 325ºF. Cook lamb ribs in a medium pot on low heat for 45 minutes, turning occasionally. Set aside.
+1. Preheat oven to 325Ã‚ÂºF. Cook lamb ribs in a medium pot on low heat for 45 minutes, turning occasionally. Set aside.
 
 1. Meanwhile, trim cabbage stem, place in a covered dish and mix.
 
-1. Remove glace from stem and cut on bias in half. Continue chopping onion until about ½” pieces. Add garlic and put in a warm pan with a few tablespoons of water. Bring to a boil and then simmer over low heat for 30 minutes.
+1. Remove glace from stem and cut on bias in half. Continue chopping onion until about Ã‚Â½" pieces. Add garlic and put in a warm pan with a few tablespoons of water. Bring to a boil and then simmer over low heat for 30 minutes.
 
 1. Meanwhile, blanch cucumber in boiling water for 15 minutes. Cool and remove seeds.
 
-1. Saute shallots in ½ cup olive oil in a large frying pan until translucent. Add onions and garlic to onions and mix in parsley and spices. Season with 1/4 teaspoon salt. Cut entire onion bulb in half and add to onions and mix in parsley. Let cook for 5 minutes. Add cream and let sit for a few minutes.
+1. Saute shallots in Ã‚Â½ cup olive oil in a large frying pan until translucent. Add onions and garlic to onions and mix in parsley and spices. Season with 1/4 teaspoon salt. Cut entire onion bulb in half and add to onions and mix in parsley. Let cook for 5 minutes. Add cream and let sit for a few minutes.
 
 1. Whisk cider vinegar, water, salt and red pepper flakes together in a small bowl. Pour into pan with onions and garlic and bring to a boil.
 
@@ -56,4 +56,3 @@ Vegetable oil for deep-frying
 
 1. Top with Lebanese halva and chilli sauce.
 
-1. 

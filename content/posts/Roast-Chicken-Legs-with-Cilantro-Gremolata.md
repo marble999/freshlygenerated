@@ -14,13 +14,13 @@ socialImage: "https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-wit
 
 ![](https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-with-Cilantro/Chicken-Legs-with-Cilantro-superJumbo.jpg)
 
-*The beauty of citrus flavors on a roast is that they lend their subtleties to a limited repertoire of roasts. Kale, spinach and turnips are good for flavor (and the salad that goes with them). But chicken—and red meat more generally—lacks the nips and curries that can instantly reinvigorate red meat dishes.*
+*The beauty of citrus flavors on a roast is that they lend their subtleties to a limited repertoire of roasts. Kale, spinach and turnips are good for flavor (and the salad that goes with them). But chicken--and red meat more generally--lacks the nips and curries that can instantly reinvigorate red meat dishes.*
 
-*On a spring chicken, citrus is perfect: It’s as easy to work with as it is to use. With six citrus at our fingertips, citrus is a season-spanner, bringing just the right essential charm without dominating the plate. With its bright citrus funk and bright, lively citrus sweetness, citrus gremolata is the perfect accompaniment to roast chicken legs.*
+*On a spring chicken, citrus is perfect: It's as easy to work with as it is to use. With six citrus at our fingertips, citrus is a season-spanner, bringing just the right essential charm without dominating the plate. With its bright citrus funk and bright, lively citrus sweetness, citrus gremolata is the perfect accompaniment to roast chicken legs.*
 
 *Roast Chicken Legs with Cilantro Gremolata*
 
-*When you’re invited to serve roasted chicken legs for dinner, give everyone a serving from the same pot. Keep it simple: Served as a side dish, cilantro and garlic make a highly dramatic combination that pairs well with the chicken.*
+*When you're invited to serve roasted chicken legs for dinner, give everyone a serving from the same pot. Keep it simple: Served as a side dish, cilantro and garlic make a highly dramatic combination that pairs well with the chicken.*
 
 *Serves 6*
 ### Ingredients
@@ -48,13 +48,13 @@ socialImage: "https://static01.nyt.com/images/2014/05/20/dining/Chicken-Legs-wit
 Gremolata (recipe follows)
 ### Directions
 
-1. Heat a large sauté pan over medium-high heat. Add the peppers, oranges, lemon, cilantro, parsley, salt and pepper and cook for 4 to 5 minutes, stirring occasionally, until all the pepper is very soft and almost transparent.
+1. Heat a large sautÃƒÂ© pan over medium-high heat. Add the peppers, oranges, lemon, cilantro, parsley, salt and pepper and cook for 4 to 5 minutes, stirring occasionally, until all the pepper is very soft and almost transparent.
 
 1. Split the thighs of the chicken with a spoon and dip each in 1 tablespoon of the olive oil. Add to the pan and cook for 1 to 2 minutes, until the fat renders out. Turn the chicken over and add the remaining 2 tablespoons of olive oil. Cook for 1 minute and repeat with the second rack of chicken. Transfer the chicken to a baking dish or serving platter. Spoon the salsa over the chicken. Serve with the gremolata.
 
 1. Gremolata
 
-1. This spicy mixture of lemon juice, garlic, olive oil and fresh parsley is a wonderful condiment on spring salads, and comes together quickly. It’s great on meats too, like chicken, lamb and pork.
+1. This spicy mixture of lemon juice, garlic, olive oil and fresh parsley is a wonderful condiment on spring salads, and comes together quickly. It's great on meats too, like chicken, lamb and pork.
 
 1. Serves 2
 
@@ -78,7 +78,7 @@ Gremolata (recipe follows)
 
 1. Put all the ingredients for the gremolata into a food processor or blender and blend until smooth.
 
-1. Adapted from “Seminars and More: Meals, Recipes and Parties,” by Melissa Clark (Ten Speed Press, June 2014).
+1. Adapted from "Seminars and More: Meals, Recipes and Parties," by Melissa Clark (Ten Speed Press, June 2014).
 
 1. Related
 
@@ -142,4 +142,3 @@ Gremolata (recipe follows)
 
 1. Recipe: Garden Hummus with Pomegranate, Oatmeal and Pine Nuts
 
-1. 

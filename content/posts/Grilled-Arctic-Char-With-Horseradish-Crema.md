@@ -17,33 +17,32 @@ socialImage: "https://static01.nyt.com/images/2016/05/25/dining/25CHEF6/25CHEF6-
 *Join the Broth! Grilled Arctic Char With Horseradish Crema*
 ### Ingredients
 
-• 1 Arctic Char or an extra large salmon fillet
+ *  1 Arctic Char or an extra large salmon fillet
 
-• 2 Tbs. mustard seeds
+ *  2 Tbs. mustard seeds
 
-• 1 Tbs. cumin seeds
+ *  1 Tbs. cumin seeds
 
-• 1/4 tsp. salt
+ *  1/4 tsp. salt
 
-• 1/2 tsp. white pepper
+ *  1/2 tsp. white pepper
 
-• 1 Tbs. fresh thyme leaves, crushed
+ *  1 Tbs. fresh thyme leaves, crushed
 
-• 1 tsp. Dijon mustard
+ *  1 tsp. Dijon mustard
 
-• 2 Tbs. unsalted butter
+ *  2 Tbs. unsalted butter
 
-• 2 Tbs. olive oil
+ *  2 Tbs. olive oil
 
-• 1 baguette
+ *  1 baguette
 
-• 1 oz. Horseradish Crema (optional)
+ *  1 oz. Horseradish Crema (optional)
 ### Directions
 
 1. For the mustard seed seasoning: In a mortar and pestle combine mustard seeds, cumin seeds, salt, white pepper, and thyme and grind. Mix in Dijon mustard.
 
-1. For the butter and oil: Combine olive oil and butter in a large sauté pan. Heat over medium-high heat. Once the butter is melted add the salmon and cook on each side about 3 minutes. Remove from heat and add horseradish crema to the pan.
+1. For the butter and oil: Combine olive oil and butter in a large sautÃƒÂ© pan. Heat over medium-high heat. Once the butter is melted add the salmon and cook on each side about 3 minutes. Remove from heat and add horseradish crema to the pan.
 
 1. To assemble: Remove the salmon from the pan. Slice the baguette lengthwise in half crosswise. Place the pieces on the sandwich and brush generously with butter.
 
-1. 

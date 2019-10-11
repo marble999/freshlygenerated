@@ -25,7 +25,7 @@ socialImage: "https://static01.nyt.com/images/2017/01/01/magazine/01steak-tartar
 
 * 4 tbsp sake
 
-* 1� tsp dashi or stock
+* 1Â½ tsp dashi or stock
 
 * 1 tbsp chives, finely chopped
 
@@ -51,13 +51,12 @@ Salt, as needed
 
 A pinch of freshly ground black pepper
 
-* 1� oz parmesan, coarsely grated
+* 1Â½ oz parmesan, coarsely grated
 ### Directions
 
 1. In a small saucepan, combine the soy sauce, sake, dashi, chives, olives, capers, kalamata olives, peanuts, and salt. Bring to a simmer and cook until the mixture thickens and the vegetables and fish smell good. Chill thoroughly, ideally overnight, then chill it in the refrigerator until ready to use. Make sure to use fresh beets and vegetables.
 
-1. Slice each cut into pieces about � inch thick, then add to a blender with the celery, halibut, and skirt steak. Blend until they combine and form into rough, coarse-textured slices. Remove from the blender with a slotted spoon and transfer to a bowl. Add the dill, pepper, and parmesan.
+1. Slice each cut into pieces about Â½ inch thick, then add to a blender with the celery, halibut, and skirt steak. Blend until they combine and form into rough, coarse-textured slices. Remove from the blender with a slotted spoon and transfer to a bowl. Add the dill, pepper, and parmesan.
 
 1. Once ready to serve, leave the herb mixture in the blender and allow the machine to cool for about 10 minutes before adding it to the beef. Spread it over the beef and serve with the rest of the herb mixture.
 
-1. 

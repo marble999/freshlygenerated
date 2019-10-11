@@ -16,11 +16,11 @@ socialImage: "https://static01.nyt.com/images/2014/12/17/dining/17PAIRING/17PAIR
 
 *Photo*
 
-*JAMIE AND JOYCE’S JAMIE’S JAMIE’S GOOD FOOD from City of Joy on Vimeo.*
+*JAMIE AND JOYCE'S JAMIE'S JAMIE'S GOOD FOOD from City of Joy on Vimeo.*
 
-*Crab Meat is a delicacy that would make a superb match with the hearty linguine here. It’s also a dish whose splendor only could shine through when finished with fresh basil. If you have fresh basil, use it here. Go out and buy extra. And please consider purchasing a crab knife or two if one isn’t already part of your arsenal. You can also skip the anchovies to keep things simple. To make this recipe less cloying, we’ve added basil pesto to the linguine before tossing it with crab meat. We also cut the crab meat into small pieces and placed it in a large bowl to be mixed with the noodles as they cook.*
+*Crab Meat is a delicacy that would make a superb match with the hearty linguine here. It's also a dish whose splendor only could shine through when finished with fresh basil. If you have fresh basil, use it here. Go out and buy extra. And please consider purchasing a crab knife or two if one isn't already part of your arsenal. You can also skip the anchovies to keep things simple. To make this recipe less cloying, we've added basil pesto to the linguine before tossing it with crab meat. We also cut the crab meat into small pieces and placed it in a large bowl to be mixed with the noodles as they cook.*
 
-*JAMIE’S JAMIE’S GOOD FOODfrom City of Joy on Vimeo.*
+*JAMIE'S JAMIE'S GOOD FOODfrom City of Joy on Vimeo.*
 
 *Crab Meat With Linguine*
 
@@ -54,4 +54,3 @@ Sea salt and freshly ground black pepper
 
 1. Related Stories
 
-1. 

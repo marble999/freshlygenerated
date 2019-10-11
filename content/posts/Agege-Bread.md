@@ -16,8 +16,6 @@ socialImage: "https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex9/m
 
 *The franchise shares with us the fruits of its labour*
 
-*Any mealworm can be referred to as an agege bread. An agege bread is a simple and delicious barley rice and chickpea pattie with four kinds of grains: barley, wheat, or ramush are examples.*
-
 *The bread has all the qualities of a family meal: it is easy to work with and easy to prepare. It is nutritious, filling, and delicious.*
 
 *And the best thing is that, it only has to be made once! Once is all it takes to start making these great healthy patties. For the record, each agege bread has a handcrafted message for you, and most are subject to a three-month change.*
@@ -66,4 +64,3 @@ For the sauce
 
 1. Smash the butter into the saucepan with a spoon. Add the lemons, lemons zested and juiced. Mix in the brown rice syrup, garlic, and ginger. Continue to cook over a medium heat for 10 minutes. Mix in the cooked grains of the pastries until the mixture is smooth. Transfer this mixture into a pot, and allow it to boil on medium heat. Top of the skewers with the toasted wheat sesame seeds, and serve.
 
-1. 

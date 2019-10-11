@@ -14,11 +14,11 @@ socialImage: "https://static01.nyt.com/images/2016/01/03/multimedia/clark-skille
 
 ![](https://static01.nyt.com/images/2016/01/03/multimedia/clark-skillet-chicken/clark-skillet-chicken-articleLarge-v2.jpg)
 
-*× Skillet Chicken With Tomatoes, Pancetta and Mozzarella*
+*Ãƒ-- Skillet Chicken With Tomatoes, Pancetta and Mozzarella*
 
-*For this Skillet Chicken with Tomatoes, Pancetta and Mozzarella recipe, I’ve gone to wonderful lengths to avoid overcooking chicken breasts. In the 80’s, this was a challenge because my dinners were always cooked outside on an overhanging fan, which allowed me to ensure that everything was nice and pink. In the infrared oven, I use a natural chimney, and the heat is lowered to less than 400 degrees Fahrenheit. When cooking outside, the heat will rise and cook the outside of the chicken and even the inner breast, which is a risk in my opinion.*
+*For this Skillet Chicken with Tomatoes, Pancetta and Mozzarella recipe, I've gone to wonderful lengths to avoid overcooking chicken breasts. In the 80's, this was a challenge because my dinners were always cooked outside on an overhanging fan, which allowed me to ensure that everything was nice and pink. In the infrared oven, I use a natural chimney, and the heat is lowered to less than 400 degrees Fahrenheit. When cooking outside, the heat will rise and cook the outside of the chicken and even the inner breast, which is a risk in my opinion.*
 
-*While I’m cooking the chicken, I’ll use frozen tomatoes, which reduce the risk of unsightly, greasy splatter. You can leave the pasta in the sauce while the chicken is cooking and your nonstick spray-coated plates with shells will stay dry. This chicken is ideal for serving as a main course, but we’ll have it on the side. And if you really need one more reason to pass on fried foods, both the fresh potatoes and the potatoes that come out of the heat of the Skillet Chicken are significantly more nutritious than fried potatoes.*
+*While I'm cooking the chicken, I'll use frozen tomatoes, which reduce the risk of unsightly, greasy splatter. You can leave the pasta in the sauce while the chicken is cooking and your nonstick spray-coated plates with shells will stay dry. This chicken is ideal for serving as a main course, but we'll have it on the side. And if you really need one more reason to pass on fried foods, both the fresh potatoes and the potatoes that come out of the heat of the Skillet Chicken are significantly more nutritious than fried potatoes.*
 
 *The key to a satisfying meal? Ingredients you rarely find at the grocery store. And, in this case, your most loved condiment: cilantro.*
 
@@ -48,7 +48,7 @@ Sea salt and pepper to taste
 
 1. 3. Place the chicken breasts into a medium skillet over medium-high heat. The temperature in the skillet should be at least 400 degrees Fahrenheit. This ensures that the chicken is cooked through.
 
-1. 4. Cook the chicken, turning once, until it’s cooked all the way through. (You may want to flip it halfway through cooking.) Set aside.
+1. 4. Cook the chicken, turning once, until it's cooked all the way through. (You may want to flip it halfway through cooking.) Set aside.
 
 1. 5. While the chicken is cooking, prepare the pasta.
 
@@ -64,4 +64,3 @@ Sea salt and pepper to taste
 
 1. This story appears in the April 2019 issue of New York magazine. Subscribe Today.
 
-1. 

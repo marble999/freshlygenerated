@@ -27,23 +27,23 @@ socialImage: "https://static01.nyt.com/images/2018/07/26/dining/mc-peach-crumble
 
 * 2 pounds peeled and quartered peaches
 
-* 1� cups heavy cream
+* 1Â½ cups heavy cream
 
-� cup Greek yogurt
+Â½ cup Greek yogurt
 
-� teaspoon cinnamon
+Â½ teaspoon cinnamon
 
 * 1 teaspoon nutmeg
 
-� teaspoon cloves
+Â¼ teaspoon cloves
 
 * 8 slices French baguette, cut in half horizontally
 
 * 1 cup pecan halves, toasted
 
-* 1 ripe cantaloupe, peeled, seeded, and diced (about � cup)
+* 1 ripe cantaloupe, peeled, seeded, and diced (about Â¾ cup)
 
-* 1 cup sliced blueberries (about � cup)
+* 1 cup sliced blueberries (about Â½ cup)
 
 Coarse sea salt and freshly ground black pepper
 ### Directions
@@ -58,4 +58,3 @@ Coarse sea salt and freshly ground black pepper
 
 1. Slice and treat
 
-1. 

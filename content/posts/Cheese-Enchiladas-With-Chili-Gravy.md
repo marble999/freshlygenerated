@@ -14,9 +14,9 @@ socialImage: "https://static01.nyt.com/images/2016/06/01/dining/0601ENCHILADASJP
 
 ![](https://static01.nyt.com/images/2016/06/01/dining/0601ENCHILADASJP1/0601ENCHILADASJP1-videoSixteenByNineJumbo1600.jpg)
 
-*Extra salt is just as important to the overall culinary operation as parsley and Spanish onions. So are perfectly ripe tomatoes, which are great for the sauce and make your enchiladas go from a fluffy labor of love to a stunning standout. But if you don’t have the time, supplies, or hands to pull off the authentic dish (typically in a Hispanic region, you will probably find whole steaks of beef in jalapeño bits thrown in, which takes the quintessential dish to another level), a restaurant dish is probably your best bet.*
+*Extra salt is just as important to the overall culinary operation as parsley and Spanish onions. So are perfectly ripe tomatoes, which are great for the sauce and make your enchiladas go from a fluffy labor of love to a stunning standout. But if you don't have the time, supplies, or hands to pull off the authentic dish (typically in a Hispanic region, you will probably find whole steaks of beef in jalapeÃƒÂ±o bits thrown in, which takes the quintessential dish to another level), a restaurant dish is probably your best bet.*
 
-*By my count, I’ve had this dish 20 times or more over the years. It has always gone over well. But there’s one simple alteration I would make this year: Instead of the traditional avocado or avocado jam, use well-rinsed olives and drizzle them with Tabasco sauce.*
+*By my count, I've had this dish 20 times or more over the years. It has always gone over well. But there's one simple alteration I would make this year: Instead of the traditional avocado or avocado jam, use well-rinsed olives and drizzle them with Tabasco sauce.*
 ### Ingredients
 
 * 3 tablespoons extra-virgin olive oil
@@ -60,4 +60,3 @@ Kosher salt and freshly ground black pepper
 
 1. Melissa Clark is a Chicago-based chef and author of more than 20 cookbooks. Her most recent, Slow Food Nation: Stories, Recipes, and Ideas for Reimagining Everyday Food (Clarkson Potter, September 2014), takes a humorous look at preparing a meal and recommending eats for those who live for them.
 
-1. 

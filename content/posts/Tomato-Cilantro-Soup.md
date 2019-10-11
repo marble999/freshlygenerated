@@ -16,7 +16,7 @@ socialImage: "https://static01.nyt.com/applications/cooking/a1a368d/assets/12.pn
 
 *Photo*
 
-*This delicious soup is the perfect summer meal. Cilantro, which is a must have in almost all dishes, is the backbone to this delicious soup. The flavor of the tomato is complemented by cilantro, and the squash softens and blends together with the creamy ingredients. All this without much work. The best part is that you don’t have to kill any bees; you just have to snap on a lid, take a sip, and voila. It’s a recipe that makes you feel like you are breaking out of your shirt and shirt pants, if you know what I mean.*
+*This delicious soup is the perfect summer meal. Cilantro, which is a must have in almost all dishes, is the backbone to this delicious soup. The flavor of the tomato is complemented by cilantro, and the squash softens and blends together with the creamy ingredients. All this without much work. The best part is that you don't have to kill any bees; you just have to snap on a lid, take a sip, and voila. It's a recipe that makes you feel like you are breaking out of your shirt and shirt pants, if you know what I mean.*
 ### Ingredients
 
 * 1 medium zucchini
@@ -25,7 +25,7 @@ socialImage: "https://static01.nyt.com/applications/cooking/a1a368d/assets/12.pn
 
 * 1/4 cup chopped onion
 
-* 1 jalapeño, seeded and chopped
+* 1 jalapeÃƒÂ±o, seeded and chopped
 
 * 2 cloves garlic, finely chopped
 
@@ -50,16 +50,15 @@ socialImage: "https://static01.nyt.com/applications/cooking/a1a368d/assets/12.pn
 
 1. Step 2: Preheat the oven to 400 degrees.
 
-1. Step 3: In a large frying pan or a large pot, add the olive oil and sauté the onion and jalapeño for about 2 minutes.
+1. Step 3: In a large frying pan or a large pot, add the olive oil and sautÃƒÂ© the onion and jalapeÃƒÂ±o for about 2 minutes.
 
-1. Step 4: Add the garlic and sauté for 1 minute, and add in the oregano, black pepper, and ginger. Cook the mixture for 2 minutes, until the liquid in the pan is reduced by half. The aromatic mixture should smell smoky and grassy, with a slight but not overwhelming bouquet garni.
+1. Step 4: Add the garlic and sautÃƒÂ© for 1 minute, and add in the oregano, black pepper, and ginger. Cook the mixture for 2 minutes, until the liquid in the pan is reduced by half. The aromatic mixture should smell smoky and grassy, with a slight but not overwhelming bouquet garni.
 
 1. Step 5: Return the zucchini to the pan and drizzle the garlic-herb mixture over it. Once melted, mix with a spatula and cook for about 1 minute to get that lovely insides/flesh mixture out. Pour in the diced tomatoes and the cannellini beans, and cook, uncovered, for about 5 minutes.
 
 1. Step 6: Remove from the heat, cover with a lid, and set aside for 20 minutes.
 
-1. Step 7: To serve, heat the soup for 10 minutes, stirring every now and then, or until you get that delicious flavor. Ladle it into shallow bowls and top with chopped cilantro and garnish with a dollop of whipped cream if you’d like. Don’t forget to garnish!
+1. Step 7: To serve, heat the soup for 10 minutes, stirring every now and then, or until you get that delicious flavor. Ladle it into shallow bowls and top with chopped cilantro and garnish with a dollop of whipped cream if you'd like. Don't forget to garnish!
 
 1. Photos
 
-1. 

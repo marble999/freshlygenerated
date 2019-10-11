@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Bra
 
 ![](https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Braised-Tofu-superJumbo.jpg)
 
-*It’s become quite common to use a processor to make traditional noodle dishes but can often get repetitive. This tried-and-true ryuban is easy to make and can be sliced and cooked without the shredding of any meat.*
+*It's become quite common to use a processor to make traditional noodle dishes but can often get repetitive. This tried-and-true ryuban is easy to make and can be sliced and cooked without the shredding of any meat.*
 ### Ingredients
 
 :
@@ -66,6 +66,5 @@ socialImage: "https://static01.nyt.com/images/2014/04/03/dining/Braised-Tofu/Bra
 
 1. Related
 
-1. How to change how you cook using chef Melissa Clark’s tips, pictures, and experiments
+1. How to change how you cook using chef Melissa Clark's tips, pictures, and experiments
 
-1. 

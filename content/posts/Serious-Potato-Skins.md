@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2014/05/20/dining/Potato-Skins/Pot
 
 ![](https://static01.nyt.com/images/2014/05/20/dining/Potato-Skins/Potato-Skins-articleLarge.jpg)
 
-*For our recent meal test of the week (in response to a question from Tumblr user kimmabee), we scoured the internet to find “The No. 1 act of female liberation,” and our choice would have to be this simple potato soup, so, again, for your convenience, we did the cooking for you. The dish is everything I’ve always wanted a soup to be: homey, comforting, creamy, loaded with flavor, and it’s not even usually from a beloved American restaurant. Definitely a dish you can make on weeknights by yourself, and always great for a mom-daughter activity. If you like your life inspiring the next generation, even more so.*
+*For our recent meal test of the week (in response to a question from Tumblr user kimmabee), we scoured the internet to find "The No. 1 act of female liberation," and our choice would have to be this simple potato soup, so, again, for your convenience, we did the cooking for you. The dish is everything I've always wanted a soup to be: homey, comforting, creamy, loaded with flavor, and it's not even usually from a beloved American restaurant. Definitely a dish you can make on weeknights by yourself, and always great for a mom-daughter activity. If you like your life inspiring the next generation, even more so.*
 
 *Serious Potato Skins*
 ### Ingredients
@@ -44,4 +44,3 @@ socialImage: "https://static01.nyt.com/images/2014/05/20/dining/Potato-Skins/Pot
 
 1. CORRECTION: A previous version of this article listed cilantro instead of parsley as the addition of chives.
 
-1. 

@@ -22,45 +22,45 @@ socialImage: "https://static01.nyt.com/images/2014/12/30/dining/bittman-po-boy/b
 
 *Foie-No-Do*
 
-*There’s a bigger crab on the other side of the boat, so instead of taking two bites of what you’ve grabbed, swipe your finger up and down the crabmeat like you would a candy bar.*
+*There's a bigger crab on the other side of the boat, so instead of taking two bites of what you've grabbed, swipe your finger up and down the crabmeat like you would a candy bar.*
 
 *Mole Verde*
 
-*Peruse the salad’s dressing menu, which has everything from a wine-by-the-bottle to a Champagne-spiked olive oil. Some of the concoctions, such as the one pictured, contain shrimp. Here’s where to eat them.*
+*Peruse the salad's dressing menu, which has everything from a wine-by-the-bottle to a Champagne-spiked olive oil. Some of the concoctions, such as the one pictured, contain shrimp. Here's where to eat them.*
 
 *Champagne Spiked Olive Oil*
 
-*About ¼ cup*
+*About Ã‚Â¼ cup*
 ### Ingredients
 
 * 1 ounce Champagne or white wine
 
-½ cup extra virgin olive oil
+Ã‚Â½ cup extra virgin olive oil
 
 * 1 tablespoon chopped fresh mint
 
 Salt and pepper
 ### Directions
 
-1. Combine Champagne or white wine, olive oil, and mint. Season with salt and pepper. Drizzle a small amount of the mixture over your salad. If you’re using shrimp, place one in a small dish. Drizzle a small amount of the dressing over shrimp, then place the dish in the oven to toast until the shrimp is tender, about 4-5 minutes. Repeat with another teaspoon of dressing on the shrimp. Serve the shrimp with your salad.
+1. Combine Champagne or white wine, olive oil, and mint. Season with salt and pepper. Drizzle a small amount of the mixture over your salad. If you're using shrimp, place one in a small dish. Drizzle a small amount of the dressing over shrimp, then place the dish in the oven to toast until the shrimp is tender, about 4-5 minutes. Repeat with another teaspoon of dressing on the shrimp. Serve the shrimp with your salad.
 
 1. Wine Compote
 
-1. ½ cup Amontillado sherry
+1. Ã‚Â½ cup Amontillado sherry
 
-1. ½ cup sherry vinegar
+1. Ã‚Â½ cup sherry vinegar
 
 1. 2/3 cup water
 
 1. 3 cloves garlic, minced
 
-1. ¼ cup cilantro, finely chopped
+1. Ã‚Â¼ cup cilantro, finely chopped
 
 1. 1 green onion, diced
 
 1. 1/2 cup seedless cucumber, thinly sliced
 
-1. ½ cup jarred red or green olives, sliced
+1. Ã‚Â½ cup jarred red or green olives, sliced
 
 1. 1 teaspoon olive oil
 
@@ -76,4 +76,3 @@ Salt and pepper
 
 1. Available at several New York, Boston, and Hartford, Connecticut restaurants.
 
-1. 

@@ -14,9 +14,9 @@ socialImage: "https://int.nyt.com/applications/cooking/65b272d/assets/28.png?1"
 
 ![](https://int.nyt.com/applications/cooking/65b272d/assets/28.png?1)
 
-*Cocoa beans are called cacao and it’s a banana thing that makes it a pretty thing to eat. In Venezuela, it’s called Platanos Maduros, or Fried Plantains — the trademarked name for this fried sweet treat. The fried plantains are coated in batter and fried in oil to get that nice crunchy coating. They are usually topped with either sweet or spicy chorizo (yes, it’s the pork sausage made in Mexico and New York) or with thick dollops of caramel sauce and accompanied by other sweet Venezuelan sweets. They are best enjoyed with peanut butter — and some cream cheese — on top. — Melissa Clark*
+*Cocoa beans are called cacao and it's a banana thing that makes it a pretty thing to eat. In Venezuela, it's called Platanos Maduros, or Fried Plantains -- the trademarked name for this fried sweet treat. The fried plantains are coated in batter and fried in oil to get that nice crunchy coating. They are usually topped with either sweet or spicy chorizo (yes, it's the pork sausage made in Mexico and New York) or with thick dollops of caramel sauce and accompanied by other sweet Venezuelan sweets. They are best enjoyed with peanut butter -- and some cream cheese -- on top. -- Melissa Clark*
 
-*Reprinted with permission from Sweet, a book of rare Venezuelan sweets, a work of creative nonfiction published by Canaría Rossa.*
+*Reprinted with permission from Sweet, a book of rare Venezuelan sweets, a work of creative nonfiction published by CanarÃƒÂ­a Rossa.*
 
 *Platanos Maduros (fried yellow plantains)*
 
@@ -90,11 +90,11 @@ Juice of 1 small lime
 
 1. To make the dough, keep the plantains for cooking (closing their skins allows the plantains to cook faster and stay at least partially firm, without creating a rustlike appearance) in a microwave-safe bowl, not touching water.
 
-1. Drain the liquid from the sugar and add it to the potato starch and salt in a food processor, along with the melted butter. Process until you have a fine, crumbly dough, stopping once to remove the motor and add salt. Transfer to a bowl, and add the salted butter, remaining 4 ounces of salted butter, and 1 tablespoon of water. Mix thoroughly with a rubber spatula and pat into a shape as thin as you can — about 2/3-inch thick. Wrap in plastic and refrigerate for at least 2 hours or up to 24 hours.
+1. Drain the liquid from the sugar and add it to the potato starch and salt in a food processor, along with the melted butter. Process until you have a fine, crumbly dough, stopping once to remove the motor and add salt. Transfer to a bowl, and add the salted butter, remaining 4 ounces of salted butter, and 1 tablespoon of water. Mix thoroughly with a rubber spatula and pat into a shape as thin as you can -- about 2/3-inch thick. Wrap in plastic and refrigerate for at least 2 hours or up to 24 hours.
 
 1. To prepare the filling, cover the pork sausage with water and bring to a boil. Reduce the heat to low, cover, and simmer for 30 minutes. Drain the sausage and set aside.
 
-1. Prepare the filling in an oven-safe bowl. Arrange the plantains in a single layer on a rimmed baking sheet. Sprinkle the pork sausage on top of the plantains, taking care to moisten the pulp on both sides with the sausage. (If you have chopped sausage separately, place it into a bowl, cover with plastic wrap, and refrigerate it while you prepare the filling and platanos). Sprinkle the pig’s cheek with black pepper and the onion skins. Sprinkle the bacon over the pork sausage and onions. Layer the plantains and bacon (with half of the pork sausage, if you have chopped it, and half of the pork sausage, if you don’t) on top of the pork sausage and onions.
+1. Prepare the filling in an oven-safe bowl. Arrange the plantains in a single layer on a rimmed baking sheet. Sprinkle the pork sausage on top of the plantains, taking care to moisten the pulp on both sides with the sausage. (If you have chopped sausage separately, place it into a bowl, cover with plastic wrap, and refrigerate it while you prepare the filling and platanos). Sprinkle the pig's cheek with black pepper and the onion skins. Sprinkle the bacon over the pork sausage and onions. Layer the plantains and bacon (with half of the pork sausage, if you have chopped it, and half of the pork sausage, if you don't) on top of the pork sausage and onions.
 
 1. Cover with foil and bake for about 25 to 30 minutes, or until cooked through. Add enough water or vegetable oil to come halfway up the sides of the baking sheet and continue baking for another 5 to 10 minutes, or until the filling is thoroughly heated.
 
@@ -110,4 +110,3 @@ Juice of 1 small lime
 
 1. Note: If you want to add dried papaya or apricots, use a mixture of them for consistency.
 
-1. 

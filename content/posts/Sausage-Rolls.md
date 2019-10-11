@@ -14,13 +14,13 @@ socialImage: "https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KIT
 
 ![](https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KITCHEN1-superJumbo-v2.jpg)
 
-*When hankering for a snack, we don’t have to look far. It is one of the staples of our diets that we are bombarded with advertisements for all sorts of flavors and ingredients — including spicy, hoppy mustard, homemade pizza, crisped-up baked potato bites, and blue cheese. There is no shortage of ways to present this staple, but many simply use frozen, pre-made sausage.*
+*When hankering for a snack, we don't have to look far. It is one of the staples of our diets that we are bombarded with advertisements for all sorts of flavors and ingredients -- including spicy, hoppy mustard, homemade pizza, crisped-up baked potato bites, and blue cheese. There is no shortage of ways to present this staple, but many simply use frozen, pre-made sausage.*
 
-*But so long as the sausage is delicious, homemade sausage rolls are easy to make. Let’s start by defining: Pulled pork is pork, properly sauteed, then slightly warmed to serve, typically with coleslaw, and just enough spiced-up sauce. Spicy sausage rolls, which we do not consider mustard, are made in a similar fashion and are sometimes used to eat at street fairs.*
+*But so long as the sausage is delicious, homemade sausage rolls are easy to make. Let's start by defining: Pulled pork is pork, properly sauteed, then slightly warmed to serve, typically with coleslaw, and just enough spiced-up sauce. Spicy sausage rolls, which we do not consider mustard, are made in a similar fashion and are sometimes used to eat at street fairs.*
 
 *Once the sausage is sliced, we add a cooked egg to create a sandwich-like effect. This is a fun addition to a breakfast sandwich that does not require a lot of work.*
 
-*For perfect “pork” delights, season the rolls with freshly ground black pepper, paprika, a little salt, a bit of pepper, honey, lots of mustard (e.g., Dijon mustard), and beefy herbs.*
+*For perfect "pork" delights, season the rolls with freshly ground black pepper, paprika, a little salt, a bit of pepper, honey, lots of mustard (e.g., Dijon mustard), and beefy herbs.*
 
 *Sausage Rolls*
 
@@ -54,12 +54,11 @@ socialImage: "https://static01.nyt.com/images/2014/12/24/dining/24KITCHEN1/24KIT
 
 1. With your existing subscription, New York Times subscribers get:
 
-1. •Every Thursday morning, thousands of new recipes — from breakfast to dessert to entertaining to kitchen staples — are delivered straight to your inbox.
+1.  * Every Thursday morning, thousands of new recipes -- from breakfast to dessert to entertaining to kitchen staples -- are delivered straight to your inbox.
 
-1. •Everything you need to plan meals and serve family and friends, in one handy, interactive guide.
+1.  * Everything you need to plan meals and serve family and friends, in one handy, interactive guide.
 
-1. •Ad-free shopping on the Food section and hundreds of brands of specialty food and drink, delivered once a month.
+1.  * Ad-free shopping on the Food section and hundreds of brands of specialty food and drink, delivered once a month.
 
 1. Sign up here to receive Great Recipes free weekly.
 
-1. 

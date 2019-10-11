@@ -19,10 +19,6 @@ module.exports = {
       label: 'About',
       path: '/pages/about'
     },
-    {
-      label: 'Contact',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Freshly Generated',

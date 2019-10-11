@@ -33,20 +33,20 @@ Salt and pepper
 
 Kosher salt
 
-� cup (125mL) cornstarch
+Â½ cup (125mL) cornstarch
 
-� cup (125mL) tomato sauce
+Â½ cup (125mL) tomato sauce
 
 * 2 cups (500mL) beef broth
 
-� cup (125mL) tomato paste
+Â½ cup (125mL) tomato paste
 
 * 3 cups (750mL) arugula
 
 * 1 cup (250mL) chopped fresh kale
 ### Directions:
 
-1. 1. Preheat the oven to 350�F (175�C).
+1. 1. Preheat the oven to 350Â°F (175Â°C).
 
 1. 2. Bring a large pot of water to a boil and cook the spaghetti or pasta according to the package directions. Drain. In a medium pan, heat 1 tablespoon of the olive oil over medium heat. Add the garlic and cook for 1 minute, until fragrant. Add the red pepper flakes and the tomatoes, reduce the heat to low and cook for 8 minutes, or until the tomatoes have softened and the liquid is reduced by half. Season with salt.
 
@@ -54,4 +54,3 @@ Kosher salt
 
 1. 4. Pour the sauce over the pasta and toss to coat. Transfer to a baking sheet and top with arugula and kale. Cover and bake in the preheated oven for 30 minutes, or until tender. Remove from the oven and sprinkle the remaining tablespoon of olive oil over the arugula.
 
-1. 

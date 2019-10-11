@@ -16,7 +16,7 @@ socialImage: "https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-
 
 *Clams in a Can*
 
-*At the turn of the 20th century, Clam collars made a splash in the music world as recording artists such as Fats Domino and The Carpenters sang the perfect tune for their song “That One Hour” and recorded by nearly every major artist of the day. Enthusiasts believe that the clams in a can was the first known product of this new gimmick.*
+*At the turn of the 20th century, Clam collars made a splash in the music world as recording artists such as Fats Domino and The Carpenters sang the perfect tune for their song "That One Hour" and recorded by nearly every major artist of the day. Enthusiasts believe that the clams in a can was the first known product of this new gimmick.*
 
 *Today, clams in a can sells worldwide. The canned version contains 10 of the most popular clam species from Brittany to Oregon, including:*
 
@@ -30,11 +30,11 @@ socialImage: "https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-
 
 *Crasson Clams*
 
-*Crasson ‘n’ Turkish Clams*
+*Crasson Ã‚Â‘n' Turkish Clams*
 
 *Croci Clams*
 
-*Don’t forget to pack a can opener with you in the car. At first glance, the clams in a can are a bit inconsistent, but we like the cold attitude of the container. These tart clams are perfect for a picnic, on a bed of gravel, in the backyard, in the sun. Chomp away!*
+*Don't forget to pack a can opener with you in the car. At first glance, the clams in a can are a bit inconsistent, but we like the cold attitude of the container. These tart clams are perfect for a picnic, on a bed of gravel, in the backyard, in the sun. Chomp away!*
 ### Ingredients
 
 :
@@ -86,8 +86,7 @@ socialImage: "https://static01.nyt.com/images/2016/07/24/magazine/24mag-clam-in-
 
 1. Heat up a heavy pan over medium-high heat. Then, add butter, tomatoes, tamari, vinegar, and sugar. When the mixture begins to bubble, add clam powder and 2 tablespoons of water. Then, stir constantly for about 15 minutes. After the mixture thickens, take off the heat and let sit for 5 minutes before serving.
 
-1. For more recipes and answers, subscribe to the Women’s History Month newsletter.
+1. For more recipes and answers, subscribe to the Women's History Month newsletter.
 
 1. Related
 
-1. 

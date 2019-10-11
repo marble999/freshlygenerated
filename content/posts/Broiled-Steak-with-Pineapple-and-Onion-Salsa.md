@@ -21,32 +21,32 @@ socialImage: "https://static01.nyt.com/images/2014/03/28/dining/broiledsteak-sti
 
 :
 
-• 8 ounces flank steak
+ *  8 ounces flank steak
 
-• four cups chopped and drained pineapple
+ *  four cups chopped and drained pineapple
 
-• one pint cooked brown rice
+ *  one pint cooked brown rice
 
-• one pint broccoli florets
+ *  one pint broccoli florets
 
-• one cup cooked and chopped onion
+ *  one cup cooked and chopped onion
 
-• two 6-ounce can of diced green chiles
+ *  two 6-ounce can of diced green chiles
 
-• juice of 1 lime
+ *  juice of 1 lime
 
-• 1 teaspoon fresh grated lime zest
+ *  1 teaspoon fresh grated lime zest
 
-• sea salt to taste
+ *  sea salt to taste
 
-• pepper to taste
+ *  pepper to taste
 ### Directions:
 
 1. Prepare barbecue grill.
 
 1. Boil rice in large saucepan with water, add minced onion and sugar, bring to boil, add diced pineapple, bring to boil, turn off heat and cook until the rice absorbs the pineapple. Drain well.
 
-1. Cut flank steak into med-sized steaks. Brush the steaks lightly with a mixture of 1 ½ teaspoons mustard and 3 tablespoons olive oil.
+1. Cut flank steak into med-sized steaks. Brush the steaks lightly with a mixture of 1 Ã‚Â½ teaspoons mustard and 3 tablespoons olive oil.
 
 1. Meanwhile, in a medium bowl, combine corn, cilantro, potatoes, onion, chiles, lime juice, zest, salt and pepper and toss until well-coated. Spread over cooked rice.
 
@@ -64,4 +64,3 @@ socialImage: "https://static01.nyt.com/images/2014/03/28/dining/broiledsteak-sti
 
 1. Copyright (c) 2019. Lifenews International Inc.
 
-1. 

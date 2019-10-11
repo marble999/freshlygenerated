@@ -17,13 +17,13 @@ socialImage: "https://static01.nyt.com/images/2014/11/05/dining/05KITCHEN/5KITCH
 *Makes 4 servings*
 ### Ingredients
 
-* 1½ lbs. lamb shanks
+* 1Ã‚Â½ lbs. lamb shanks
 
 Salt and freshly ground black pepper
 
-½ cup blanched almonds
+Ã‚Â½ cup blanched almonds
 
-½ cup sliced almonds
+Ã‚Â½ cup sliced almonds
 
 * 2 scallions, trimmed and thinly sliced
 
@@ -31,7 +31,7 @@ Salt and freshly ground black pepper
 
 * 2 tablespoons honey
 
-½ cup all-purpose flour
+Ã‚Â½ cup all-purpose flour
 
 * 1 cup yogurt
 ### Directions
@@ -42,7 +42,7 @@ Salt and freshly ground black pepper
 
 1. 3. Pour all the marinade into the meat and gently transfer to a 2-quart baking dish. Cover with plastic wrap and refrigerate overnight.
 
-1. 4. On the day of the lamb shanks’ cooking, place the lamb shanks in the middle of a pan and sprinkle with salt and pepper. Cover with aluminum foil and bake in a preheated 350°F oven for 4 to 5 hours, or until the meat is perfectly cooked. Remove the lamb shanks from the oven and let them rest for 10 minutes.
+1. 4. On the day of the lamb shanks' cooking, place the lamb shanks in the middle of a pan and sprinkle with salt and pepper. Cover with aluminum foil and bake in a preheated 350Ã‚Â°F oven for 4 to 5 hours, or until the meat is perfectly cooked. Remove the lamb shanks from the oven and let them rest for 10 minutes.
 
 1. 5. Meanwhile, use a small potato masher to mash the almonds and roasted almonds with the garlic. Set aside.
 
@@ -50,6 +50,5 @@ Salt and freshly ground black pepper
 
 1. 7. Spoon the creamy almonds mixture over the lamb shanks and serve hot or at room temperature.
 
-1. Adapted from Rose Levy Beranbaum’s book The Complete Greek Cookbook, published by Ten Speed Press.
+1. Adapted from Rose Levy Beranbaum's book The Complete Greek Cookbook, published by Ten Speed Press.
 
-1. 

@@ -53,7 +53,7 @@ Pesto (see recipe below)
 
 Toast the pumpkin seeds and season with salt. Toss with the olive oil and set aside.
 
-Heat 1 tablespoon oil in a large saut� pan over medium-high heat. Add the tomatoes, green pepper, red pepper, and orange pepper and saut� until they start to soften, about 2 minutes. Add the scallions and saut� for 1 minute, and stir in the pesto. Season with salt.
+Heat 1 tablespoon oil in a large sautÃ© pan over medium-high heat. Add the tomatoes, green pepper, red pepper, and orange pepper and sautÃ© until they start to soften, about 2 minutes. Add the scallions and sautÃ© for 1 minute, and stir in the pesto. Season with salt.
 
 Divide the greens among plates and top with the roasted vegetables. Drizzle with the remaining oil, drizzle with the pesto, and sprinkle with the toasted pumpkin seeds. Serve immediately.
 
@@ -80,4 +80,3 @@ Ingredients
 
 1. Place the basil, mint, Parmesan, Romano, pine nuts, olive oil, salt, and pepper in a food processor and pulse until thoroughly combined.
 
-1. 

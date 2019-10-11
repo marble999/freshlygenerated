@@ -14,7 +14,7 @@ socialImage: "https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26J
 
 ![](https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26JPCASSEROLE4-superJumbo.jpg)
 
-*Sometimes the sight of a giant beet can make you want to shove it down your throat like a ball of white dirt, and that’s fine. But even if you can’t stomach a juicy, crunchy swashbuckler, there’s a healthier way to eat this spear. Don’t let its scary appearance deter you: They’re actually fiber-rich, too. I have one big reason to trust their chewy consistency — I lived in a town with beet fields for a few years while college studying for a baking class. But they’re surprisingly versatile: Sauté them with garlic and rosemary until translucent, drizzle with brown butter, and garnish with a slice of avocado to remind you how easy beet dishes are. And just before you eat, sprinkle them with feta, rosemary, and a dollop of balsamic vinegar.*
+*Sometimes the sight of a giant beet can make you want to shove it down your throat like a ball of white dirt, and that's fine. But even if you can't stomach a juicy, crunchy swashbuckler, there's a healthier way to eat this spear. Don't let its scary appearance deter you: They're actually fiber-rich, too. I have one big reason to trust their chewy consistency -- I lived in a town with beet fields for a few years while college studying for a baking class. But they're surprisingly versatile: SautÃƒÂ© them with garlic and rosemary until translucent, drizzle with brown butter, and garnish with a slice of avocado to remind you how easy beet dishes are. And just before you eat, sprinkle them with feta, rosemary, and a dollop of balsamic vinegar.*
 
 *Serves: 4-6*
 
@@ -54,7 +54,7 @@ socialImage: "https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26J
 
 1. Slice the beets and top each with dollops of yogurt, a slice of cheese, and a few greens, such as spinach, mustard greens, or chard. Toss lightly and serve.
 
-1. Tip: For a more breadcrumb-intensive technique, place the beets in a brown paper bag and bake in a 400°F oven for 25 minutes.
+1. Tip: For a more breadcrumb-intensive technique, place the beets in a brown paper bag and bake in a 400Ã‚Â°F oven for 25 minutes.
 
 1. Breadcrumbs
 
@@ -80,8 +80,7 @@ socialImage: "https://static01.nyt.com/images/2014/03/26/dining/26CASSEROLE4/26J
 
 1. In a large bowl, whisk together the brown sugar, flax seeds, baking powder, salt, flour, and cornstarch. Add the butter and stir until the mixture has crumbly texture. Refrigerate for about 30 minutes or up to overnight before proceeding.
 
-1. Melissa Clark is a classically trained pastry chef, a seasoned writer, and a lover of anything great. When she’s not baking breads and making my mother proud, she’s baking, writing, and drinking coffee, preferably in between meetings at Zocalo Public Square in downtown Manhattan.
+1. Melissa Clark is a classically trained pastry chef, a seasoned writer, and a lover of anything great. When she's not baking breads and making my mother proud, she's baking, writing, and drinking coffee, preferably in between meetings at Zocalo Public Square in downtown Manhattan.
 
 1. Related
 
-1. 
